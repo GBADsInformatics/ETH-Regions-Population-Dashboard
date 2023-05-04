@@ -1,0 +1,1985 @@
+region,species,year,population
+Addis Ababa,cattle,2003,0
+Addis Ababa,cattle,2004,0
+Addis Ababa,cattle,2005,0
+Addis Ababa,cattle,2006,0
+Addis Ababa,cattle,2007,0
+Addis Ababa,cattle,2008,0
+Addis Ababa,cattle,2009,0
+Addis Ababa,cattle,2010,0
+Addis Ababa,cattle,2011,0
+Addis Ababa,cattle,2012,0
+Addis Ababa,cattle,2013,0
+Addis Ababa,cattle,2014,0
+Addis Ababa,cattle,2015,0
+Addis Ababa,cattle,2016,0
+Addis Ababa,cattle,2017,0
+Addis Ababa,cattle,2018,0
+Addis Ababa,cattle,2019,0
+Addis Ababa,cattle,2020,0
+Afar,cattle,2003,385805
+Afar,cattle,2004,327373
+Afar,cattle,2005,317108
+Afar,cattle,2006,447980
+Afar,cattle,2007,401167
+Afar,cattle,2008,473270
+Afar,cattle,2009,550361
+Afar,cattle,2010,899078
+Afar,cattle,2011,910797
+Afar,cattle,2012,1190166
+Afar,cattle,2013,1359908
+Afar,cattle,2014,1580313
+Afar,cattle,2015,1495054
+Afar,cattle,2016,1315917
+Afar,cattle,2017,1317139
+Afar,cattle,2018,1791565
+Afar,cattle,2019,1952394
+Afar,cattle,2020,1959185
+Amhara,cattle,2003,9592252
+Amhara,cattle,2004,9694803
+Amhara,cattle,2005,10077301
+Amhara,cattle,2006,10483052
+Amhara,cattle,2007,11757295
+Amhara,cattle,2008,12748995
+Amhara,cattle,2009,12746768
+Amhara,cattle,2010,13371486
+Amhara,cattle,2011,13354797
+Amhara,cattle,2012,13766923
+Amhara,cattle,2013,14225988
+Amhara,cattle,2014,14710911
+Amhara,cattle,2015,15454923
+Amhara,cattle,2016,15982541
+Amhara,cattle,2017,16148390
+Amhara,cattle,2018,16407220
+Amhara,cattle,2019,16318446
+Amhara,cattle,2020,17262804
+Benishangul Gumz,cattle,2003,281496
+Benishangul Gumz,cattle,2004,307816
+Benishangul Gumz,cattle,2005,350390
+Benishangul Gumz,cattle,2006,322663
+Benishangul Gumz,cattle,2007,363590
+Benishangul Gumz,cattle,2008,411998
+Benishangul Gumz,cattle,2009,421603
+Benishangul Gumz,cattle,2010,502857
+Benishangul Gumz,cattle,2011,552106
+Benishangul Gumz,cattle,2012,558551
+Benishangul Gumz,cattle,2013,604563
+Benishangul Gumz,cattle,2014,659587
+Benishangul Gumz,cattle,2015,726265
+Benishangul Gumz,cattle,2016,777915
+Benishangul Gumz,cattle,2017,795024
+Benishangul Gumz,cattle,2018,626343
+Benishangul Gumz,cattle,2019,626537
+Benishangul Gumz,cattle,2020,592228
+Dire Dawa,cattle,2003,45529
+Dire Dawa,cattle,2004,40393
+Dire Dawa,cattle,2005,38439
+Dire Dawa,cattle,2006,38955
+Dire Dawa,cattle,2007,49838
+Dire Dawa,cattle,2008,48812
+Dire Dawa,cattle,2009,46699
+Dire Dawa,cattle,2010,43128
+Dire Dawa,cattle,2011,49465
+Dire Dawa,cattle,2012,47153
+Dire Dawa,cattle,2013,45030
+Dire Dawa,cattle,2014,49880
+Dire Dawa,cattle,2015,52716
+Dire Dawa,cattle,2016,52421
+Dire Dawa,cattle,2017,51958
+Dire Dawa,cattle,2018,51422
+Dire Dawa,cattle,2019,67364
+Dire Dawa,cattle,2020,78022
+Gambela,cattle,2003,0
+Gambela,cattle,2004,0
+Gambela,cattle,2005,0
+Gambela,cattle,2006,0
+Gambela,cattle,2007,212591
+Gambela,cattle,2008,130015
+Gambela,cattle,2009,220772
+Gambela,cattle,2010,253389
+Gambela,cattle,2011,251367
+Gambela,cattle,2012,277050
+Gambela,cattle,2013,276246
+Gambela,cattle,2014,278584
+Gambela,cattle,2015,280561
+Gambela,cattle,2016,282654
+Gambela,cattle,2017,285102
+Gambela,cattle,2018,290616
+Gambela,cattle,2019,327801
+Gambela,cattle,2020,321722
+Harari,cattle,2003,32736
+Harari,cattle,2004,31732
+Harari,cattle,2005,37395
+Harari,cattle,2006,37518
+Harari,cattle,2007,40775
+Harari,cattle,2008,44199
+Harari,cattle,2009,45416
+Harari,cattle,2010,52245
+Harari,cattle,2011,48331
+Harari,cattle,2012,52832
+Harari,cattle,2013,57258
+Harari,cattle,2014,62401
+Harari,cattle,2015,68240
+Harari,cattle,2016,69387
+Harari,cattle,2017,71277
+Harari,cattle,2018,69933
+Harari,cattle,2019,69615
+Harari,cattle,2020,86056
+Oromoa,cattle,2003,16806160
+Oromoa,cattle,2004,17214537
+Oromoa,cattle,2005,18247970
+Oromoa,cattle,2006,19663215
+Oromoa,cattle,2007,21410978
+Oromoa,cattle,2008,22453335
+Oromoa,cattle,2009,22475349
+Oromoa,cattle,2010,22958489
+Oromoa,cattle,2011,22481530
+Oromoa,cattle,2012,22354053
+Oromoa,cattle,2013,22505219
+Oromoa,cattle,2014,22925730
+Oromoa,cattle,2015,23336510
+Oromoa,cattle,2016,24144361
+Oromoa,cattle,2017,24432974
+Oromoa,cattle,2018,24508504
+Oromoa,cattle,2019,25031068
+Oromoa,cattle,2020,25506409
+SNNPR,cattle,2003,7881688
+SNNPR,cattle,2004,7938489
+SNNPR,cattle,2005,8043173
+SNNPR,cattle,2006,8454113
+SNNPR,cattle,2007,9574677
+SNNPR,cattle,2008,9263223
+SNNPR,cattle,2009,10543129
+SNNPR,cattle,2010,11060053
+SNNPR,cattle,2011,10437409
+SNNPR,cattle,2012,11080824
+SNNPR,cattle,2013,11044147
+SNNPR,cattle,2014,11215636
+SNNPR,cattle,2015,11171151
+SNNPR,cattle,2016,11485147
+SNNPR,cattle,2017,11883548
+SNNPR,cattle,2018,12324739
+SNNPR,cattle,2019,12404963
+SNNPR,cattle,2020,11128017
+Somali,cattle,2003,462958
+Somali,cattle,2004,459715
+Somali,cattle,2005,520902
+Somali,cattle,2006,608206
+Somali,cattle,2007,640357
+Somali,cattle,2008,620583
+Somali,cattle,2009,590976
+Somali,cattle,2010,610514
+Somali,cattle,2011,503821
+Somali,cattle,2012,597427
+Somali,cattle,2013,610898
+Somali,cattle,2014,645166
+Somali,cattle,2015,631059
+Somali,cattle,2016,584983
+Somali,cattle,2017,589503
+Somali,cattle,2018,589503
+Somali,cattle,2019,3646940
+Somali,cattle,2020,6034887
+Tigray,cattle,2003,2546790
+Tigray,cattle,2004,2713747
+Tigray,cattle,2005,2622166
+Tigray,cattle,2006,2922407
+Tigray,cattle,2007,3119407
+Tigray,cattle,2008,3103468
+Tigray,cattle,2009,3242931
+Tigray,cattle,2010,3630957
+Tigray,cattle,2011,3539395
+Tigray,cattle,2012,4065082
+Tigray,cattle,2013,4298023
+Tigray,cattle,2014,4578181
+Tigray,cattle,2015,4613475
+Tigray,cattle,2016,4791341
+Tigray,cattle,2017,4817104
+Tigray,cattle,2018,4850412
+Tigray,cattle,2019,4908964
+Tigray,cattle,2020,4908964
+Addis Ababa,dairy cows,2003,13851
+Addis Ababa,dairy cows,2004,1072
+Addis Ababa,dairy cows,2005,3647
+Addis Ababa,dairy cows,2006,3255
+Addis Ababa,dairy cows,2007,0
+Addis Ababa,dairy cows,2008,0
+Addis Ababa,dairy cows,2009,0
+Addis Ababa,dairy cows,2010,0
+Addis Ababa,dairy cows,2011,0
+Addis Ababa,dairy cows,2012,0
+Addis Ababa,dairy cows,2013,0
+Addis Ababa,dairy cows,2014,0
+Addis Ababa,dairy cows,2015,0
+Addis Ababa,dairy cows,2016,0
+Addis Ababa,dairy cows,2017,0
+Addis Ababa,dairy cows,2018,0
+Addis Ababa,dairy cows,2019,0
+Addis Ababa,dairy cows,2020,0
+Afar,dairy cows,2003,115597
+Afar,dairy cows,2004,87592
+Afar,dairy cows,2005,97006
+Afar,dairy cows,2006,120528
+Afar,dairy cows,2007,95711
+Afar,dairy cows,2008,90993
+Afar,dairy cows,2009,150614
+Afar,dairy cows,2010,142178
+Afar,dairy cows,2011,203168
+Afar,dairy cows,2012,218395
+Afar,dairy cows,2013,277016
+Afar,dairy cows,2014,238211
+Afar,dairy cows,2015,273468
+Afar,dairy cows,2016,271143
+Afar,dairy cows,2017,473826
+Afar,dairy cows,2018,358342
+Afar,dairy cows,2019,172330
+Afar,dairy cows,2020,97996
+Amhara,dairy cows,2003,654102
+Amhara,dairy cows,2004,527545
+Amhara,dairy cows,2005,447852
+Amhara,dairy cows,2006,358450
+Amhara,dairy cows,2007,384088
+Amhara,dairy cows,2008,464088
+Amhara,dairy cows,2009,358854
+Amhara,dairy cows,2010,607209
+Amhara,dairy cows,2011,450778
+Amhara,dairy cows,2012,288465
+Amhara,dairy cows,2013,388387
+Amhara,dairy cows,2014,252292
+Amhara,dairy cows,2015,348645
+Amhara,dairy cows,2016,261606
+Amhara,dairy cows,2017,300956
+Amhara,dairy cows,2018,397585
+Amhara,dairy cows,2019,525918
+Amhara,dairy cows,2020,475381
+Benishangul Gumz,dairy cows,2003,26175
+Benishangul Gumz,dairy cows,2004,35996
+Benishangul Gumz,dairy cows,2005,23972
+Benishangul Gumz,dairy cows,2006,19347
+Benishangul Gumz,dairy cows,2007,33774
+Benishangul Gumz,dairy cows,2008,41711
+Benishangul Gumz,dairy cows,2009,25020
+Benishangul Gumz,dairy cows,2010,8045
+Benishangul Gumz,dairy cows,2011,62011
+Benishangul Gumz,dairy cows,2012,36405
+Benishangul Gumz,dairy cows,2013,49032
+Benishangul Gumz,dairy cows,2014,31801
+Benishangul Gumz,dairy cows,2015,12682
+Benishangul Gumz,dairy cows,2016,37948
+Benishangul Gumz,dairy cows,2017,15158
+Benishangul Gumz,dairy cows,2018,50331
+Benishangul Gumz,dairy cows,2019,54589
+Benishangul Gumz,dairy cows,2020,43797
+Dire Dawa,dairy cows,2003,17340
+Dire Dawa,dairy cows,2004,13962
+Dire Dawa,dairy cows,2005,5432
+Dire Dawa,dairy cows,2006,12978
+Dire Dawa,dairy cows,2007,8791
+Dire Dawa,dairy cows,2008,10250
+Dire Dawa,dairy cows,2009,2663545
+Dire Dawa,dairy cows,2010,3154
+Dire Dawa,dairy cows,2011,1755
+Dire Dawa,dairy cows,2012,1558
+Dire Dawa,dairy cows,2013,3639
+Dire Dawa,dairy cows,2014,3487
+Dire Dawa,dairy cows,2015,1956
+Dire Dawa,dairy cows,2016,2856
+Dire Dawa,dairy cows,2017,4652
+Dire Dawa,dairy cows,2018,5856
+Dire Dawa,dairy cows,2019,5148
+Dire Dawa,dairy cows,2020,5442
+Gambela,dairy cows,2003,0
+Gambela,dairy cows,2004,0
+Gambela,dairy cows,2005,0
+Gambela,dairy cows,2006,0
+Gambela,dairy cows,2007,62398
+Gambela,dairy cows,2008,30774
+Gambela,dairy cows,2009,27758
+Gambela,dairy cows,2010,23346
+Gambela,dairy cows,2011,49421
+Gambela,dairy cows,2012,76571
+Gambela,dairy cows,2013,39984
+Gambela,dairy cows,2014,20862
+Gambela,dairy cows,2015,15732
+Gambela,dairy cows,2016,19834
+Gambela,dairy cows,2017,22026
+Gambela,dairy cows,2018,39620
+Gambela,dairy cows,2019,0
+Gambela,dairy cows,2020,29237
+Harari,dairy cows,2003,8177
+Harari,dairy cows,2004,6703
+Harari,dairy cows,2005,8352
+Harari,dairy cows,2006,6866
+Harari,dairy cows,2007,5885
+Harari,dairy cows,2008,6658
+Harari,dairy cows,2009,4872
+Harari,dairy cows,2010,4910
+Harari,dairy cows,2011,4301
+Harari,dairy cows,2012,4163
+Harari,dairy cows,2013,5291
+Harari,dairy cows,2014,7198
+Harari,dairy cows,2015,5622
+Harari,dairy cows,2016,8092
+Harari,dairy cows,2017,4471
+Harari,dairy cows,2018,5947
+Harari,dairy cows,2019,3887
+Harari,dairy cows,2020,5886
+Oromoa,dairy cows,2003,3583905
+Oromoa,dairy cows,2004,2610491
+Oromoa,dairy cows,2005,3071998
+Oromoa,dairy cows,2006,3141683
+Oromoa,dairy cows,2007,3418794
+Oromoa,dairy cows,2008,3366601
+Oromoa,dairy cows,2009,3336552
+Oromoa,dairy cows,2010,3279189
+Oromoa,dairy cows,2011,3045240
+Oromoa,dairy cows,2012,2661194
+Oromoa,dairy cows,2013,2577541
+Oromoa,dairy cows,2014,2400051
+Oromoa,dairy cows,2015,2656014
+Oromoa,dairy cows,2016,3093286
+Oromoa,dairy cows,2017,5387032
+Oromoa,dairy cows,2018,2789712
+Oromoa,dairy cows,2019,2783410
+Oromoa,dairy cows,2020,2734395
+SNNPR,dairy cows,2003,2446775
+SNNPR,dairy cows,2004,2455341
+SNNPR,dairy cows,2005,2396684
+SNNPR,dairy cows,2006,2522505
+SNNPR,dairy cows,2007,2962377
+SNNPR,dairy cows,2008,2749522
+SNNPR,dairy cows,2009,2663545
+SNNPR,dairy cows,2010,3268266
+SNNPR,dairy cows,2011,3188829
+SNNPR,dairy cows,2012,3282414
+SNNPR,dairy cows,2013,3164102
+SNNPR,dairy cows,2014,3322833
+SNNPR,dairy cows,2015,3217845
+SNNPR,dairy cows,2016,3337107
+SNNPR,dairy cows,2017,6571249
+SNNPR,dairy cows,2018,3292419
+SNNPR,dairy cows,2019,3066969
+SNNPR,dairy cows,2020,2564905
+Somali,dairy cows,2003,81721
+Somali,dairy cows,2004,84588
+Somali,dairy cows,2005,117736
+Somali,dairy cows,2006,79991
+Somali,dairy cows,2007,129702
+Somali,dairy cows,2008,110924
+Somali,dairy cows,2009,99312
+Somali,dairy cows,2010,78700
+Somali,dairy cows,2011,66372
+Somali,dairy cows,2012,128660
+Somali,dairy cows,2013,112834
+Somali,dairy cows,2014,151206
+Somali,dairy cows,2015,149344
+Somali,dairy cows,2016,95109
+Somali,dairy cows,2017,195222
+Somali,dairy cows,2018,104479
+Somali,dairy cows,2019,364825
+Somali,dairy cows,2020,675676
+Tigray,dairy cows,2003,138935
+Tigray,dairy cows,2004,73119
+Tigray,dairy cows,2005,44961
+Tigray,dairy cows,2006,40340
+Tigray,dairy cows,2007,96509
+Tigray,dairy cows,2008,150483
+Tigray,dairy cows,2009,54211
+Tigray,dairy cows,2010,32241
+Tigray,dairy cows,2011,100603
+Tigray,dairy cows,2012,49180
+Tigray,dairy cows,2013,57640
+Tigray,dairy cows,2014,69422
+Tigray,dairy cows,2015,60909
+Tigray,dairy cows,2016,28133
+Tigray,dairy cows,2017,104526
+Tigray,dairy cows,2018,46328
+Tigray,dairy cows,2019,171260
+Tigray,dairy cows,2020,171260
+Addis Ababa,milking cows,2003,11435
+Addis Ababa,milking cows,2004,3116
+Addis Ababa,milking cows,2005,4422
+Addis Ababa,milking cows,2006,5153
+Addis Ababa,milking cows,2007,0
+Addis Ababa,milking cows,2008,0
+Addis Ababa,milking cows,2009,0
+Addis Ababa,milking cows,2010,0
+Addis Ababa,milking cows,2011,0
+Addis Ababa,milking cows,2012,0
+Addis Ababa,milking cows,2013,0
+Addis Ababa,milking cows,2014,0
+Addis Ababa,milking cows,2015,0
+Addis Ababa,milking cows,2016,0
+Addis Ababa,milking cows,2017,0
+Addis Ababa,milking cows,2018,0
+Addis Ababa,milking cows,2019,0
+Addis Ababa,milking cows,2020,0
+Afar,milking cows,2003,96995
+Afar,milking cows,2004,95889
+Afar,milking cows,2005,77915
+Afar,milking cows,2006,96756
+Afar,milking cows,2007,97680
+Afar,milking cows,2008,125046
+Afar,milking cows,2009,128042
+Afar,milking cows,2010,181179
+Afar,milking cows,2011,225679
+Afar,milking cows,2012,274758
+Afar,milking cows,2013,360269
+Afar,milking cows,2014,373806
+Afar,milking cows,2015,375773
+Afar,milking cows,2016,394715
+Afar,milking cows,2017,787932
+Afar,milking cows,2018,541829
+Afar,milking cows,2019,527842
+Afar,milking cows,2020,527307
+Amhara,milking cows,2003,1835603
+Amhara,milking cows,2004,1634271
+Amhara,milking cows,2005,1656969
+Amhara,milking cows,2006,1831190
+Amhara,milking cows,2007,2007887
+Amhara,milking cows,2008,2128570
+Amhara,milking cows,2009,2150823
+Amhara,milking cows,2010,2155132
+Amhara,milking cows,2011,2244552
+Amhara,milking cows,2012,2380295
+Amhara,milking cows,2013,2267727
+Amhara,milking cows,2014,2521957
+Amhara,milking cows,2015,2769985
+Amhara,milking cows,2016,2728753
+Amhara,milking cows,2017,5828041
+Amhara,milking cows,2018,2891417
+Amhara,milking cows,2019,2657769
+Amhara,milking cows,2020,3006542
+Benishangul Gumz,milking cows,2003,68014
+Benishangul Gumz,milking cows,2004,63943
+Benishangul Gumz,milking cows,2005,71906
+Benishangul Gumz,milking cows,2006,69038
+Benishangul Gumz,milking cows,2007,76358
+Benishangul Gumz,milking cows,2008,87110
+Benishangul Gumz,milking cows,2009,85517
+Benishangul Gumz,milking cows,2010,102032
+Benishangul Gumz,milking cows,2011,94065
+Benishangul Gumz,milking cows,2012,104514
+Benishangul Gumz,milking cows,2013,110074
+Benishangul Gumz,milking cows,2014,118653
+Benishangul Gumz,milking cows,2015,147581
+Benishangul Gumz,milking cows,2016,146967
+Benishangul Gumz,milking cows,2017,353022
+Benishangul Gumz,milking cows,2018,140554
+Benishangul Gumz,milking cows,2019,126896
+Benishangul Gumz,milking cows,2020,121926
+Dire Dawa,milking cows,2003,10550
+Dire Dawa,milking cows,2004,9796
+Dire Dawa,milking cows,2005,9161
+Dire Dawa,milking cows,2006,9972
+Dire Dawa,milking cows,2007,12797
+Dire Dawa,milking cows,2008,12446
+Dire Dawa,milking cows,2009,2076458
+Dire Dawa,milking cows,2010,9030
+Dire Dawa,milking cows,2011,12350
+Dire Dawa,milking cows,2012,11280
+Dire Dawa,milking cows,2013,10882
+Dire Dawa,milking cows,2014,12658
+Dire Dawa,milking cows,2015,12916
+Dire Dawa,milking cows,2016,10854
+Dire Dawa,milking cows,2017,27112
+Dire Dawa,milking cows,2018,13384
+Dire Dawa,milking cows,2019,15478
+Dire Dawa,milking cows,2019,15478
+Dire Dawa,milking cows,2020,21421
+Gambela,milking cows,2003,0
+Gambela,milking cows,2004,0
+Gambela,milking cows,2005,0
+Gambela,milking cows,2006,0
+Gambela,milking cows,2007,47588
+Gambela,milking cows,2008,32815
+Gambela,milking cows,2009,38436
+Gambela,milking cows,2010,85525
+Gambela,milking cows,2011,61725
+Gambela,milking cows,2012,69975
+Gambela,milking cows,2013,68486
+Gambela,milking cows,2014,74947
+Gambela,milking cows,2015,70383
+Gambela,milking cows,2016,59271
+Gambela,milking cows,2017,125813
+Gambela,milking cows,2018,75786
+Gambela,milking cows,2019,68609
+Gambela,milking cows,2020,61228
+Harari,milking cows,2003,8527
+Harari,milking cows,2004,8821
+Harari,milking cows,2005,9678
+Harari,milking cows,2006,10719
+Harari,milking cows,2007,10577
+Harari,milking cows,2008,11695
+Harari,milking cows,2009,11132
+Harari,milking cows,2010,13291
+Harari,milking cows,2011,12293
+Harari,milking cows,2012,12266
+Harari,milking cows,2013,14971
+Harari,milking cows,2014,15206
+Harari,milking cows,2015,15184
+Harari,milking cows,2016,17130
+Harari,milking cows,2017,34053
+Harari,milking cows,2018,16911
+Harari,milking cows,2019,16503
+Harari,milking cows,2020,20515
+Oromoa,milking cows,2003,4022286
+Oromoa,milking cows,2004,3633003
+Oromoa,milking cows,2005,3800967
+Oromoa,milking cows,2006,4291772
+Oromoa,milking cows,2007,4558824
+Oromoa,milking cows,2008,4560153
+Oromoa,milking cows,2009,4395333
+Oromoa,milking cows,2010,4726782
+Oromoa,milking cows,2011,4650990
+Oromoa,milking cows,2012,4452181
+Oromoa,milking cows,2013,4460397
+Oromoa,milking cows,2014,4622194
+Oromoa,milking cows,2015,4558785
+Oromoa,milking cows,2016,4830322
+Oromoa,milking cows,2017,9995854
+Oromoa,milking cows,2018,5015413
+Oromoa,milking cows,2019,4962696
+Oromoa,milking cows,2020,5200135
+SNNPR,milking cows,2003,2091611
+SNNPR,milking cows,2004,1979081
+SNNPR,milking cows,2005,1932274
+SNNPR,milking cows,2006,2042608
+SNNPR,milking cows,2007,2317106
+SNNPR,milking cows,2008,2194332
+SNNPR,milking cows,2009,2076458
+SNNPR,milking cows,2010,2635612
+SNNPR,milking cows,2011,2484993
+SNNPR,milking cows,2012,2538883
+SNNPR,milking cows,2013,2554729
+SNNPR,milking cows,2014,2597562
+SNNPR,milking cows,2015,2397036
+SNNPR,milking cows,2016,2683643
+SNNPR,milking cows,2017,5559890
+SNNPR,milking cows,2018,2675549
+SNNPR,milking cows,2019,2804825
+SNNPR,milking cows,2020,2721638
+Somali,milking cows,2003,108913
+Somali,milking cows,2004,117035
+Somali,milking cows,2005,137293
+Somali,milking cows,2006,181967
+Somali,milking cows,2007,175052
+Somali,milking cows,2008,164216
+Somali,milking cows,2009,138569
+Somali,milking cows,2010,142301
+Somali,milking cows,2011,136184
+Somali,milking cows,2012,161204
+Somali,milking cows,2013,155151
+Somali,milking cows,2014,191320
+Somali,milking cows,2015,162637
+Somali,milking cows,2016,136362
+Somali,milking cows,2017,299279
+Somali,milking cows,2018,149639
+Somali,milking cows,2019,616028
+Somali,milking cows,2020,1814376
+Tigray,milking cows,2003,458615
+Tigray,milking cows,2004,503193
+Tigray,milking cows,2005,483460
+Tigray,milking cows,2006,557254
+Tigray,milking cows,2007,619254
+Tigray,milking cows,2008,602977
+Tigray,milking cows,2009,592757
+Tigray,milking cows,2010,625900
+Tigray,milking cows,2011,654948
+Tigray,milking cows,2012,706128
+Tigray,milking cows,2013,728969
+Tigray,milking cows,2014,853667
+Tigray,milking cows,2015,816209
+Tigray,milking cows,2016,825162
+Tigray,milking cows,2017,1768814
+Tigray,milking cows,2018,884552
+Tigray,milking cows,2019,778498
+Tigray,milking cows,2020,778498
+Addis Ababa,sheep,2003,0
+Addis Ababa,sheep,2004,0
+Addis Ababa,sheep,2005,0
+Addis Ababa,sheep,2006,0
+Addis Ababa,sheep,2007,0
+Addis Ababa,sheep,2008,0
+Addis Ababa,sheep,2009,0
+Addis Ababa,sheep,2010,0
+Addis Ababa,sheep,2011,0
+Addis Ababa,sheep,2012,0
+Addis Ababa,sheep,2013,0
+Addis Ababa,sheep,2014,0
+Addis Ababa,sheep,2015,0
+Addis Ababa,sheep,2016,0
+Addis Ababa,sheep,2017,0
+Addis Ababa,sheep,2018,0
+Addis Ababa,sheep,2019,0
+Addis Ababa,sheep,2020,0
+Afar,sheep,2003,238667
+Afar,sheep,2004,196385
+Afar,sheep,2005,156880
+Afar,sheep,2006,247597
+Afar,sheep,2007,353418
+Afar,sheep,2008,403255
+Afar,sheep,2009,603673
+Afar,sheep,2010,990378
+Afar,sheep,2011,1042163
+Afar,sheep,2012,916353
+Afar,sheep,2013,1474618
+Afar,sheep,2014,1665727
+Afar,sheep,2015,1732090
+Afar,sheep,2016,1729159
+Afar,sheep,2017,2081955
+Afar,sheep,2018,4474903
+Afar,sheep,2019,4040176
+Afar,sheep,2020,4476485
+Amhara,sheep,2003,6116336
+Amhara,sheep,2004,6390779
+Amhara,sheep,2005,7530518
+Amhara,sheep,2006,8235904
+Amhara,sheep,2007,9469746
+Amhara,sheep,2008,8987694
+Amhara,sheep,2009,8596993
+Amhara,sheep,2010,8679879
+Amhara,sheep,2011,8227862
+Amhara,sheep,2012,8825061
+Amhara,sheep,2013,8518066
+Amhara,sheep,2014,10024277
+Amhara,sheep,2015,9797248
+Amhara,sheep,2016,10735926
+Amhara,sheep,2017,11086083
+Amhara,sheep,2018,9650637
+Amhara,sheep,2019,10386223
+Amhara,sheep,2020,10391582
+Benishangul Gumz,sheep,2003,58027
+Benishangul Gumz,sheep,2004,65794
+Benishangul Gumz,sheep,2005,68931
+Benishangul Gumz,sheep,2006,89055
+Benishangul Gumz,sheep,2007,85274
+Benishangul Gumz,sheep,2008,84418
+Benishangul Gumz,sheep,2009,89108
+Benishangul Gumz,sheep,2010,105724
+Benishangul Gumz,sheep,2011,98058
+Benishangul Gumz,sheep,2012,93131
+Benishangul Gumz,sheep,2013,83825
+Benishangul Gumz,sheep,2014,104547
+Benishangul Gumz,sheep,2015,97934
+Benishangul Gumz,sheep,2016,100013
+Benishangul Gumz,sheep,2017,160029
+Benishangul Gumz,sheep,2018,143664
+Benishangul Gumz,sheep,2019,72284
+Benishangul Gumz,sheep,2020,61335
+Dire Dawa,sheep,2003,52088
+Dire Dawa,sheep,2004,46275
+Dire Dawa,sheep,2005,54173
+Dire Dawa,sheep,2006,48666
+Dire Dawa,sheep,2007,59623
+Dire Dawa,sheep,2008,43176
+Dire Dawa,sheep,2009,54600
+Dire Dawa,sheep,2010,65678
+Dire Dawa,sheep,2011,56397
+Dire Dawa,sheep,2012,67790
+Dire Dawa,sheep,2013,72565
+Dire Dawa,sheep,2014,86545
+Dire Dawa,sheep,2015,75419
+Dire Dawa,sheep,2016,64234
+Dire Dawa,sheep,2017,64332
+Dire Dawa,sheep,2018,70408
+Dire Dawa,sheep,2019,65462
+Dire Dawa,sheep,2020,59320
+Gambela,sheep,2003,0
+Gambela,sheep,2004,0
+Gambela,sheep,2005,0
+Gambela,sheep,2006,0
+Gambela,sheep,2007,48114
+Gambela,sheep,2008,17825
+Gambela,sheep,2009,26149
+Gambela,sheep,2010,39564
+Gambela,sheep,2011,50602
+Gambela,sheep,2012,49934
+Gambela,sheep,2013,45428
+Gambela,sheep,2014,35476
+Gambela,sheep,2015,44285
+Gambela,sheep,2016,44302
+Gambela,sheep,2017,35285
+Gambela,sheep,2018,41026
+Gambela,sheep,2019,43903
+Gambela,sheep,2020,27789
+Harari,sheep,2003,3757
+Harari,sheep,2004,3438
+Harari,sheep,2005,4501
+Harari,sheep,2006,4265
+Harari,sheep,2007,5035
+Harari,sheep,2008,4133
+Harari,sheep,2009,5098
+Harari,sheep,2010,5631
+Harari,sheep,2011,5122
+Harari,sheep,2012,6395
+Harari,sheep,2013,8401
+Harari,sheep,2014,6287
+Harari,sheep,2015,9153
+Harari,sheep,2016,7100
+Harari,sheep,2017,6896
+Harari,sheep,2018,5661
+Harari,sheep,2019,4236
+Harari,sheep,2020,5497
+Oromoa,sheep,2003,5969518
+Oromoa,sheep,2004,6905369
+Oromoa,sheep,2005,8084573
+Oromoa,sheep,2006,9264558
+Oromoa,sheep,2007,9401844
+Oromoa,sheep,2008,9098255
+Oromoa,sheep,2009,-1
+Oromoa,sheep,2010,8815290
+Oromoa,sheep,2011,8618970
+Oromoa,sheep,2012,8748537
+Oromoa,sheep,2013,9493622
+Oromoa,sheep,2014,9715587
+Oromoa,sheep,2015,9486687
+Oromoa,sheep,2016,9866172
+Oromoa,sheep,2017,9394430
+Oromoa,sheep,2018,9776459
+Oromoa,sheep,2019,9260493
+Oromoa,sheep,2020,9752385
+SNNPR,sheep,2003,3007969
+SNNPR,sheep,2004,3270198
+SNNPR,sheep,2005,3403098
+SNNPR,sheep,2006,4029530
+SNNPR,sheep,2007,4000053
+SNNPR,sheep,2008,3838757
+SNNPR,sheep,2009,4935092
+SNNPR,sheep,2010,4497169
+SNNPR,sheep,2011,3865819
+SNNPR,sheep,2012,4118382
+SNNPR,sheep,2013,4748676
+SNNPR,sheep,2014,4580220
+SNNPR,sheep,2015,4703558
+SNNPR,sheep,2016,5087007
+SNNPR,sheep,2017,4639606
+SNNPR,sheep,2018,5214185
+SNNPR,sheep,2019,4735604
+SNNPR,sheep,2020,4561504
+Somali,sheep,2003,460116
+Somali,sheep,2004,463000
+Somali,sheep,2005,594289
+Somali,sheep,2006,714685
+Somali,sheep,2007,1306061
+Somali,sheep,2008,1162743
+Somali,sheep,2009,1066657
+Somali,sheep,2010,1054287
+Somali,sheep,2011,1134856
+Somali,sheep,2012,1281998
+Somali,sheep,2013,1420767
+Somali,sheep,2014,1296412
+Somali,sheep,2015,1308309
+Somali,sheep,2016,1022298
+Somali,sheep,2017,1360703
+Somali,sheep,2018,1360703
+Somali,sheep,2019,9188394
+Somali,sheep,2020,11013491
+Tigray,sheep,2003,652521
+Tigray,sheep,2004,726394
+Tigray,sheep,2005,813546
+Tigray,sheep,2006,972500
+Tigray,sheep,2007,1388104
+Tigray,sheep,2008,1376961
+Tigray,sheep,2009,1149717
+Tigray,sheep,2010,1255403
+Tigray,sheep,2011,1121537
+Tigray,sheep,2012,1381622
+Tigray,sheep,2013,1481963
+Tigray,sheep,2014,1817305
+Tigray,sheep,2015,1637697
+Tigray,sheep,2016,2041731
+Tigray,sheep,2017,2472938
+Tigray,sheep,2018,2282746
+Tigray,sheep,2019,2097619
+Tigray,sheep,2020,2097619
+Addis Ababa,goats,2003,0
+Addis Ababa,goats,2004,0
+Addis Ababa,goats,2005,0
+Addis Ababa,goats,2006,0
+Addis Ababa,goats,2007,0
+Addis Ababa,goats,2008,0
+Addis Ababa,goats,2009,0
+Addis Ababa,goats,2010,0
+Addis Ababa,goats,2011,0
+Addis Ababa,goats,2012,0
+Addis Ababa,goats,2013,0
+Addis Ababa,goats,2014,0
+Addis Ababa,goats,2015,0
+Addis Ababa,goats,2016,0
+Addis Ababa,goats,2017,0
+Addis Ababa,goats,2018,0
+Addis Ababa,goats,2019,0
+Addis Ababa,goats,2020,0
+Afar,goats,2003,438083
+Afar,goats,2004,483779
+Afar,goats,2005,411047
+Afar,goats,2006,627897
+Afar,goats,2007,599828
+Afar,goats,2008,801497
+Afar,goats,2009,960971
+Afar,goats,2010,1774875
+Afar,goats,2011,1713660
+Afar,goats,2012,1935611
+Afar,goats,2013,2984271
+Afar,goats,2014,3149351
+Afar,goats,2015,3301056
+Afar,goats,2016,3461260
+Afar,goats,2017,3265403
+Afar,goats,2018,9975247
+Afar,goats,2019,8531082
+Afar,goats,2020,8843082
+Amhara,goats,2003,3969106
+Amhara,goats,2004,4101770
+Amhara,goats,2005,4856472
+Amhara,goats,2006,5140542
+Amhara,goats,2007,5468624
+Amhara,goats,2008,6022105
+Amhara,goats,2009,4878462
+Amhara,goats,2010,5176309
+Amhara,goats,2011,5189432
+Amhara,goats,2012,5102580
+Amhara,goats,2013,5291571
+Amhara,goats,2014,6064944
+Amhara,goats,2015,6085912
+Amhara,goats,2016,6438600
+Amhara,goats,2017,7766661
+Amhara,goats,2018,6805724
+Amhara,goats,2019,6883316
+Amhara,goats,2020,7045305
+Benishangul Gumz,goats,2003,218515
+Benishangul Gumz,goats,2004,244572
+Benishangul Gumz,goats,2005,314277
+Benishangul Gumz,goats,2006,339455
+Benishangul Gumz,goats,2007,371500
+Benishangul Gumz,goats,2008,321603
+Benishangul Gumz,goats,2009,335545
+Benishangul Gumz,goats,2010,446484
+Benishangul Gumz,goats,2011,454460
+Benishangul Gumz,goats,2012,411503
+Benishangul Gumz,goats,2013,417424
+Benishangul Gumz,goats,2014,440719
+Benishangul Gumz,goats,2015,448635
+Benishangul Gumz,goats,2016,431216
+Benishangul Gumz,goats,2017,602840
+Benishangul Gumz,goats,2018,524316
+Benishangul Gumz,goats,2019,404015
+Benishangul Gumz,goats,2020,446323
+Dire Dawa,goats,2003,132335
+Dire Dawa,goats,2004,118766
+Dire Dawa,goats,2005,124094
+Dire Dawa,goats,2006,137330
+Dire Dawa,goats,2007,154743
+Dire Dawa,goats,2008,122005
+Dire Dawa,goats,2009,172881
+Dire Dawa,goats,2010,181181
+Dire Dawa,goats,2011,161027
+Dire Dawa,goats,2012,178567
+Dire Dawa,goats,2013,183755
+Dire Dawa,goats,2014,209982
+Dire Dawa,goats,2015,202707
+Dire Dawa,goats,2016,205804
+Dire Dawa,goats,2017,249393
+Dire Dawa,goats,2018,186002
+Dire Dawa,goats,2019,258629
+Dire Dawa,goats,2020,325922
+Gambela,goats,2003,0
+Gambela,goats,2004,0
+Gambela,goats,2005,0
+Gambela,goats,2006,0
+Gambela,goats,2007,54638
+Gambela,goats,2008,31821
+Gambela,goats,2009,37833
+Gambela,goats,2010,83897
+Gambela,goats,2011,79623
+Gambela,goats,2012,84229
+Gambela,goats,2013,89860
+Gambela,goats,2014,88610
+Gambela,goats,2015,94184
+Gambela,goats,2016,99018
+Gambela,goats,2017,107083
+Gambela,goats,2018,133246
+Gambela,goats,2019,134206
+Gambela,goats,2020,135494
+Harari,goats,2003,26356
+Harari,goats,2004,26909
+Harari,goats,2005,32782
+Harari,goats,2006,34450
+Harari,goats,2007,41226
+Harari,goats,2008,36322
+Harari,goats,2009,41302
+Harari,goats,2010,45256
+Harari,goats,2011,41964
+Harari,goats,2012,51039
+Harari,goats,2013,58432
+Harari,goats,2014,57624
+Harari,goats,2015,67721
+Harari,goats,2016,72555
+Harari,goats,2017,69901
+Harari,goats,2018,81466
+Harari,goats,2019,103567
+Harari,goats,2020,110499
+Oromoa,goats,2003,4081039
+Oromoa,goats,2004,4849060
+Oromoa,goats,2005,5383640
+Oromoa,goats,2006,5787278
+Oromoa,goats,2007,7685529
+Oromoa,goats,2008,7439725
+Oromoa,goats,2009,7346055
+Oromoa,goats,2010,7531445
+Oromoa,goats,2011,7226944
+Oromoa,goats,2012,7554869
+Oromoa,goats,2013,8151014
+Oromoa,goats,2014,7849924
+Oromoa,goats,2015,8377584
+Oromoa,goats,2016,8129784
+Oromoa,goats,2017,8591204
+Oromoa,goats,2018,9082745
+Oromoa,goats,2019,7526644
+Oromoa,goats,2020,8425727
+SNNPR,goats,2003,2317624
+SNNPR,goats,2004,2289973
+SNNPR,goats,2005,2054080
+SNNPR,goats,2006,2538751
+SNNPR,goats,2007,2624588
+SNNPR,goats,2008,2626611
+SNNPR,goats,2009,4057497
+SNNPR,goats,2010,3086531
+SNNPR,goats,2011,3506210
+SNNPR,goats,2012,3912131
+SNNPR,goats,2013,4953588
+SNNPR,goats,2014,5092628
+SNNPR,goats,2015,5343072
+SNNPR,goats,2016,5258250
+SNNPR,goats,2017,4958255
+SNNPR,goats,2018,5116030
+SNNPR,goats,2019,4819573
+SNNPR,goats,2020,5518806
+Somali,goats,2003,606717
+Somali,goats,2004,650973
+Somali,goats,2005,668619
+Somali,goats,2006,1062084
+Somali,goats,2007,1703290
+Somali,goats,2008,1374540
+Somali,goats,2009,1508932
+Somali,goats,2010,1411481
+Somali,goats,2011,1365265
+Somali,goats,2012,1639080
+Somali,goats,2013,2033165
+Somali,goats,2014,1903891
+Somali,goats,2015,1835811
+Somali,goats,2016,1519602
+Somali,goats,2017,2826424
+Somali,goats,2018,2826424
+Somali,goats,2019,17001672
+Somali,goats,2020,16464505
+Tigray,goats,2003,2034710
+Tigray,goats,2004,2089697
+Tigray,goats,2005,2399808
+Tigray,goats,2006,2751911
+Tigray,goats,2007,3005463
+Tigray,goats,2008,3107994
+Tigray,goats,2009,2621227
+Tigray,goats,2010,3049486
+Tigray,goats,2011,2874520
+Tigray,goats,2012,3191184
+Tigray,goats,2013,4000252
+Tigray,goats,2014,4255290
+Tigray,goats,2015,3948276
+Tigray,goats,2016,4584138
+Tigray,goats,2017,4301221
+Tigray,goats,2018,4232680
+Tigray,goats,2019,4838969
+Tigray,goats,2020,4838969
+Addis Ababa,poultry,2003,62364
+Addis Ababa,poultry,2004,21417
+Addis Ababa,poultry,2005,22156
+Addis Ababa,poultry,2006,21564
+Addis Ababa,poultry,2007,0
+Addis Ababa,poultry,2008,0
+Addis Ababa,poultry,2009,0
+Addis Ababa,poultry,2010,0
+Addis Ababa,poultry,2011,0
+Addis Ababa,poultry,2012,0
+Addis Ababa,poultry,2013,0
+Addis Ababa,poultry,2014,0
+Addis Ababa,poultry,2015,0
+Addis Ababa,poultry,2016,0
+Addis Ababa,poultry,2017,0
+Addis Ababa,poultry,2018,0
+Addis Ababa,poultry,2019,0
+Addis Ababa,poultry,2020,0
+Afar,poultry,2003,49285
+Afar,poultry,2004,38315
+Afar,poultry,2005,49429
+Afar,poultry,2006,43798
+Afar,poultry,2007,53856
+Afar,poultry,2008,26519
+Afar,poultry,2009,29369
+Afar,poultry,2010,67319
+Afar,poultry,2011,57993
+Afar,poultry,2012,42951
+Afar,poultry,2013,124489
+Afar,poultry,2014,132215
+Afar,poultry,2015,106355
+Afar,poultry,2016,197825
+Afar,poultry,2017,215768
+Afar,poultry,2018,185372
+Afar,poultry,2019,92941
+Afar,poultry,2020,91562
+Amhara,poultry,2003,11243773
+Amhara,poultry,2004,8442238
+Amhara,poultry,2005,9400917
+Amhara,poultry,2006,10368274
+Amhara,poultry,2007,12364824
+Amhara,poultry,2008,12755956
+Amhara,poultry,2009,12739620
+Amhara,poultry,2010,14048486
+Amhara,poultry,2011,14116725
+Amhara,poultry,2012,14610770
+Amhara,poultry,2013,14524806
+Amhara,poultry,2014,18031121
+Amhara,poultry,2015,19958894
+Amhara,poultry,2016,19961861
+Amhara,poultry,2017,17705026
+Amhara,poultry,2018,20501879
+Amhara,poultry,2019,16827119
+Amhara,poultry,2020,19060608
+Benishangul Gumz,poultry,2003,785357
+Benishangul Gumz,poultry,2004,732273
+Benishangul Gumz,poultry,2005,635634
+Benishangul Gumz,poultry,2006,742858
+Benishangul Gumz,poultry,2007,708027
+Benishangul Gumz,poultry,2008,774112
+Benishangul Gumz,poultry,2009,820994
+Benishangul Gumz,poultry,2010,1149069
+Benishangul Gumz,poultry,2011,1140816
+Benishangul Gumz,poultry,2012,1305785
+Benishangul Gumz,poultry,2013,1041557
+Benishangul Gumz,poultry,2014,1375326
+Benishangul Gumz,poultry,2015,1363061
+Benishangul Gumz,poultry,2016,1249578
+Benishangul Gumz,poultry,2017,1672084
+Benishangul Gumz,poultry,2018,1480468
+Benishangul Gumz,poultry,2019,884660
+Benishangul Gumz,poultry,2020,1155535
+Dire Dawa,poultry,2003,44479
+Dire Dawa,poultry,2004,44736
+Dire Dawa,poultry,2005,49157
+Dire Dawa,poultry,2006,47852
+Dire Dawa,poultry,2007,56283
+Dire Dawa,poultry,2008,48102
+Dire Dawa,poultry,2009,51431
+Dire Dawa,poultry,2010,80963
+Dire Dawa,poultry,2011,80345
+Dire Dawa,poultry,2012,83706
+Dire Dawa,poultry,2013,92283
+Dire Dawa,poultry,2014,86617
+Dire Dawa,poultry,2015,85318
+Dire Dawa,poultry,2016,102963
+Dire Dawa,poultry,2017,118376
+Dire Dawa,poultry,2018,93444
+Dire Dawa,poultry,2019,129575
+Dire Dawa,poultry,2020,122328
+Gambela,poultry,2003,0
+Gambela,poultry,2004,0
+Gambela,poultry,2005,0
+Gambela,poultry,2006,0
+Gambela,poultry,2007,173844
+Gambela,poultry,2008,202105
+Gambela,poultry,2009,210332
+Gambela,poultry,2010,303019
+Gambela,poultry,2011,301735
+Gambela,poultry,2012,298849
+Gambela,poultry,2013,344043
+Gambela,poultry,2014,307387
+Gambela,poultry,2015,358288
+Gambela,poultry,2016,385768
+Gambela,poultry,2017,301531
+Gambela,poultry,2018,490448
+Gambela,poultry,2019,229151
+Gambela,poultry,2020,314680
+Harari,poultry,2003,31590
+Harari,poultry,2004,31426
+Harari,poultry,2005,33329
+Harari,poultry,2006,31777
+Harari,poultry,2007,36288
+Harari,poultry,2008,33362
+Harari,poultry,2009,39185
+Harari,poultry,2010,53277
+Harari,poultry,2011,43235
+Harari,poultry,2012,50589
+Harari,poultry,2013,71697
+Harari,poultry,2014,71419
+Harari,poultry,2015,74332
+Harari,poultry,2016,94371
+Harari,poultry,2017,97690
+Harari,poultry,2018,76992
+Harari,poultry,2019,104585
+Harari,poultry,2019,104585
+Harari,poultry,2020,129963
+Oromoa,poultry,2003,12761341
+Oromoa,poultry,2004,11637074
+Oromoa,poultry,2005,12226799
+Oromoa,poultry,2006,12603660
+Oromoa,poultry,2007,14329775
+Oromoa,poultry,2008,13673006
+Oromoa,poultry,2009,15336939
+Oromoa,poultry,2010,18762281
+Oromoa,poultry,2011,16345099
+Oromoa,poultry,2012,18850439
+Oromoa,poultry,2013,19313874
+Oromoa,poultry,2014,20076129
+Oromoa,poultry,2015,21201122
+Oromoa,poultry,2016,20408299
+Oromoa,poultry,2017,19014114
+Oromoa,poultry,2018,20766720
+Oromoa,poultry,2019,16668657
+Oromoa,poultry,2020,19160388
+SNNPR,poultry,2003,6779900
+SNNPR,poultry,2004,6586142
+SNNPR,poultry,2005,6391051
+SNNPR,poultry,2006,6517126
+SNNPR,poultry,2007,7465585
+SNNPR,poultry,2008,6707186
+SNNPR,poultry,2009,8503564
+SNNPR,poultry,2010,10407807
+SNNPR,poultry,2011,7690931
+SNNPR,poultry,2012,9732061
+SNNPR,poultry,2013,10353805
+SNNPR,poultry,2014,10433773
+SNNPR,poultry,2015,10851155
+SNNPR,poultry,2016,11197124
+SNNPR,poultry,2017,10491131
+SNNPR,poultry,2018,9542274
+SNNPR,poultry,2019,7347205
+SNNPR,poultry,2020,7813730
+Somali,poultry,2003,173187
+Somali,poultry,2004,154669
+Somali,poultry,2005,92489
+Somali,poultry,2006,106534
+Somali,poultry,2007,113082
+Somali,poultry,2008,77367
+Somali,poultry,2009,55752
+Somali,poultry,2010,106114
+Somali,poultry,2011,113004
+Somali,poultry,2012,159293
+Somali,poultry,2013,196396
+Somali,poultry,2014,162884
+Somali,poultry,2015,177300
+Somali,poultry,2016,161265
+Somali,poultry,2017,250418
+Somali,poultry,2018,250418
+Somali,poultry,2019,193467
+Somali,poultry,2020,318567
+Tigray,poultry,2003,3725111
+Tigray,poultry,2004,3180235
+Tigray,poultry,2005,3131239
+Tigray,poultry,2006,3474394
+Tigray,poultry,2007,4262337
+Tigray,poultry,2008,3829788
+Tigray,poultry,2009,4266077
+Tigray,poultry,2010,4308595
+Tigray,poultry,2011,5003126
+Tigray,poultry,2012,5242699
+Tigray,poultry,2013,5287790
+Tigray,poultry,2014,6189848
+Tigray,poultry,2015,6329501
+Tigray,poultry,2016,5735973
+Tigray,poultry,2017,6190640
+Tigray,poultry,2018,6032251
+Tigray,poultry,2019,6317518
+Tigray,poultry,2020,7000785
+Addis Ababa,camels,2003,0
+Addis Ababa,camels,2004,0
+Addis Ababa,camels,2005,0
+Addis Ababa,camels,2006,0
+Addis Ababa,camels,2007,0
+Addis Ababa,camels,2008,0
+Addis Ababa,camels,2009,0
+Addis Ababa,camels,2010,0
+Addis Ababa,camels,2011,0
+Addis Ababa,camels,2012,0
+Addis Ababa,camels,2013,0
+Addis Ababa,camels,2014,0
+Addis Ababa,camels,2015,0
+Addis Ababa,camels,2016,0
+Addis Ababa,camels,2017,0
+Addis Ababa,camels,2018,0
+Addis Ababa,camels,2019,0
+Addis Ababa,camels,2020,0
+Afar,camels,2003,124536
+Afar,camels,2004,99833
+Afar,camels,2005,112131
+Afar,camels,2006,143750
+Afar,camels,2007,142357
+Afar,camels,2008,171514
+Afar,camels,2009,218430
+Afar,camels,2010,379228
+Afar,camels,2011,276630
+Afar,camels,2012,270402
+Afar,camels,2013,335039
+Afar,camels,2014,434291
+Afar,camels,2015,460624
+Afar,camels,2016,474146
+Afar,camels,2017,650040
+Afar,camels,2018,1118981
+Afar,camels,2019,1162311
+Afar,camels,2020,1258971
+Amhara,camels,2003,20317
+Amhara,camels,2004,14266
+Amhara,camels,2005,14678
+Amhara,camels,2006,31911
+Amhara,camels,2007,47026
+Amhara,camels,2008,50506
+Amhara,camels,2009,34649
+Amhara,camels,2010,51472
+Amhara,camels,2011,55626
+Amhara,camels,2012,60576
+Amhara,camels,2013,64389
+Amhara,camels,2014,66364
+Amhara,camels,2015,63500
+Amhara,camels,2016,71194
+Amhara,camels,2017,151143
+Amhara,camels,2018,35682
+Amhara,camels,2019,49467
+Amhara,camels,2020,44774
+Benishangul Gumz,camels,2003,0
+Benishangul Gumz,camels,2004,0
+Benishangul Gumz,camels,2005,0
+Benishangul Gumz,camels,2006,0
+Benishangul Gumz,camels,2007,0
+Benishangul Gumz,camels,2008,0
+Benishangul Gumz,camels,2009,0
+Benishangul Gumz,camels,2010,0
+Benishangul Gumz,camels,2011,0
+Benishangul Gumz,camels,2012,0
+Benishangul Gumz,camels,2013,0
+Benishangul Gumz,camels,2014,0
+Benishangul Gumz,camels,2015,0
+Benishangul Gumz,camels,2016,0
+Benishangul Gumz,camels,2017,0
+Benishangul Gumz,camels,2018,0
+Benishangul Gumz,camels,2019,0
+Benishangul Gumz,camels,2020,0
+Dire Dawa,camels,2003,7948
+Dire Dawa,camels,2004,5069
+Dire Dawa,camels,2005,6409
+Dire Dawa,camels,2006,8311
+Dire Dawa,camels,2007,5060
+Dire Dawa,camels,2008,5497
+Dire Dawa,camels,2009,7821
+Dire Dawa,camels,2010,6425
+Dire Dawa,camels,2011,7790
+Dire Dawa,camels,2012,5624
+Dire Dawa,camels,2013,7129
+Dire Dawa,camels,2014,6670
+Dire Dawa,camels,2015,5740
+Dire Dawa,camels,2016,8202
+Dire Dawa,camels,2017,8207
+Dire Dawa,camels,2018,7588
+Dire Dawa,camels,2019,16862
+Dire Dawa,camels,2020,11190
+Gambela,camels,2004,0
+Gambela,camels,2005,0
+Gambela,camels,2006,0
+Gambela,camels,2007,0
+Gambela,camels,2008,0
+Gambela,camels,2009,0
+Gambela,camels,2010,0
+Gambela,camels,2011,0
+Gambela,camels,2012,0
+Gambela,camels,2013,0
+Gambela,camels,2014,0
+Gambela,camels,2015,0
+Gambela,camels,2016,0
+Gambela,camels,2017,0
+Gambela,camels,2018,0
+Gambela,camels,2019,0
+Gambela,camels,2020,0
+Harari,camels,2003,0
+Harari,camels,2004,0
+Harari,camels,2005,0
+Harari,camels,2006,0
+Harari,camels,2007,0
+Harari,camels,2008,0
+Harari,camels,2009,0
+Harari,camels,2010,0
+Harari,camels,2011,2015
+Harari,camels,2012,0
+Harari,camels,2013,0
+Harari,camels,2014,4363
+Harari,camels,2015,0
+Harari,camels,2016,0
+Harari,camels,2017,0
+Harari,camels,2018,0
+Harari,camels,2019,0
+Harari,camels,2020,0
+Oromoa,camels,2003,113527
+Oromoa,camels,2004,139830
+Oromoa,camels,2005,121970
+Oromoa,camels,2006,131242
+Oromoa,camels,2007,447688
+Oromoa,camels,2008,255328
+Oromoa,camels,2009,257322
+Oromoa,camels,2010,326069
+Oromoa,camels,2011,310420
+Oromoa,camels,2012,264175
+Oromoa,camels,2013,268089
+Oromoa,camels,2014,239357
+Oromoa,camels,2015,272344
+Oromoa,camels,2016,299422
+Oromoa,camels,2017,315482
+Oromoa,camels,2018,294110
+Oromoa,camels,2019,294331
+Oromoa,camels,2020,292908
+SNNPR,camels,2003,0
+SNNPR,camels,2004,0
+SNNPR,camels,2005,0
+SNNPR,camels,2006,0
+SNNPR,camels,2007,0
+SNNPR,camels,2008,0
+SNNPR,camels,2009,0
+SNNPR,camels,2010,0
+SNNPR,camels,2011,0
+SNNPR,camels,2012,0
+SNNPR,camels,2013,0
+SNNPR,camels,2014,0
+SNNPR,camels,2015,0
+SNNPR,camels,2016,0
+SNNPR,camels,2017,0
+SNNPR,camels,2018,0
+SNNPR,camels,2019,0
+SNNPR,camels,2020,0
+Somali,camels,2003,163494
+Somali,camels,2004,165264
+Somali,camels,2005,145073
+Somali,camels,2006,264239
+Somali,camels,2007,330563
+Somali,camels,2008,241943
+Somali,camels,2009,254839
+Somali,camels,2010,301323
+Somali,camels,2011,290649
+Somali,camels,2012,260695
+Somali,camels,2013,332150
+Somali,camels,2014,353124
+Somali,camels,2015,362291
+Somali,camels,2016,295076
+Somali,camels,2017,249475
+Somali,camels,2018,249475
+Somali,camels,2019,6132352
+Somali,camels,2020,6489702
+Tigray,camels,2003,38562
+Tigray,camels,2004,32651
+Tigray,camels,2005,32777
+Tigray,camels,2006,33794
+Tigray,camels,2007,34448
+Tigray,camels,2008,32552
+Tigray,camels,2009,32288
+Tigray,camels,2010,34205
+Tigray,camels,2011,35946
+Tigray,camels,2012,52541
+Tigray,camels,2013,87163
+Tigray,camels,2014,55921
+Tigray,camels,2015,59846
+Tigray,camels,2016,54348
+Tigray,camels,2017,43332
+Tigray,camels,2018,52905
+Tigray,camels,2019,46436
+Tigray,camels,2020,46436
+Addis Ababa,mules,2003,704
+Addis Ababa,mules,2004,267
+Addis Ababa,mules,2005,364
+Addis Ababa,mules,2006,398
+Addis Ababa,mules,2007,0
+Addis Ababa,mules,2008,0
+Addis Ababa,mules,2009,0
+Addis Ababa,mules,2010,0
+Addis Ababa,mules,2011,0
+Addis Ababa,mules,2012,0
+Addis Ababa,mules,2013,0
+Addis Ababa,mules,2014,0
+Addis Ababa,mules,2015,0
+Addis Ababa,mules,2016,0
+Addis Ababa,mules,2017,0
+Addis Ababa,mules,2018,0
+Addis Ababa,mules,2019,0
+Addis Ababa,mules,2020,0
+Afar,mules,2003,382
+Afar,mules,2004,195
+Afar,mules,2005,150
+Afar,mules,2006,157
+Afar,mules,2007,0
+Afar,mules,2008,0
+Afar,mules,2009,0
+Afar,mules,2010,0
+Afar,mules,2011,0
+Afar,mules,2012,0
+Afar,mules,2013,0
+Afar,mules,2014,0
+Afar,mules,2015,0
+Afar,mules,2016,0
+Afar,mules,2017,0
+Afar,mules,2018,0
+Afar,mules,2019,0
+Afar,mules,2020,0
+Amhara,mules,2003,90652
+Amhara,mules,2004,88996
+Amhara,mules,2005,102580
+Amhara,mules,2006,92787
+Amhara,mules,2007,135908
+Amhara,mules,2008,124415
+Amhara,mules,2009,127716
+Amhara,mules,2010,120459
+Amhara,mules,2011,136292
+Amhara,mules,2012,134168
+Amhara,mules,2013,129832
+Amhara,mules,2014,157213
+Amhara,mules,2015,177544
+Amhara,mules,2016,185186
+Amhara,mules,2017,220940
+Amhara,mules,2018,155195
+Amhara,mules,2019,184657
+Amhara,mules,2020,199847
+Benishangul Gumz,mules,2003,1521
+Benishangul Gumz,mules,2004,1774
+Benishangul Gumz,mules,2005,1501
+Benishangul Gumz,mules,2006,1414
+Benishangul Gumz,mules,2007,682
+Benishangul Gumz,mules,2008,687
+Benishangul Gumz,mules,2009,758
+Benishangul Gumz,mules,2010,2624
+Benishangul Gumz,mules,2011,1774
+Benishangul Gumz,mules,2012,2532
+Benishangul Gumz,mules,2013,1131
+Benishangul Gumz,mules,2014,1936
+Benishangul Gumz,mules,2015,1989
+Benishangul Gumz,mules,2016,1783
+Benishangul Gumz,mules,2017,2542
+Benishangul Gumz,mules,2018,1522
+Benishangul Gumz,mules,2019,2705
+Benishangul Gumz,mules,2020,3457
+Dire Dawa,mules,2003,0
+Dire Dawa,mules,2004,0
+Dire Dawa,mules,2005,0
+Dire Dawa,mules,2006,0
+Dire Dawa,mules,2007,0
+Dire Dawa,mules,2008,0
+Dire Dawa,mules,2009,0
+Dire Dawa,mules,2010,0
+Dire Dawa,mules,2011,0
+Dire Dawa,mules,2012,0
+Dire Dawa,mules,2013,0
+Dire Dawa,mules,2014,0
+Dire Dawa,mules,2015,0
+Dire Dawa,mules,2016,0
+Dire Dawa,mules,2017,0
+Dire Dawa,mules,2018,0
+Dire Dawa,mules,2019,0
+Dire Dawa,mules,2019,0
+Dire Dawa,mules,2020,0
+Gambela,mules,2003,0
+Gambela,mules,2004,0
+Gambela,mules,2005,0
+Gambela,mules,2006,0
+Gambela,mules,2007,0
+Gambela,mules,2008,0
+Gambela,mules,2009,0
+Gambela,mules,2010,0
+Gambela,mules,2011,0
+Gambela,mules,2012,0
+Gambela,mules,2013,0
+Gambela,mules,2014,0
+Gambela,mules,2015,0
+Gambela,mules,2016,0
+Gambela,mules,2017,0
+Gambela,mules,2018,0
+Gambela,mules,2019,0
+Gambela,mules,2020,0
+Harari,mules,2003,0
+Harari,mules,2004,0
+Harari,mules,2005,0
+Harari,mules,2006,0
+Harari,mules,2007,0
+Harari,mules,2008,0
+Harari,mules,2009,0
+Harari,mules,2010,0
+Harari,mules,2011,0
+Harari,mules,2012,0
+Harari,mules,2013,0
+Harari,mules,2014,0
+Harari,mules,2015,0
+Harari,mules,2016,0
+Harari,mules,2017,0
+Harari,mules,2018,0
+Harari,mules,2019,0
+Harari,mules,2020,0
+Oromoa,mules,2003,149575
+Oromoa,mules,2004,153710
+Oromoa,mules,2005,166921
+Oromoa,mules,2006,160531
+Oromoa,mules,2007,180364
+Oromoa,mules,2008,185360
+Oromoa,mules,2009,174676
+Oromoa,mules,2010,181381
+Oromoa,mules,2011,150893
+Oromoa,mules,2012,152345
+Oromoa,mules,2013,151110
+Oromoa,mules,2014,156331
+Oromoa,mules,2015,152178
+Oromoa,mules,2016,140114
+Oromoa,mules,2017,134898
+Oromoa,mules,2018,139439
+Oromoa,mules,2019,108356
+Oromoa,mules,2020,120161
+SNNPR,mules,2003,68221
+SNNPR,mules,2004,63463
+SNNPR,mules,2005,61135
+SNNPR,mules,2006,63023
+SNNPR,mules,2007,52456
+SNNPR,mules,2008,55254
+SNNPR,mules,2009,57431
+SNNPR,mules,2010,75331
+SNNPR,mules,2011,74131
+SNNPR,mules,2012,54212
+SNNPR,mules,2013,67840
+SNNPR,mules,2014,78334
+SNNPR,mules,2015,65890
+SNNPR,mules,2016,74176
+SNNPR,mules,2017,91461
+SNNPR,mules,2018,61255
+SNNPR,mules,2019,52679
+SNNPR,mules,2020,45489
+Somali,mules,2003,0
+Somali,mules,2004,0
+Somali,mules,2005,0
+Somali,mules,2006,0
+Somali,mules,2007,0
+Somali,mules,2008,0
+Somali,mules,2009,0
+Somali,mules,2010,0
+Somali,mules,2011,0
+Somali,mules,2012,0
+Somali,mules,2013,0
+Somali,mules,2014,0
+Somali,mules,2015,0
+Somali,mules,2016,0
+Somali,mules,2017,0
+Somali,mules,2018,0
+Somali,mules,2019,529
+Somali,mules,2020,553
+Tigray,mules,2003,10062
+Tigray,mules,2004,9190
+Tigray,mules,2005,7901
+Tigray,mules,2006,7247
+Tigray,mules,2007,6665
+Tigray,mules,2008,7694
+Tigray,mules,2009,4920
+Tigray,mules,2010,4229
+Tigray,mules,2011,3752
+Tigray,mules,2012,4690
+Tigray,mules,2013,5895
+Tigray,mules,2014,5754
+Tigray,mules,2015,7536
+Tigray,mules,2016,7634
+Tigray,mules,2017,11308
+Tigray,mules,2018,12026
+Tigray,mules,2019,8078
+Tigray,mules,2020,8078
+Addis Ababa,donkeys,2003,15884
+Addis Ababa,donkeys,2004,4780
+Addis Ababa,donkeys,2005,6078
+Addis Ababa,donkeys,2006,6091
+Addis Ababa,donkeys,2007,0
+Addis Ababa,donkeys,2008,0
+Addis Ababa,donkeys,2009,0
+Addis Ababa,donkeys,2010,0
+Addis Ababa,donkeys,2011,0
+Addis Ababa,donkeys,2012,0
+Addis Ababa,donkeys,2013,0
+Addis Ababa,donkeys,2014,0
+Addis Ababa,donkeys,2015,0
+Addis Ababa,donkeys,2016,0
+Addis Ababa,donkeys,2017,0
+Addis Ababa,donkeys,2018,0
+Addis Ababa,donkeys,2019,0
+Addis Ababa,donkeys,2020,0
+Afar,donkeys,2003,14148
+Afar,donkeys,2004,12269
+Afar,donkeys,2005,12834
+Afar,donkeys,2006,11892
+Afar,donkeys,2007,32897
+Afar,donkeys,2008,26451
+Afar,donkeys,2009,36992
+Afar,donkeys,2010,65951
+Afar,donkeys,2011,57796
+Afar,donkeys,2012,65284
+Afar,donkeys,2013,103830
+Afar,donkeys,2014,124787
+Afar,donkeys,2015,133481
+Afar,donkeys,2016,101656
+Afar,donkeys,2017,125671
+Afar,donkeys,2018,446904
+Afar,donkeys,2019,317065
+Afar,donkeys,2020,308835
+Amhara,donkeys,2003,1356111
+Amhara,donkeys,2004,1400032
+Amhara,donkeys,2005,1513891
+Amhara,donkeys,2006,1539949
+Amhara,donkeys,2007,1804408
+Amhara,donkeys,2008,2017935
+Amhara,donkeys,2009,2108347
+Amhara,donkeys,2010,2241741
+Amhara,donkeys,2011,2309433
+Amhara,donkeys,2012,2398190
+Amhara,donkeys,2013,2428758
+Amhara,donkeys,2014,2677429
+Amhara,donkeys,2015,2829592
+Amhara,donkeys,2016,2991598
+Amhara,donkeys,2017,3279179
+Amhara,donkeys,2018,3529748
+Amhara,donkeys,2019,3435729
+Amhara,donkeys,2020,3725454
+Benishangul Gumz,donkeys,2003,40789
+Benishangul Gumz,donkeys,2004,37517
+Benishangul Gumz,donkeys,2005,39923
+Benishangul Gumz,donkeys,2006,39700
+Benishangul Gumz,donkeys,2007,50738
+Benishangul Gumz,donkeys,2008,48789
+Benishangul Gumz,donkeys,2009,52718
+Benishangul Gumz,donkeys,2010,64639
+Benishangul Gumz,donkeys,2011,67102
+Benishangul Gumz,donkeys,2012,64679
+Benishangul Gumz,donkeys,2013,68484
+Benishangul Gumz,donkeys,2014,67702
+Benishangul Gumz,donkeys,2015,76558
+Benishangul Gumz,donkeys,2016,77737
+Benishangul Gumz,donkeys,2017,82228
+Benishangul Gumz,donkeys,2018,88533
+Benishangul Gumz,donkeys,2019,62584
+Benishangul Gumz,donkeys,2020,47763
+Dire Dawa,donkeys,2003,10118
+Dire Dawa,donkeys,2004,8820
+Dire Dawa,donkeys,2005,10083
+Dire Dawa,donkeys,2006,10775
+Dire Dawa,donkeys,2007,14083
+Dire Dawa,donkeys,2008,8736
+Dire Dawa,donkeys,2009,13979
+Dire Dawa,donkeys,2010,14992
+Dire Dawa,donkeys,2011,16115
+Dire Dawa,donkeys,2012,16118
+Dire Dawa,donkeys,2013,17132
+Dire Dawa,donkeys,2014,18699
+Dire Dawa,donkeys,2015,19772
+Dire Dawa,donkeys,2016,18348
+Dire Dawa,donkeys,2017,24226
+Dire Dawa,donkeys,2018,19238
+Dire Dawa,donkeys,2019,24702
+Dire Dawa,donkeys,2019,24702
+Dire Dawa,donkeys,2020,31992
+Gambela,donkeys,2003,0
+Gambela,donkeys,2004,0
+Gambela,donkeys,2005,0
+Gambela,donkeys,2006,0
+Gambela,donkeys,2007,0
+Gambela,donkeys,2008,0
+Gambela,donkeys,2009,0
+Gambela,donkeys,2010,0
+Gambela,donkeys,2011,0
+Gambela,donkeys,2012,0
+Gambela,donkeys,2013,0
+Gambela,donkeys,2014,0
+Gambela,donkeys,2015,0
+Gambela,donkeys,2016,1739
+Gambela,donkeys,2017,2150
+Gambela,donkeys,2018,700
+Gambela,donkeys,2019,0
+Gambela,donkeys,2020,647
+Harari,donkeys,2003,6483
+Harari,donkeys,2004,6316
+Harari,donkeys,2005,6985
+Harari,donkeys,2006,6832
+Harari,donkeys,2007,8328
+Harari,donkeys,2008,0
+Harari,donkeys,2009,9091
+Harari,donkeys,2010,0
+Harari,donkeys,2011,9170
+Harari,donkeys,2012,11110
+Harari,donkeys,2013,11620
+Harari,donkeys,2014,11445
+Harari,donkeys,2015,13696
+Harari,donkeys,2016,13380
+Harari,donkeys,2017,14356
+Harari,donkeys,2018,14889
+Harari,donkeys,2019,14649
+Harari,donkeys,2019,14649
+Harari,donkeys,2020,16547
+Oromoa,donkeys,2003,1605134
+Oromoa,donkeys,2004,1703911
+Oromoa,donkeys,2005,1911225
+Oromoa,donkeys,2006,2054674
+Oromoa,donkeys,2007,2197828
+Oromoa,donkeys,2008,2395374
+Oromoa,donkeys,2009,2494536
+Oromoa,donkeys,2010,2617107
+Oromoa,donkeys,2011,2776094
+Oromoa,donkeys,2012,2810612
+Oromoa,donkeys,2013,2898282
+Oromoa,donkeys,2014,3007027
+Oromoa,donkeys,2015,3214317
+Oromoa,donkeys,2016,3446746
+Oromoa,donkeys,2017,3419932
+Oromoa,donkeys,2018,3641131
+Oromoa,donkeys,2019,3640642
+Oromoa,donkeys,2020,3900800
+SNNPR,donkeys,2003,266505
+SNNPR,donkeys,2004,278435
+SNNPR,donkeys,2005,302798
+SNNPR,donkeys,2006,283100
+SNNPR,donkeys,2007,364985
+SNNPR,donkeys,2008,351126
+SNNPR,donkeys,2009,424931
+SNNPR,donkeys,2010,526621
+SNNPR,donkeys,2011,521257
+SNNPR,donkeys,2012,558990
+SNNPR,donkeys,2013,571191
+SNNPR,donkeys,2014,630492
+SNNPR,donkeys,2015,641163
+SNNPR,donkeys,2016,810603
+SNNPR,donkeys,2017,811105
+SNNPR,donkeys,2018,735018
+SNNPR,donkeys,2019,818595
+SNNPR,donkeys,2020,814761
+Somali,donkeys,2003,86389
+Somali,donkeys,2004,91547
+Somali,donkeys,2005,89337
+Somali,donkeys,2006,98460
+Somali,donkeys,2007,0
+Somali,donkeys,2008,96670
+Somali,donkeys,2009,118089
+Somali,donkeys,2010,100367
+Somali,donkeys,2011,102971
+Somali,donkeys,2012,130730
+Somali,donkeys,2013,156011
+Somali,donkeys,2014,136159
+Somali,donkeys,2015,148724
+Somali,donkeys,2016,139361
+Somali,donkeys,2017,200639
+Somali,donkeys,2018,200639
+Somali,donkeys,2019,772584
+Somali,donkeys,2020,978813
+Tigray,donkeys,2003,368312
+Tigray,donkeys,2004,386601
+Tigray,donkeys,2005,387389
+Tigray,donkeys,2006,434698
+Tigray,donkeys,2007,462497
+Tigray,donkeys,2008,463492
+Tigray,donkeys,2009,456093
+Tigray,donkeys,2010,568121
+Tigray,donkeys,2011,578273
+Tigray,donkeys,2012,692179
+Tigray,donkeys,2013,697421
+Tigray,donkeys,2014,753450
+Tigray,donkeys,2015,802807
+Tigray,donkeys,2016,838053
+Tigray,donkeys,2017,886103
+Tigray,donkeys,2018,978642
+Tigray,donkeys,2019,901002
+Tigray,donkeys,2020,901002
+Addis Ababa,horses,2003,859
+Addis Ababa,horses,2004,380
+Addis Ababa,horses,2005,437
+Addis Ababa,horses,2006,579
+Addis Ababa,horses,2007,0
+Addis Ababa,horses,2008,0
+Addis Ababa,horses,2009,0
+Addis Ababa,horses,2010,0
+Addis Ababa,horses,2011,0
+Addis Ababa,horses,2012,0
+Addis Ababa,horses,2013,0
+Addis Ababa,horses,2014,0
+Addis Ababa,horses,2015,0
+Addis Ababa,horses,2016,0
+Addis Ababa,horses,2017,0
+Addis Ababa,horses,2018,0
+Addis Ababa,horses,2019,0
+Addis Ababa,horses,2020,0
+Afar,horses,2003,0
+Afar,horses,2004,0
+Afar,horses,2005,0
+Afar,horses,2006,0
+Afar,horses,2007,0
+Afar,horses,2008,0
+Afar,horses,2009,0
+Afar,horses,2010,0
+Afar,horses,2011,0
+Afar,horses,2012,0
+Afar,horses,2013,0
+Afar,horses,2014,0
+Afar,horses,2015,0
+Afar,horses,2016,0
+Afar,horses,2017,0
+Afar,horses,2018,0
+Afar,horses,2019,0
+Afar,horses,2020,0
+Amhara,horses,2003,250679
+Amhara,horses,2004,257320
+Amhara,horses,2005,289895
+Amhara,horses,2006,283813
+Amhara,horses,2007,304004
+Amhara,horses,2008,296372
+Amhara,horses,2009,352648
+Amhara,horses,2010,396231
+Amhara,horses,2011,432209
+Amhara,horses,2012,417324
+Amhara,horses,2013,404814
+Amhara,horses,2014,420760
+Amhara,horses,2015,471611
+Amhara,horses,2016,467510
+Amhara,horses,2017,488626
+Amhara,horses,2018,363242
+Amhara,horses,2019,461620
+Amhara,horses,2020,490154
+Benishangul Gumz,horses,2003,0
+Benishangul Gumz,horses,2004,0
+Benishangul Gumz,horses,2005,0
+Benishangul Gumz,horses,2006,0
+Benishangul Gumz,horses,2007,280
+Benishangul Gumz,horses,2008,0
+Benishangul Gumz,horses,2009,0
+Benishangul Gumz,horses,2010,0
+Benishangul Gumz,horses,2011,0
+Benishangul Gumz,horses,2012,0
+Benishangul Gumz,horses,2013,0
+Benishangul Gumz,horses,2014,0
+Benishangul Gumz,horses,2015,0
+Benishangul Gumz,horses,2016,0
+Benishangul Gumz,horses,2017,0
+Benishangul Gumz,horses,2018,0
+Benishangul Gumz,horses,2019,372
+Benishangul Gumz,horses,2020,0
+Dire Dawa,horses,2003,0
+Dire Dawa,horses,2004,0
+Dire Dawa,horses,2005,0
+Dire Dawa,horses,2006,0
+Dire Dawa,horses,2007,0
+Dire Dawa,horses,2008,0
+Dire Dawa,horses,2009,0
+Dire Dawa,horses,2010,0
+Dire Dawa,horses,2011,0
+Dire Dawa,horses,2012,0
+Dire Dawa,horses,2013,0
+Dire Dawa,horses,2014,0
+Dire Dawa,horses,2015,0
+Dire Dawa,horses,2016,0
+Dire Dawa,horses,2017,0
+Dire Dawa,horses,2018,0
+Dire Dawa,horses,2019,2823
+Dire Dawa,horses,2020,0
+Gambela,horses,2003,0
+Gambela,horses,2004,0
+Gambela,horses,2005,0
+Gambela,horses,2006,0
+Gambela,horses,2007,336
+Gambela,horses,2008,0
+Gambela,horses,2009,375
+Gambela,horses,2010,0
+Gambela,horses,2011,729
+Gambela,horses,2012,474
+Gambela,horses,2013,683
+Gambela,horses,2014,683
+Gambela,horses,2015,1111
+Gambela,horses,2016,747
+Gambela,horses,2017,904
+Gambela,horses,2018,0
+Gambela,horses,2019,9411
+Gambela,horses,2020,636
+Harari,horses,2003,0
+Harari,horses,2004,0
+Harari,horses,2005,0
+Harari,horses,2006,0
+Harari,horses,2007,0
+Harari,horses,2008,0
+Harari,horses,2009,0
+Harari,horses,2010,0
+Harari,horses,2011,0
+Harari,horses,2012,0
+Harari,horses,2013,0
+Harari,horses,2014,0
+Harari,horses,2015,0
+Harari,horses,2016,0
+Harari,horses,2017,0
+Harari,horses,2018,0
+Harari,horses,2019,0
+Harari,horses,2020,0
+Oromoa,horses,2003,899998
+Oromoa,horses,2004,959706
+Oromoa,horses,2005,969037
+Oromoa,horses,2006,1045458
+Oromoa,horses,2007,1111943
+Oromoa,horses,2008,1157906
+Oromoa,horses,2009,1299295
+Oromoa,horses,2010,1176301
+Oromoa,horses,2011,1143865
+Oromoa,horses,2012,1108850
+Oromoa,horses,2013,1186437
+Oromoa,horses,2014,1222760
+Oromoa,horses,2015,1242071
+Oromoa,horses,2016,1296520
+Oromoa,horses,2017,1128901
+Oromoa,horses,2018,1199659
+Oromoa,horses,2019,1324903
+Oromoa,horses,2020,1309923
+SNNPR,horses,2003,292773
+SNNPR,horses,2004,298717
+SNNPR,horses,2005,307104
+SNNPR,horses,2006,322323
+SNNPR,horses,2007,346335
+SNNPR,horses,2008,325972
+SNNPR,horses,2009,335709
+SNNPR,horses,2010,451799
+SNNPR,horses,2011,376402
+SNNPR,horses,2012,376627
+SNNPR,horses,2013,366008
+SNNPR,horses,2014,382927
+SNNPR,horses,2015,363841
+SNNPR,horses,2016,386620
+SNNPR,horses,2017,371298
+SNNPR,horses,2018,362208
+SNNPR,horses,2019,930
+SNNPR,horses,2020,310310
+Somali,horses,2003,0
+Somali,horses,2004,0
+Somali,horses,2005,0
+Somali,horses,2006,0
+Somali,horses,2007,0
+Somali,horses,2008,0
+Somali,horses,2009,0
+Somali,horses,2010,0
+Somali,horses,2011,0
+Somali,horses,2012,0
+Somali,horses,2013,0
+Somali,horses,2014,0
+Somali,horses,2015,0
+Somali,horses,2016,0
+Somali,horses,2017,0
+Somali,horses,2018,0
+Somali,horses,2019,318654
+Somali,horses,2020,0
+Tigray,horses,2003,2615
+Tigray,horses,2004,1200
+Tigray,horses,2005,1894
+Tigray,horses,2006,2270
+Tigray,horses,2007,0
+Tigray,horses,2008,5427
+Tigray,horses,2009,0
+Tigray,horses,2010,2108
+Tigray,horses,2011,3974
+Tigray,horses,2012,2412
+Tigray,horses,2013,2878
+Tigray,horses,2014,3541
+Tigray,horses,2015,2168
+Tigray,horses,2016,3815
+Tigray,horses,2017,0
+Tigray,horses,2018,0
+Tigray,horses,2019,2558
+Tigray,horses,2020,2558
