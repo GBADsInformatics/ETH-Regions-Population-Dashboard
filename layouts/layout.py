@@ -8,11 +8,11 @@ import numpy as np
 from dash.dependencies import Input,Output
 from dash_bootstrap_templates import load_figure_template
 from app import app
-
+from os import environ as env
 load_figure_template('LUX')
 
 #GBADSLOGOB = "https://i0.wp.com/animalhealthmetrics.org/wp-content/uploads/2019/10/GBADs-LOGO-Black-sm.png"
-GBADSLOGOB = "../assets/GBADs-LOGO-Black-sm.png"
+GBADSLOGOB = env.get('DASH_BASE_URL','') + "/assets/GBADs-LOGO-Black-sm.png"
 
 SIDEBAR_STYLE = {
     "position": "fixed",
