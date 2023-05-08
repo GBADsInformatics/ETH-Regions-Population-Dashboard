@@ -1,0 +1,19 @@
+1,2
+About,"Ethiopia Central Statistical Agency's Livestock reports from 2003 to 2020, scraped by GBADs Informatics"
+Name,Ethiopia Central Statistical Agency Agricultural Sample Survey Report on Livestock and Livestock Characteristics 
+,(Private Peasant Holdings)
+Identifier,https://ethiopia.s3.ca-central-1.amazonaws.com/ETH-CSA-Report-on-Livestock/<year>-Livestock.pdf
+Publication Date,2003 to 2020
+Creator,Ethiopia Central Statistical Agency
+Contact Point,The Global Burden of Animal Disease Informatics 
+,informatics@gbadske.org 
+Description,"Livestock population numbers for each region in Ethiopia from 2003-2020 from the Central Statistical Agency (CSA)."
+,"All populations are total head for the livestock species in a region."
+Statistical Unit,Population in number of heads.
+Periodocity ,Annual
+License,unknown
+Language,English
+Date Modified,Data has been modified to represent the best estimate of the data in the reports. 
+Subject,Livestock population numbers 
+Temporal Coverage,Start: 2003; End: 2020
+Spatial Coverage,Data are reported by subnational region in Ethiopia. 

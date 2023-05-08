@@ -35,7 +35,12 @@ def create_map(merged_df, dataset, species, year):
     with open('assets/eth_admbnda_adm1_csa_bofedb_2021.geojson') as file:
         geojson_eth = json.load(file)
 
-    newdf = pd.read_csv('data/csa.csv')
+    if dataset == "csa":
+        newdf = pd.read_csv('data/csa.csv')
+    elif dataset == "cattle":
+        newdf = pd.read_csv('data/cattle.csv')
+
+
 # get all 'yr' numbers for 'sp'
     filter1 = newdf.query(f'year == {yr}')
     filtered = filter1.query(f'species == "{sp}"')

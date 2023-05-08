@@ -9,9 +9,12 @@ def get_metadata_df(choice):
 
     if choice == 'csa': 
         return(m_csa)
+    elif choice == 'cattle':
+        return(m_cattle)
     
 ###--------------Read in metadata-----------------------------------
 m_csa = pd.read_csv('data/m_csa.csv')
+m_cattle = pd.read_csv('data/m_cattle.csv')
 
 table = html.Div([
     html.P("Select a dataset on the left sidebar to view the metadata."),
