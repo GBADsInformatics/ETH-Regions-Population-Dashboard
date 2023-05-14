@@ -1,0 +1,4159 @@
+year,region,species,population
+2003,Addis Ababa,Males < 4 years,0
+2004,Addis Ababa,Males < 4 years,0
+2005,Addis Ababa,Males < 4 years,0
+2006,Addis Ababa,Males < 4 years,0
+2007,Addis Ababa,Males < 4 years,0
+2008,Addis Ababa,Males < 4 years,0
+2009,Addis Ababa,Males < 4 years,0
+2010,Addis Ababa,Males < 4 years,0
+2011,Addis Ababa,Males < 4 years,0
+2012,Addis Ababa,Males < 4 years,0
+2013,Addis Ababa,Males < 4 years,0
+2014,Addis Ababa,Males < 4 years,0
+2015,Addis Ababa,Males < 4 years,0
+2016,Addis Ababa,Males < 4 years,0
+2017,Addis Ababa,Males < 4 years,0
+2018,Addis Ababa,Males < 4 years,0
+2019,Addis Ababa,Males < 4 years,0
+2020,Addis Ababa,Males < 4 years,0
+2003,Afar,Males < 4 years,9304
+2004,Afar,Males < 4 years,8978
+2005,Afar,Males < 4 years,10533
+2006,Afar,Males < 4 years,12179
+2007,Afar,Males < 4 years,16405
+2008,Afar,Males < 4 years,13764
+2009,Afar,Males < 4 years,17996
+2010,Afar,Males < 4 years,30731
+2011,Afar,Males < 4 years,26941
+2012,Afar,Males < 4 years,22900
+2013,Afar,Males < 4 years,37316
+2014,Afar,Males < 4 years,44549
+2015,Afar,Males < 4 years,38562
+2016,Afar,Males < 4 years,43377
+2017,Afar,Males < 4 years,73260
+2018,Afar,Males < 4 years,128010
+2019,Afar,Males < 4 years,124436
+2020,Afar,Males < 4 years,142906
+2003,Amhara,Males < 4 years,1960
+2004,Amhara,Males < 4 years,3485
+2005,Amhara,Males < 4 years,3760
+2006,Amhara,Males < 4 years,6975
+2007,Amhara,Males < 4 years,12023
+2008,Amhara,Males < 4 years,2994
+2009,Amhara,Males < 4 years,6549
+2010,Amhara,Males < 4 years,5984
+2011,Amhara,Males < 4 years,6909
+2012,Amhara,Males < 4 years,8027
+2013,Amhara,Males < 4 years,4725
+2014,Amhara,Males < 4 years,4591
+2015,Amhara,Males < 4 years,6541
+2016,Amhara,Males < 4 years,0
+2017,Amhara,Males < 4 years,0
+2018,Amhara,Males < 4 years,0
+2019,Amhara,Males < 4 years,0
+2020,Amhara,Males < 4 years,5853
+2003,Benishangul Gumz,Males < 4 years,0
+2004,Benishangul Gumz,Males < 4 years,0
+2005,Benishangul Gumz,Males < 4 years,0
+2006,Benishangul Gumz,Males < 4 years,0
+2007,Benishangul Gumz,Males < 4 years,0
+2008,Benishangul Gumz,Males < 4 years,0
+2009,Benishangul Gumz,Males < 4 years,0
+2010,Benishangul Gumz,Males < 4 years,0
+2011,Benishangul Gumz,Males < 4 years,0
+2012,Benishangul Gumz,Males < 4 years,0
+2013,Benishangul Gumz,Males < 4 years,0
+2014,Benishangul Gumz,Males < 4 years,0
+2015,Benishangul Gumz,Males < 4 years,0
+2016,Benishangul Gumz,Males < 4 years,0
+2017,Benishangul Gumz,Males < 4 years,0
+2018,Benishangul Gumz,Males < 4 years,0
+2019,Benishangul Gumz,Males < 4 years,0
+2020,Benishangul Gumz,Males < 4 years,0
+2003,Dire Dawa,Males < 4 years,1176
+2004,Dire Dawa,Males < 4 years,816
+2005,Dire Dawa,Males < 4 years,1322
+2006,Dire Dawa,Males < 4 years,1292
+2007,Dire Dawa,Males < 4 years,760
+2008,Dire Dawa,Males < 4 years,887
+2009,Dire Dawa,Males < 4 years,1211
+2010,Dire Dawa,Males < 4 years,887
+2011,Dire Dawa,Males < 4 years,1373
+2012,Dire Dawa,Males < 4 years,699
+2013,Dire Dawa,Males < 4 years,1286
+2014,Dire Dawa,Males < 4 years,1056
+2015,Dire Dawa,Males < 4 years,923
+2016,Dire Dawa,Males < 4 years,1047
+2017,Dire Dawa,Males < 4 years,1183
+2018,Dire Dawa,Males < 4 years,1066
+2019,Dire Dawa,Males < 4 years,2037
+2020,Dire Dawa,Males < 4 years,1926
+2003,Gambela,Males < 4 years,0
+2004,Gambela,Males < 4 years,0
+2005,Gambela,Males < 4 years,0
+2006,Gambela,Males < 4 years,0
+2007,Gambela,Males < 4 years,0
+2008,Gambela,Males < 4 years,0
+2009,Gambela,Males < 4 years,0
+2010,Gambela,Males < 4 years,0
+2011,Gambela,Males < 4 years,0
+2012,Gambela,Males < 4 years,0
+2013,Gambela,Males < 4 years,0
+2014,Gambela,Males < 4 years,0
+2015,Gambela,Males < 4 years,0
+2016,Gambela,Males < 4 years,0
+2017,Gambela,Males < 4 years,0
+2018,Gambela,Males < 4 years,0
+2019,Gambela,Males < 4 years,0
+2020,Gambela,Males < 4 years,0
+2003,Harari,Males < 4 years,0
+2004,Harari,Males < 4 years,0
+2005,Harari,Males < 4 years,0
+2006,Harari,Males < 4 years,0
+2007,Harari,Males < 4 years,0
+2008,Harari,Males < 4 years,0
+2009,Harari,Males < 4 years,0
+2010,Harari,Males < 4 years,0
+2011,Harari,Males < 4 years,0
+2012,Harari,Males < 4 years,0
+2013,Harari,Males < 4 years,0
+2014,Harari,Males < 4 years,841
+2015,Harari,Males < 4 years,0
+2016,Harari,Males < 4 years,0
+2017,Harari,Males < 4 years,0
+2018,Harari,Males < 4 years,0
+2019,Harari,Males < 4 years,0
+2020,Harari,Males < 4 years,0
+2003,Oromoa,Males < 4 years,20636
+2004,Oromoa,Males < 4 years,23918
+2005,Oromoa,Males < 4 years,21233
+2006,Oromoa,Males < 4 years,19479
+2007,Oromoa,Males < 4 years,63137
+2008,Oromoa,Males < 4 years,30936
+2009,Oromoa,Males < 4 years,33183
+2010,Oromoa,Males < 4 years,45241
+2011,Oromoa,Males < 4 years,53217
+2012,Oromoa,Males < 4 years,41369
+2013,Oromoa,Males < 4 years,51102
+2014,Oromoa,Males < 4 years,42291
+2015,Oromoa,Males < 4 years,49032
+2016,Oromoa,Males < 4 years,42604
+2017,Oromoa,Males < 4 years,29507
+2018,Oromoa,Males < 4 years,38633
+2019,Oromoa,Males < 4 years,46218
+2020,Oromoa,Males < 4 years,45453
+2003,SNNPR,Males < 4 years,0
+2004,SNNPR,Males < 4 years,0
+2005,SNNPR,Males < 4 years,0
+2006,SNNPR,Males < 4 years,0
+2007,SNNPR,Males < 4 years,0
+2008,SNNPR,Males < 4 years,0
+2009,SNNPR,Males < 4 years,0
+2010,SNNPR,Males < 4 years,0
+2011,SNNPR,Males < 4 years,0
+2012,SNNPR,Males < 4 years,0
+2013,SNNPR,Males < 4 years,0
+2014,SNNPR,Males < 4 years,0
+2015,SNNPR,Males < 4 years,0
+2016,SNNPR,Males < 4 years,0
+2017,SNNPR,Males < 4 years,0
+2018,SNNPR,Males < 4 years,0
+2019,SNNPR,Males < 4 years,0
+2020,SNNPR,Males < 4 years,0
+2003,Somali,Males < 4 years,18876
+2004,Somali,Males < 4 years,17024
+2005,Somali,Males < 4 years,17668
+2006,Somali,Males < 4 years,32014
+2007,Somali,Males < 4 years,38994
+2008,Somali,Males < 4 years,25323
+2009,Somali,Males < 4 years,26707
+2010,Somali,Males < 4 years,32052
+2011,Somali,Males < 4 years,30564
+2012,Somali,Males < 4 years,24279
+2013,Somali,Males < 4 years,39473
+2014,Somali,Males < 4 years,36612
+2015,Somali,Males < 4 years,36148
+2016,Somali,Males < 4 years,30619
+2017,Somali,Males < 4 years,33471
+2018,Somali,Males < 4 years,33471
+2019,Somali,Males < 4 years,677766
+2020,Somali,Males < 4 years,691515
+2003,Tigray,Males < 4 years,0
+2004,Tigray,Males < 4 years,0
+2005,Tigray,Males < 4 years,2000
+2006,Tigray,Males < 4 years,0
+2007,Tigray,Males < 4 years,3957
+2008,Tigray,Males < 4 years,0
+2009,Tigray,Males < 4 years,2825
+2010,Tigray,Males < 4 years,6567
+2011,Tigray,Males < 4 years,5384
+2012,Tigray,Males < 4 years,7965
+2013,Tigray,Males < 4 years,19735
+2014,Tigray,Males < 4 years,0
+2015,Tigray,Males < 4 years,0
+2016,Tigray,Males < 4 years,5494
+2017,Tigray,Males < 4 years,0
+2018,Tigray,Males < 4 years,2629
+2019,Tigray,Males < 4 years,0
+2020,Tigray,Males < 4 years,0
+2003,Addis Ababa,Males 4 years or older,0
+2004,Addis Ababa,Males 4 years or older,0
+2005,Addis Ababa,Males 4 years or older,0
+2006,Addis Ababa,Males 4 years or older,0
+2007,Addis Ababa,Males 4 years or older,0
+2008,Addis Ababa,Males 4 years or older,0
+2009,Addis Ababa,Males 4 years or older,0
+2010,Addis Ababa,Males 4 years or older,0
+2011,Addis Ababa,Males 4 years or older,0
+2012,Addis Ababa,Males 4 years or older,0
+2013,Addis Ababa,Males 4 years or older,0
+2014,Addis Ababa,Males 4 years or older,0
+2015,Addis Ababa,Males 4 years or older,0
+2016,Addis Ababa,Males 4 years or older,0
+2017,Addis Ababa,Males 4 years or older,0
+2018,Addis Ababa,Males 4 years or older,0
+2019,Addis Ababa,Males 4 years or older,0
+2020,Addis Ababa,Males 4 years or older,0
+2003,Afar,Males 4 years or older,14203
+2004,Afar,Males 4 years or older,14061
+2005,Afar,Males 4 years or older,17698
+2006,Afar,Males 4 years or older,17066
+2007,Afar,Males 4 years or older,28131
+2008,Afar,Males 4 years or older,25475
+2009,Afar,Males 4 years or older,31209
+2010,Afar,Males 4 years or older,59125
+2011,Afar,Males 4 years or older,42898
+2012,Afar,Males 4 years or older,37394
+2013,Afar,Males 4 years or older,51255
+2014,Afar,Males 4 years or older,57555
+2015,Afar,Males 4 years or older,62707
+2016,Afar,Males 4 years or older,65811
+2017,Afar,Males 4 years or older,61757
+2018,Afar,Males 4 years or older,155478
+2019,Afar,Males 4 years or older,213796
+2020,Afar,Males 4 years or older,195271
+2003,Amhara,Males 4 years or older,16699
+2004,Amhara,Males 4 years or older,10578
+2005,Amhara,Males 4 years or older,9628
+2006,Amhara,Males 4 years or older,24749
+2007,Amhara,Males 4 years or older,34515
+2008,Amhara,Males 4 years or older,47005
+2009,Amhara,Males 4 years or older,28101
+2010,Amhara,Males 4 years or older,41372
+2011,Amhara,Males 4 years or older,47694
+2012,Amhara,Males 4 years or older,52125
+2013,Amhara,Males 4 years or older,59665
+2014,Amhara,Males 4 years or older,61318
+2015,Amhara,Males 4 years or older,55736
+2016,Amhara,Males 4 years or older,61037
+2017,Amhara,Males 4 years or older,127088
+2018,Amhara,Males 4 years or older,32428
+2019,Amhara,Males 4 years or older,47614
+2020,Amhara,Males 4 years or older,38773
+2003,Benishangul Gumz,Males 4 years or older,0
+2004,Benishangul Gumz,Males 4 years or older,0
+2005,Benishangul Gumz,Males 4 years or older,0
+2006,Benishangul Gumz,Males 4 years or older,0
+2007,Benishangul Gumz,Males 4 years or older,0
+2008,Benishangul Gumz,Males 4 years or older,0
+2009,Benishangul Gumz,Males 4 years or older,0
+2010,Benishangul Gumz,Males 4 years or older,0
+2011,Benishangul Gumz,Males 4 years or older,0
+2012,Benishangul Gumz,Males 4 years or older,0
+2013,Benishangul Gumz,Males 4 years or older,0
+2014,Benishangul Gumz,Males 4 years or older,0
+2015,Benishangul Gumz,Males 4 years or older,0
+2016,Benishangul Gumz,Males 4 years or older,0
+2017,Benishangul Gumz,Males 4 years or older,0
+2018,Benishangul Gumz,Males 4 years or older,0
+2019,Benishangul Gumz,Males 4 years or older,0
+2020,Benishangul Gumz,Males 4 years or older,0
+2003,Dire Dawa,Males 4 years or older,2762
+2004,Dire Dawa,Males 4 years or older,2027
+2005,Dire Dawa,Males 4 years or older,1836
+2006,Dire Dawa,Males 4 years or older,1979
+2007,Dire Dawa,Males 4 years or older,1516
+2008,Dire Dawa,Males 4 years or older,1820
+2009,Dire Dawa,Males 4 years or older,2406
+2010,Dire Dawa,Males 4 years or older,2294
+2011,Dire Dawa,Males 4 years or older,2463
+2012,Dire Dawa,Males 4 years or older,2024
+2013,Dire Dawa,Males 4 years or older,2254
+2014,Dire Dawa,Males 4 years or older,2142
+2015,Dire Dawa,Males 4 years or older,1956
+2016,Dire Dawa,Males 4 years or older,3196
+2017,Dire Dawa,Males 4 years or older,3773
+2018,Dire Dawa,Males 4 years or older,3452
+2019,Dire Dawa,Males 4 years or older,3543
+2020,Dire Dawa,Males 4 years or older,3728
+2003,Gambela,Males 4 years or older,0
+2004,Gambela,Males 4 years or older,0
+2005,Gambela,Males 4 years or older,0
+2006,Gambela,Males 4 years or older,0
+2007,Gambela,Males 4 years or older,0
+2008,Gambela,Males 4 years or older,0
+2009,Gambela,Males 4 years or older,0
+2010,Gambela,Males 4 years or older,0
+2011,Gambela,Males 4 years or older,0
+2012,Gambela,Males 4 years or older,0
+2013,Gambela,Males 4 years or older,0
+2014,Gambela,Males 4 years or older,0
+2015,Gambela,Males 4 years or older,0
+2016,Gambela,Males 4 years or older,0
+2017,Gambela,Males 4 years or older,0
+2018,Gambela,Males 4 years or older,0
+2019,Gambela,Males 4 years or older,0
+2020,Gambela,Males 4 years or older,0
+2003,Harari,Males 4 years or older,0
+2004,Harari,Males 4 years or older,0
+2005,Harari,Males 4 years or older,0
+2006,Harari,Males 4 years or older,0
+2007,Harari,Males 4 years or older,0
+2008,Harari,Males 4 years or older,0
+2009,Harari,Males 4 years or older,0
+2010,Harari,Males 4 years or older,0
+2011,Harari,Males 4 years or older,0
+2012,Harari,Males 4 years or older,0
+2013,Harari,Males 4 years or older,0
+2014,Harari,Males 4 years or older,0
+2015,Harari,Males 4 years or older,0
+2016,Harari,Males 4 years or older,0
+2017,Harari,Males 4 years or older,0
+2018,Harari,Males 4 years or older,0
+2019,Harari,Males 4 years or older,0
+2020,Harari,Males 4 years or older,0
+2003,Oromoa,Males 4 years or older,16320
+2004,Oromoa,Males 4 years or older,18048
+2005,Oromoa,Males 4 years or older,20458
+2006,Oromoa,Males 4 years or older,21468
+2007,Oromoa,Males 4 years or older,62254
+2008,Oromoa,Males 4 years or older,43085
+2009,Oromoa,Males 4 years or older,41577
+2010,Oromoa,Males 4 years or older,44174
+2011,Oromoa,Males 4 years or older,52225
+2012,Oromoa,Males 4 years or older,28819
+2013,Oromoa,Males 4 years or older,29838
+2014,Oromoa,Males 4 years or older,33663
+2015,Oromoa,Males 4 years or older,33311
+2016,Oromoa,Males 4 years or older,38367
+2017,Oromoa,Males 4 years or older,38430
+2018,Oromoa,Males 4 years or older,40739
+2019,Oromoa,Males 4 years or older,50127
+2020,Oromoa,Males 4 years or older,57132
+2003,SNNPR,Males 4 years or older,0
+2004,SNNPR,Males 4 years or older,0
+2005,SNNPR,Males 4 years or older,0
+2006,SNNPR,Males 4 years or older,0
+2007,SNNPR,Males 4 years or older,0
+2008,SNNPR,Males 4 years or older,0
+2009,SNNPR,Males 4 years or older,0
+2010,SNNPR,Males 4 years or older,0
+2011,SNNPR,Males 4 years or older,0
+2012,SNNPR,Males 4 years or older,0
+2013,SNNPR,Males 4 years or older,0
+2014,SNNPR,Males 4 years or older,0
+2015,SNNPR,Males 4 years or older,0
+2016,SNNPR,Males 4 years or older,0
+2017,SNNPR,Males 4 years or older,0
+2018,SNNPR,Males 4 years or older,0
+2019,SNNPR,Males 4 years or older,0
+2020,SNNPR,Males 4 years or older,0
+2003,Somali,Males 4 years or older,37381
+2004,Somali,Males 4 years or older,38113
+2005,Somali,Males 4 years or older,39669
+2006,Somali,Males 4 years or older,53034
+2007,Somali,Males 4 years or older,76015
+2008,Somali,Males 4 years or older,57099
+2009,Somali,Males 4 years or older,51844
+2010,Somali,Males 4 years or older,60049
+2011,Somali,Males 4 years or older,61251
+2012,Somali,Males 4 years or older,47336
+2013,Somali,Males 4 years or older,70500
+2014,Somali,Males 4 years or older,73189
+2015,Somali,Males 4 years or older,78328
+2016,Somali,Males 4 years or older,55709
+2017,Somali,Males 4 years or older,55575
+2018,Somali,Males 4 years or older,55575
+2019,Somali,Males 4 years or older,1034325
+2020,Somali,Males 4 years or older,1170065
+2003,Tigray,Males 4 years or older,35390
+2004,Tigray,Males 4 years or older,27238
+2005,Tigray,Males 4 years or older,30777
+2006,Tigray,Males 4 years or older,30130
+2007,Tigray,Males 4 years or older,29346
+2008,Tigray,Males 4 years or older,25089
+2009,Tigray,Males 4 years or older,29463
+2010,Tigray,Males 4 years or older,26667
+2011,Tigray,Males 4 years or older,27468
+2012,Tigray,Males 4 years or older,42845
+2013,Tigray,Males 4 years or older,52813
+2014,Tigray,Males 4 years or older,44111
+2015,Tigray,Males 4 years or older,47645
+2016,Tigray,Males 4 years or older,45861
+2017,Tigray,Males 4 years or older,39829
+2018,Tigray,Males 4 years or older,46765
+2019,Tigray,Males 4 years or older,44532
+2020,Tigray,Males 4 years or older,44532
+2003,Addis Ababa,Females < 4 years,0
+2004,Addis Ababa,Females < 4 years,0
+2005,Addis Ababa,Females < 4 years,0
+2006,Addis Ababa,Females < 4 years,0
+2007,Addis Ababa,Females < 4 years,0
+2008,Addis Ababa,Females < 4 years,0
+2009,Addis Ababa,Females < 4 years,0
+2010,Addis Ababa,Females < 4 years,0
+2011,Addis Ababa,Females < 4 years,0
+2012,Addis Ababa,Females < 4 years,0
+2013,Addis Ababa,Females < 4 years,0
+2014,Addis Ababa,Females < 4 years,0
+2015,Addis Ababa,Females < 4 years,0
+2016,Addis Ababa,Females < 4 years,0
+2017,Addis Ababa,Females < 4 years,0
+2018,Addis Ababa,Females < 4 years,0
+2019,Addis Ababa,Females < 4 years,0
+2020,Addis Ababa,Females < 4 years,0
+2003,Afar,Females < 4 years,28808
+2004,Afar,Females < 4 years,18508
+2005,Afar,Females < 4 years,22064
+2006,Afar,Females < 4 years,30450
+2007,Afar,Females < 4 years,0
+2008,Afar,Females < 4 years,27269
+2009,Afar,Females < 4 years,38542
+2010,Afar,Females < 4 years,50622
+2011,Afar,Females < 4 years,58021
+2012,Afar,Females < 4 years,48902
+2013,Afar,Females < 4 years,65058
+2014,Afar,Females < 4 years,67454
+2015,Afar,Females < 4 years,73547
+2016,Afar,Females < 4 years,85424
+2017,Afar,Females < 4 years,105618
+2018,Afar,Females < 4 years,198301
+2019,Afar,Females < 4 years,191908
+2020,Afar,Females < 4 years,227617
+2003,Amhara,Females < 4 years,0
+2004,Amhara,Females < 4 years,0
+2005,Amhara,Females < 4 years,0
+2006,Amhara,Females < 4 years,0
+2007,Amhara,Females < 4 years,0
+2008,Amhara,Females < 4 years,0
+2009,Amhara,Females < 4 years,0
+2010,Amhara,Females < 4 years,0
+2011,Amhara,Females < 4 years,0
+2012,Amhara,Females < 4 years,0
+2013,Amhara,Females < 4 years,0
+2014,Amhara,Females < 4 years,0
+2015,Amhara,Females < 4 years,0
+2016,Amhara,Females < 4 years,0
+2017,Amhara,Females < 4 years,0
+2018,Amhara,Females < 4 years,0
+2019,Amhara,Females < 4 years,0
+2020,Amhara,Females < 4 years,0
+2003,Benishangul Gumz,Females < 4 years,0
+2004,Benishangul Gumz,Females < 4 years,0
+2005,Benishangul Gumz,Females < 4 years,0
+2006,Benishangul Gumz,Females < 4 years,0
+2007,Benishangul Gumz,Females < 4 years,0
+2008,Benishangul Gumz,Females < 4 years,0
+2009,Benishangul Gumz,Females < 4 years,0
+2010,Benishangul Gumz,Females < 4 years,0
+2011,Benishangul Gumz,Females < 4 years,0
+2012,Benishangul Gumz,Females < 4 years,0
+2013,Benishangul Gumz,Females < 4 years,0
+2014,Benishangul Gumz,Females < 4 years,0
+2015,Benishangul Gumz,Females < 4 years,0
+2016,Benishangul Gumz,Females < 4 years,0
+2017,Benishangul Gumz,Females < 4 years,0
+2018,Benishangul Gumz,Females < 4 years,0
+2019,Benishangul Gumz,Females < 4 years,0
+2020,Benishangul Gumz,Females < 4 years,0
+2003,Dire Dawa,Females < 4 years,1030
+2004,Dire Dawa,Females < 4 years,501
+2005,Dire Dawa,Females < 4 years,1001
+2006,Dire Dawa,Females < 4 years,1420
+2007,Dire Dawa,Females < 4 years,977
+2008,Dire Dawa,Females < 4 years,831
+2009,Dire Dawa,Females < 4 years,1249
+2010,Dire Dawa,Females < 4 years,949
+2011,Dire Dawa,Females < 4 years,1113
+2012,Dire Dawa,Females < 4 years,909
+2013,Dire Dawa,Females < 4 years,1369
+2014,Dire Dawa,Females < 4 years,1331
+2015,Dire Dawa,Females < 4 years,768
+2016,Dire Dawa,Females < 4 years,834
+2017,Dire Dawa,Females < 4 years,801
+2018,Dire Dawa,Females < 4 years,946
+2019,Dire Dawa,Females < 4 years,1530
+2020,Dire Dawa,Females < 4 years,1259
+2003,Gambela,Females < 4 years,0
+2004,Gambela,Females < 4 years,0
+2005,Gambela,Females < 4 years,0
+2006,Gambela,Females < 4 years,0
+2007,Gambela,Females < 4 years,0
+2008,Gambela,Females < 4 years,0
+2009,Gambela,Females < 4 years,0
+2010,Gambela,Females < 4 years,0
+2011,Gambela,Females < 4 years,0
+2012,Gambela,Females < 4 years,0
+2013,Gambela,Females < 4 years,0
+2014,Gambela,Females < 4 years,0
+2015,Gambela,Females < 4 years,0
+2016,Gambela,Females < 4 years,0
+2017,Gambela,Females < 4 years,0
+2018,Gambela,Females < 4 years,0
+2019,Gambela,Females < 4 years,0
+2020,Gambela,Females < 4 years,0
+2003,Harari,Females < 4 years,0
+2004,Harari,Females < 4 years,0
+2005,Harari,Females < 4 years,0
+2006,Harari,Females < 4 years,0
+2007,Harari,Females < 4 years,0
+2008,Harari,Females < 4 years,0
+2009,Harari,Females < 4 years,0
+2010,Harari,Females < 4 years,0
+2011,Harari,Females < 4 years,0
+2012,Harari,Females < 4 years,0
+2013,Harari,Females < 4 years,717
+2014,Harari,Females < 4 years,0
+2015,Harari,Females < 4 years,0
+2016,Harari,Females < 4 years,0
+2017,Harari,Females < 4 years,0
+2018,Harari,Females < 4 years,0
+2019,Harari,Females < 4 years,0
+2020,Harari,Females < 4 years,0
+2003,Oromoa,Females < 4 years,21142
+2004,Oromoa,Females < 4 years,30779
+2005,Oromoa,Females < 4 years,15973
+2006,Oromoa,Females < 4 years,24993
+2007,Oromoa,Females < 4 years,77636
+2008,Oromoa,Females < 4 years,48868
+2009,Oromoa,Females < 4 years,45604
+2010,Oromoa,Females < 4 years,54235
+2011,Oromoa,Females < 4 years,48812
+2012,Oromoa,Females < 4 years,48884
+2013,Oromoa,Females < 4 years,49571
+2014,Oromoa,Females < 4 years,46658
+2015,Oromoa,Females < 4 years,42831
+2016,Oromoa,Females < 4 years,55053
+2017,Oromoa,Females < 4 years,0
+2018,Oromoa,Females < 4 years,62450
+2019,Oromoa,Females < 4 years,50656
+2020,Oromoa,Females < 4 years,48489
+2003,SNNPR,Females < 4 years,0
+2004,SNNPR,Females < 4 years,0
+2005,SNNPR,Females < 4 years,0
+2006,SNNPR,Females < 4 years,0
+2007,SNNPR,Females < 4 years,0
+2008,SNNPR,Females < 4 years,0
+2009,SNNPR,Females < 4 years,0
+2010,SNNPR,Females < 4 years,0
+2011,SNNPR,Females < 4 years,0
+2012,SNNPR,Females < 4 years,0
+2013,SNNPR,Females < 4 years,0
+2014,SNNPR,Females < 4 years,0
+2015,SNNPR,Females < 4 years,0
+2016,SNNPR,Females < 4 years,0
+2017,SNNPR,Females < 4 years,0
+2018,SNNPR,Females < 4 years,0
+2019,SNNPR,Females < 4 years,0
+2020,SNNPR,Females < 4 years,0
+2003,Somali,Females < 4 years,23759
+2004,Somali,Females < 4 years,27472
+2005,Somali,Females < 4 years,22038
+2006,Somali,Females < 4 years,44614
+2007,Somali,Females < 4 years,45013
+2008,Somali,Females < 4 years,38359
+2009,Somali,Females < 4 years,34802
+2010,Somali,Females < 4 years,44053
+2011,Somali,Females < 4 years,47197
+2012,Somali,Females < 4 years,32111
+2013,Somali,Females < 4 years,47856
+2014,Somali,Females < 4 years,53296
+2015,Somali,Females < 4 years,51106
+2016,Somali,Females < 4 years,49618
+2017,Somali,Females < 4 years,30428
+2018,Somali,Females < 4 years,30428
+2019,Somali,Females < 4 years,1029844
+2020,Somali,Females < 4 years,1281372
+2003,Tigray,Females < 4 years,0
+2004,Tigray,Females < 4 years,0
+2005,Tigray,Females < 4 years,0
+2006,Tigray,Females < 4 years,0
+2007,Tigray,Females < 4 years,0
+2008,Tigray,Females < 4 years,0
+2009,Tigray,Females < 4 years,0
+2010,Tigray,Females < 4 years,0
+2011,Tigray,Females < 4 years,0
+2012,Tigray,Females < 4 years,0
+2013,Tigray,Females < 4 years,0
+2014,Tigray,Females < 4 years,0
+2015,Tigray,Females < 4 years,0
+2016,Tigray,Females < 4 years,0
+2017,Tigray,Females < 4 years,0
+2018,Tigray,Females < 4 years,0
+2019,Tigray,Females < 4 years,0
+2020,Tigray,Females < 4 years,0
+2003,Addis Ababa,Females 4 years or older,0
+2004,Addis Ababa,Females 4 years or older,0
+2005,Addis Ababa,Females 4 years or older,0
+2006,Addis Ababa,Females 4 years or older,0
+2007,Addis Ababa,Females 4 years or older,0
+2008,Addis Ababa,Females 4 years or older,0
+2009,Addis Ababa,Females 4 years or older,0
+2010,Addis Ababa,Females 4 years or older,0
+2011,Addis Ababa,Females 4 years or older,0
+2012,Addis Ababa,Females 4 years or older,0
+2013,Addis Ababa,Females 4 years or older,0
+2014,Addis Ababa,Females 4 years or older,0
+2015,Addis Ababa,Females 4 years or older,0
+2016,Addis Ababa,Females 4 years or older,0
+2017,Addis Ababa,Females 4 years or older,0
+2018,Addis Ababa,Females 4 years or older,0
+2019,Addis Ababa,Females 4 years or older,0
+2020,Addis Ababa,Females 4 years or older,0
+2003,Afar,Females 4 years or older,72221
+2004,Afar,Females 4 years or older,58286
+2005,Afar,Females 4 years or older,61836
+2006,Afar,Females 4 years or older,84055
+2007,Afar,Females 4 years or older,52349
+2008,Afar,Females 4 years or older,105006
+2009,Afar,Females 4 years or older,130683
+2010,Afar,Females 4 years or older,238750
+2011,Afar,Females 4 years or older,148770
+2012,Afar,Females 4 years or older,161206
+2013,Afar,Females 4 years or older,181409
+2014,Afar,Females 4 years or older,264733
+2015,Afar,Females 4 years or older,285809
+2016,Afar,Females 4 years or older,279534
+2017,Afar,Females 4 years or older,409406
+2018,Afar,Females 4 years or older,637193
+2019,Afar,Females 4 years or older,632170
+2020,Afar,Females 4 years or older,693176
+2003,Amhara,Females 4 years or older,0
+2004,Amhara,Females 4 years or older,0
+2005,Amhara,Females 4 years or older,0
+2006,Amhara,Females 4 years or older,0
+2007,Amhara,Females 4 years or older,0
+2008,Amhara,Females 4 years or older,0
+2009,Amhara,Females 4 years or older,0
+2010,Amhara,Females 4 years or older,0
+2011,Amhara,Females 4 years or older,0
+2012,Amhara,Females 4 years or older,0
+2013,Amhara,Females 4 years or older,0
+2014,Amhara,Females 4 years or older,0
+2015,Amhara,Females 4 years or older,0
+2016,Amhara,Females 4 years or older,0
+2017,Amhara,Females 4 years or older,0
+2018,Amhara,Females 4 years or older,0
+2019,Amhara,Females 4 years or older,0
+2020,Amhara,Females 4 years or older,0
+2003,Benishangul Gumz,Females 4 years or older,0
+2004,Benishangul Gumz,Females 4 years or older,0
+2005,Benishangul Gumz,Females 4 years or older,0
+2006,Benishangul Gumz,Females 4 years or older,0
+2007,Benishangul Gumz,Females 4 years or older,0
+2008,Benishangul Gumz,Females 4 years or older,0
+2009,Benishangul Gumz,Females 4 years or older,0
+2010,Benishangul Gumz,Females 4 years or older,0
+2011,Benishangul Gumz,Females 4 years or older,0
+2012,Benishangul Gumz,Females 4 years or older,0
+2013,Benishangul Gumz,Females 4 years or older,0
+2014,Benishangul Gumz,Females 4 years or older,0
+2015,Benishangul Gumz,Females 4 years or older,0
+2016,Benishangul Gumz,Females 4 years or older,0
+2017,Benishangul Gumz,Females 4 years or older,0
+2018,Benishangul Gumz,Females 4 years or older,0
+2019,Benishangul Gumz,Females 4 years or older,0
+2020,Benishangul Gumz,Females 4 years or older,0
+2003,Dire Dawa,Females 4 years or older,2980
+2004,Dire Dawa,Females 4 years or older,1727
+2005,Dire Dawa,Females 4 years or older,2250
+2006,Dire Dawa,Females 4 years or older,3620
+2007,Dire Dawa,Females 4 years or older,1807
+2008,Dire Dawa,Females 4 years or older,1960
+2009,Dire Dawa,Females 4 years or older,2955
+2010,Dire Dawa,Females 4 years or older,2296
+2011,Dire Dawa,Females 4 years or older,2840
+2012,Dire Dawa,Females 4 years or older,1992
+2013,Dire Dawa,Females 4 years or older,2221
+2014,Dire Dawa,Females 4 years or older,2141
+2015,Dire Dawa,Females 4 years or older,2093
+2016,Dire Dawa,Females 4 years or older,3125
+2017,Dire Dawa,Females 4 years or older,2450
+2018,Dire Dawa,Females 4 years or older,2124
+2019,Dire Dawa,Females 4 years or older,9752
+2020,Dire Dawa,Females 4 years or older,4277
+2003,Gambela,Females 4 years or older,0
+2004,Gambela,Females 4 years or older,0
+2005,Gambela,Females 4 years or older,0
+2006,Gambela,Females 4 years or older,0
+2007,Gambela,Females 4 years or older,0
+2008,Gambela,Females 4 years or older,0
+2009,Gambela,Females 4 years or older,0
+2010,Gambela,Females 4 years or older,0
+2011,Gambela,Females 4 years or older,0
+2012,Gambela,Females 4 years or older,0
+2013,Gambela,Females 4 years or older,0
+2014,Gambela,Females 4 years or older,0
+2015,Gambela,Females 4 years or older,0
+2016,Gambela,Females 4 years or older,0
+2017,Gambela,Females 4 years or older,0
+2018,Gambela,Females 4 years or older,0
+2019,Gambela,Females 4 years or older,0
+2020,Gambela,Females 4 years or older,0
+2003,Harari,Females 4 years or older,0
+2004,Harari,Females 4 years or older,0
+2005,Harari,Females 4 years or older,0
+2006,Harari,Females 4 years or older,0
+2007,Harari,Females 4 years or older,0
+2008,Harari,Females 4 years or older,0
+2009,Harari,Females 4 years or older,0
+2010,Harari,Females 4 years or older,0
+2011,Harari,Females 4 years or older,1140
+2012,Harari,Females 4 years or older,0
+2013,Harari,Females 4 years or older,0
+2014,Harari,Females 4 years or older,2234
+2015,Harari,Females 4 years or older,1760
+2016,Harari,Females 4 years or older,0
+2017,Harari,Females 4 years or older,0
+2018,Harari,Females 4 years or older,0
+2019,Harari,Females 4 years or older,0
+2020,Harari,Females 4 years or older,0
+2003,Oromoa,Females 4 years or older,55430
+2004,Oromoa,Females 4 years or older,67085
+2005,Oromoa,Females 4 years or older,64306
+2006,Oromoa,Females 4 years or older,65302
+2007,Oromoa,Females 4 years or older,244660
+2008,Oromoa,Females 4 years or older,132439
+2009,Oromoa,Females 4 years or older,136957
+2010,Oromoa,Females 4 years or older,182420
+2011,Oromoa,Females 4 years or older,156165
+2012,Oromoa,Females 4 years or older,145104
+2013,Oromoa,Females 4 years or older,137578
+2014,Oromoa,Females 4 years or older,116746
+2015,Oromoa,Females 4 years or older,147170
+2016,Oromoa,Females 4 years or older,163398
+2017,Oromoa,Females 4 years or older,0
+2018,Oromoa,Females 4 years or older,152289
+2019,Oromoa,Females 4 years or older,147330
+2020,Oromoa,Females 4 years or older,141835
+2003,SNNPR,Females 4 years or older,0
+2004,SNNPR,Females 4 years or older,0
+2005,SNNPR,Females 4 years or older,0
+2006,SNNPR,Females 4 years or older,0
+2007,SNNPR,Females 4 years or older,0
+2008,SNNPR,Females 4 years or older,0
+2009,SNNPR,Females 4 years or older,0
+2010,SNNPR,Females 4 years or older,0
+2011,SNNPR,Females 4 years or older,0
+2012,SNNPR,Females 4 years or older,0
+2013,SNNPR,Females 4 years or older,0
+2014,SNNPR,Females 4 years or older,0
+2015,SNNPR,Females 4 years or older,0
+2016,SNNPR,Females 4 years or older,0
+2017,SNNPR,Females 4 years or older,0
+2018,SNNPR,Females 4 years or older,0
+2019,SNNPR,Females 4 years or older,0
+2020,SNNPR,Females 4 years or older,0
+2003,Somali,Females 4 years or older,83479
+2004,Somali,Females 4 years or older,82655
+2005,Somali,Females 4 years or older,65698
+2006,Somali,Females 4 years or older,134578
+2007,Somali,Females 4 years or older,170541
+2008,Somali,Females 4 years or older,121162
+2009,Somali,Females 4 years or older,141487
+2010,Somali,Females 4 years or older,165169
+2011,Somali,Females 4 years or older,151638
+2012,Somali,Females 4 years or older,156970
+2013,Somali,Females 4 years or older,174321
+2014,Somali,Females 4 years or older,190026
+2015,Somali,Females 4 years or older,196708
+2016,Somali,Females 4 years or older,159130
+2017,Somali,Females 4 years or older,130001
+2018,Somali,Females 4 years or older,130001
+2019,Somali,Females 4 years or older,3390417
+2020,Somali,Females 4 years or older,3346750
+2003,Tigray,Females 4 years or older,0
+2004,Tigray,Females 4 years or older,0
+2005,Tigray,Females 4 years or older,0
+2006,Tigray,Females 4 years or older,0
+2007,Tigray,Females 4 years or older,0
+2008,Tigray,Females 4 years or older,0
+2009,Tigray,Females 4 years or older,0
+2010,Tigray,Females 4 years or older,0
+2011,Tigray,Females 4 years or older,0
+2012,Tigray,Females 4 years or older,0
+2013,Tigray,Females 4 years or older,0
+2014,Tigray,Females 4 years or older,0
+2015,Tigray,Females 4 years or older,0
+2016,Tigray,Females 4 years or older,0
+2017,Tigray,Females 4 years or older,0
+2018,Tigray,Females 4 years or older,0
+2019,Tigray,Females 4 years or older,0
+2020,Tigray,Females 4 years or older,0
+2003,Addis Ababa,Dairy camels,0
+2004,Addis Ababa,Dairy camels,0
+2005,Addis Ababa,Dairy camels,0
+2006,Addis Ababa,Dairy camels,0
+2007,Addis Ababa,Dairy camels,0
+2008,Addis Ababa,Dairy camels,0
+2009,Addis Ababa,Dairy camels,0
+2010,Addis Ababa,Dairy camels,0
+2011,Addis Ababa,Dairy camels,0
+2012,Addis Ababa,Dairy camels,0
+2013,Addis Ababa,Dairy camels,0
+2014,Addis Ababa,Dairy camels,0
+2015,Addis Ababa,Dairy camels,0
+2016,Addis Ababa,Dairy camels,0
+2017,Addis Ababa,Dairy camels,0
+2018,Addis Ababa,Dairy camels,0
+2019,Addis Ababa,Dairy camels,0
+2020,Addis Ababa,Dairy camels,0
+2003,Afar,Dairy camels,61682
+2004,Afar,Dairy camels,40293
+2005,Afar,Dairy camels,42286
+2006,Afar,Dairy camels,53370
+2007,Afar,Dairy camels,35335
+2008,Afar,Dairy camels,71330
+2009,Afar,Dairy camels,72642
+2010,Afar,Dairy camels,133689
+2011,Afar,Dairy camels,93300
+2012,Afar,Dairy camels,83216
+2013,Afar,Dairy camels,91389
+2014,Afar,Dairy camels,141867
+2015,Afar,Dairy camels,157431
+2016,Afar,Dairy camels,149080
+2017,Afar,Dairy camels,393881
+2018,Afar,Dairy camels,520257
+2019,Afar,Dairy camels,387250
+2020,Afar,Dairy camels,420630
+2003,Amhara,Dairy camels,0
+2004,Amhara,Dairy camels,0
+2005,Amhara,Dairy camels,0
+2006,Amhara,Dairy camels,0
+2007,Amhara,Dairy camels,0
+2008,Amhara,Dairy camels,367408
+2009,Amhara,Dairy camels,0
+2010,Amhara,Dairy camels,0
+2011,Amhara,Dairy camels,0
+2012,Amhara,Dairy camels,0
+2013,Amhara,Dairy camels,0
+2014,Amhara,Dairy camels,0
+2015,Amhara,Dairy camels,0
+2016,Amhara,Dairy camels,0
+2017,Amhara,Dairy camels,0
+2018,Amhara,Dairy camels,0
+2019,Amhara,Dairy camels,0
+2020,Amhara,Dairy camels,0
+2003,Benishangul Gumz,Dairy camels,0
+2004,Benishangul Gumz,Dairy camels,0
+2005,Benishangul Gumz,Dairy camels,0
+2006,Benishangul Gumz,Dairy camels,0
+2007,Benishangul Gumz,Dairy camels,0
+2008,Benishangul Gumz,Dairy camels,29946
+2009,Benishangul Gumz,Dairy camels,0
+2010,Benishangul Gumz,Dairy camels,0
+2011,Benishangul Gumz,Dairy camels,0
+2012,Benishangul Gumz,Dairy camels,0
+2013,Benishangul Gumz,Dairy camels,0
+2014,Benishangul Gumz,Dairy camels,0
+2015,Benishangul Gumz,Dairy camels,0
+2016,Benishangul Gumz,Dairy camels,0
+2017,Benishangul Gumz,Dairy camels,0
+2018,Benishangul Gumz,Dairy camels,0
+2019,Benishangul Gumz,Dairy camels,0
+2020,Benishangul Gumz,Dairy camels,0
+2003,Dire Dawa,Dairy camels,2043
+2004,Dire Dawa,Dairy camels,1328
+2005,Dire Dawa,Dairy camels,1604
+2006,Dire Dawa,Dairy camels,0
+2007,Dire Dawa,Dairy camels,1035
+2008,Dire Dawa,Dairy camels,8852
+2009,Dire Dawa,Dairy camels,1236
+2010,Dire Dawa,Dairy camels,1454
+2011,Dire Dawa,Dairy camels,961
+2012,Dire Dawa,Dairy camels,1081
+2013,Dire Dawa,Dairy camels,746
+2014,Dire Dawa,Dairy camels,797
+2015,Dire Dawa,Dairy camels,896
+2016,Dire Dawa,Dairy camels,845
+2017,Dire Dawa,Dairy camels,2788
+2018,Dire Dawa,Dairy camels,875
+2019,Dire Dawa,Dairy camels,2574
+2020,Dire Dawa,Dairy camels,1994
+2003,Gambela,Dairy camels,0
+2004,Gambela,Dairy camels,0
+2005,Gambela,Dairy camels,0
+2006,Gambela,Dairy camels,0
+2007,Gambela,Dairy camels,0
+2008,Gambela,Dairy camels,2679
+2009,Gambela,Dairy camels,0
+2010,Gambela,Dairy camels,0
+2011,Gambela,Dairy camels,0
+2012,Gambela,Dairy camels,0
+2013,Gambela,Dairy camels,0
+2014,Gambela,Dairy camels,0
+2015,Gambela,Dairy camels,0
+2016,Gambela,Dairy camels,0
+2017,Gambela,Dairy camels,0
+2018,Gambela,Dairy camels,0
+2019,Gambela,Dairy camels,0
+2020,Gambela,Dairy camels,0
+2003,Harari,Dairy camels,0
+2004,Harari,Dairy camels,0
+2005,Harari,Dairy camels,0
+2006,Harari,Dairy camels,0
+2007,Harari,Dairy camels,0
+2008,Harari,Dairy camels,2178
+2009,Harari,Dairy camels,0
+2010,Harari,Dairy camels,0
+2011,Harari,Dairy camels,928
+2012,Harari,Dairy camels,0
+2013,Harari,Dairy camels,0
+2014,Harari,Dairy camels,2072
+2015,Harari,Dairy camels,0
+2016,Harari,Dairy camels,0
+2017,Harari,Dairy camels,0
+2018,Harari,Dairy camels,0
+2019,Harari,Dairy camels,0
+2020,Harari,Dairy camels,0
+2003,Oromoa,Dairy camels,41080
+2004,Oromoa,Dairy camels,42809
+2005,Oromoa,Dairy camels,45178
+2006,Oromoa,Dairy camels,47930
+2007,Oromoa,Dairy camels,200666
+2008,Oromoa,Dairy camels,525246
+2009,Oromoa,Dairy camels,100048
+2010,Oromoa,Dairy camels,127387
+2011,Oromoa,Dairy camels,71054
+2012,Oromoa,Dairy camels,96786
+2013,Oromoa,Dairy camels,93543
+2014,Oromoa,Dairy camels,68182
+2015,Oromoa,Dairy camels,94410
+2016,Oromoa,Dairy camels,67361
+2017,Oromoa,Dairy camels,72739
+2018,Oromoa,Dairy camels,104160
+2019,Oromoa,Dairy camels,79917
+2020,Oromoa,Dairy camels,75408
+2003,SNNPR,Dairy camels,0
+2004,SNNPR,Dairy camels,0
+2005,SNNPR,Dairy camels,0
+2006,SNNPR,Dairy camels,0
+2007,SNNPR,Dairy camels,0
+2008,SNNPR,Dairy camels,171486
+2009,SNNPR,Dairy camels,0
+2010,SNNPR,Dairy camels,0
+2011,SNNPR,Dairy camels,0
+2012,SNNPR,Dairy camels,0
+2013,SNNPR,Dairy camels,0
+2014,SNNPR,Dairy camels,0
+2015,SNNPR,Dairy camels,0
+2016,SNNPR,Dairy camels,0
+2017,SNNPR,Dairy camels,0
+2018,SNNPR,Dairy camels,0
+2019,SNNPR,Dairy camels,0
+2020,SNNPR,Dairy camels,0
+2003,Somali,Dairy camels,52434
+2004,Somali,Dairy camels,52773
+2005,Somali,Dairy camels,39557
+2006,Somali,Dairy camels,102921
+2007,Somali,Dairy camels,108524
+2008,Somali,Dairy camels,115387
+2009,Somali,Dairy camels,65024
+2010,Somali,Dairy camels,102735
+2011,Somali,Dairy camels,60313
+2012,Somali,Dairy camels,99535
+2013,Somali,Dairy camels,68070
+2014,Somali,Dairy camels,92452
+2015,Somali,Dairy camels,63985
+2016,Somali,Dairy camels,49557
+2017,Somali,Dairy camels,61103
+2018,Somali,Dairy camels,32356
+2019,Somali,Dairy camels,1597550
+2020,Somali,Dairy camels,2489655
+2003,Tigray,Dairy camels,0
+2004,Tigray,Dairy camels,0
+2005,Tigray,Dairy camels,0
+2006,Tigray,Dairy camels,0
+2007,Tigray,Dairy camels,0
+2008,Tigray,Dairy camels,268718
+2009,Tigray,Dairy camels,0
+2010,Tigray,Dairy camels,0
+2011,Tigray,Dairy camels,0
+2012,Tigray,Dairy camels,0
+2013,Tigray,Dairy camels,0
+2014,Tigray,Dairy camels,0
+2015,Tigray,Dairy camels,0
+2016,Tigray,Dairy camels,0
+2017,Tigray,Dairy camels,0
+2018,Tigray,Dairy camels,0
+2019,Tigray,Dairy camels,0
+2020,Tigray,Dairy camels,0
+2003,Addis Ababa,Milking camels,0
+2004,Addis Ababa,Milking camels,0
+2005,Addis Ababa,Milking camels,0
+2006,Addis Ababa,Milking camels,0
+2007,Addis Ababa,Milking camels,0
+2008,Addis Ababa,Milking camels,0
+2009,Addis Ababa,Milking camels,0
+2010,Addis Ababa,Milking camels,0
+2011,Addis Ababa,Milking camels,0
+2012,Addis Ababa,Milking camels,0
+2013,Addis Ababa,Milking camels,0
+2014,Addis Ababa,Milking camels,0
+2015,Addis Ababa,Milking camels,0
+2016,Addis Ababa,Milking camels,0
+2017,Addis Ababa,Milking camels,0
+2018,Addis Ababa,Milking camels,0
+2019,Addis Ababa,Milking camels,0
+2020,Addis Ababa,Milking camels,0
+2003,Afar,Milking camels,65549
+2004,Afar,Milking camels,27049
+2005,Afar,Milking camels,28491
+2006,Afar,Milking camels,27603
+2007,Afar,Milking camels,32862
+2008,Afar,Milking camels,38963
+2009,Afar,Milking camels,34035
+2010,Afar,Milking camels,61773
+2011,Afar,Milking camels,51815
+2012,Afar,Milking camels,37014
+2013,Afar,Milking camels,88973
+2014,Afar,Milking camels,89375
+2015,Afar,Milking camels,78076
+2016,Afar,Milking camels,85225
+2017,Afar,Milking camels,292277
+2018,Afar,Milking camels,272969
+2019,Afar,Milking camels,281534
+2020,Afar,Milking camels,296166
+2003,Amhara,Milking camels,0
+2004,Amhara,Milking camels,0
+2005,Amhara,Milking camels,0
+2006,Amhara,Milking camels,0
+2007,Amhara,Milking camels,0
+2008,Amhara,Milking camels,0
+2009,Amhara,Milking camels,0
+2010,Amhara,Milking camels,0
+2011,Amhara,Milking camels,0
+2012,Amhara,Milking camels,0
+2013,Amhara,Milking camels,0
+2014,Amhara,Milking camels,0
+2015,Amhara,Milking camels,0
+2016,Amhara,Milking camels,0
+2017,Amhara,Milking camels,0
+2018,Amhara,Milking camels,0
+2019,Amhara,Milking camels,84606
+2020,Amhara,Milking camels,0
+2003,Benishangul Gumz,Milking camels,0
+2004,Benishangul Gumz,Milking camels,0
+2005,Benishangul Gumz,Milking camels,0
+2006,Benishangul Gumz,Milking camels,0
+2007,Benishangul Gumz,Milking camels,0
+2008,Benishangul Gumz,Milking camels,0
+2009,Benishangul Gumz,Milking camels,0
+2010,Benishangul Gumz,Milking camels,0
+2011,Benishangul Gumz,Milking camels,0
+2012,Benishangul Gumz,Milking camels,0
+2013,Benishangul Gumz,Milking camels,0
+2014,Benishangul Gumz,Milking camels,0
+2015,Benishangul Gumz,Milking camels,0
+2016,Benishangul Gumz,Milking camels,0
+2017,Benishangul Gumz,Milking camels,0
+2018,Benishangul Gumz,Milking camels,0
+2019,Benishangul Gumz,Milking camels,0
+2020,Benishangul Gumz,Milking camels,0
+2003,Dire Dawa,Milking camels,1579
+2004,Dire Dawa,Milking camels,734
+2005,Dire Dawa,Milking camels,1161
+2006,Dire Dawa,Milking camels,1337
+2007,Dire Dawa,Milking camels,990
+2008,Dire Dawa,Milking camels,576
+2009,Dire Dawa,Milking camels,1136
+2010,Dire Dawa,Milking camels,1131
+2011,Dire Dawa,Milking camels,1209
+2012,Dire Dawa,Milking camels,947
+2013,Dire Dawa,Milking camels,1340
+2014,Dire Dawa,Milking camels,2926
+2015,Dire Dawa,Milking camels,982
+2016,Dire Dawa,Milking camels,898
+2017,Dire Dawa,Milking camels,0
+2018,Dire Dawa,Milking camels,882
+2019,Dire Dawa,Milking camels,1825
+2020,Dire Dawa,Milking camels,1586
+2003,Gambela,Milking camels,0
+2004,Gambela,Milking camels,0
+2005,Gambela,Milking camels,0
+2006,Gambela,Milking camels,0
+2007,Gambela,Milking camels,0
+2008,Gambela,Milking camels,0
+2009,Gambela,Milking camels,0
+2010,Gambela,Milking camels,0
+2011,Gambela,Milking camels,0
+2012,Gambela,Milking camels,0
+2013,Gambela,Milking camels,0
+2014,Gambela,Milking camels,0
+2015,Gambela,Milking camels,0
+2016,Gambela,Milking camels,0
+2017,Gambela,Milking camels,0
+2018,Gambela,Milking camels,0
+2019,Gambela,Milking camels,0
+2020,Gambela,Milking camels,0
+2003,Harari,Milking camels,0
+2004,Harari,Milking camels,0
+2005,Harari,Milking camels,0
+2006,Harari,Milking camels,0
+2007,Harari,Milking camels,0
+2008,Harari,Milking camels,0
+2009,Harari,Milking camels,0
+2010,Harari,Milking camels,0
+2011,Harari,Milking camels,871
+2012,Harari,Milking camels,0
+2013,Harari,Milking camels,1699
+2014,Harari,Milking camels,1181
+2015,Harari,Milking camels,0
+2016,Harari,Milking camels,0
+2017,Harari,Milking camels,0
+2018,Harari,Milking camels,0
+2019,Harari,Milking camels,0
+2020,Harari,Milking camels,0
+2003,Oromoa,Milking camels,48239
+2004,Oromoa,Milking camels,51499
+2005,Oromoa,Milking camels,35221
+2006,Oromoa,Milking camels,31551
+2007,Oromoa,Milking camels,0
+2008,Oromoa,Milking camels,71826
+2009,Oromoa,Milking camels,64675
+2010,Oromoa,Milking camels,91838
+2011,Oromoa,Milking camels,103317
+2012,Oromoa,Milking camels,70984
+2013,Oromoa,Milking camels,98408
+2014,Oromoa,Milking camels,74793
+2015,Oromoa,Milking camels,119083
+2016,Oromoa,Milking camels,80820
+2017,Oromoa,Milking camels,182895
+2018,Oromoa,Milking camels,141561
+2019,Oromoa,Milking camels,350337
+2020,Oromoa,Milking camels,191532
+2003,SNNPR,Milking camels,0
+2004,SNNPR,Milking camels,0
+2005,SNNPR,Milking camels,0
+2006,SNNPR,Milking camels,0
+2007,SNNPR,Milking camels,0
+2008,SNNPR,Milking camels,0
+2009,SNNPR,Milking camels,0
+2010,SNNPR,Milking camels,0
+2011,SNNPR,Milking camels,0
+2012,SNNPR,Milking camels,0
+2013,SNNPR,Milking camels,0
+2014,SNNPR,Milking camels,0
+2015,SNNPR,Milking camels,0
+2016,SNNPR,Milking camels,0
+2017,SNNPR,Milking camels,0
+2018,SNNPR,Milking camels,0
+2019,SNNPR,Milking camels,0
+2020,SNNPR,Milking camels,0
+2003,Somali,Milking camels,31451
+2004,Somali,Milking camels,27583
+2005,Somali,Milking camels,23759
+2006,Somali,Milking camels,48790
+2007,Somali,Milking camels,54590
+2008,Somali,Milking camels,47156
+2009,Somali,Milking camels,40412
+2010,Somali,Milking camels,62846
+2011,Somali,Milking camels,52340
+2012,Somali,Milking camels,49842
+2013,Somali,Milking camels,61293
+2014,Somali,Milking camels,64937
+2015,Somali,Milking camels,56988
+2016,Somali,Milking camels,58481
+2017,Somali,Milking camels,87100
+2018,Somali,Milking camels,43550
+2019,Somali,Milking camels,985281
+2020,Somali,Milking camels,2589432
+2003,Tigray,Milking camels,0
+2004,Tigray,Milking camels,0
+2005,Tigray,Milking camels,0
+2006,Tigray,Milking camels,3229
+2007,Tigray,Milking camels,0
+2008,Tigray,Milking camels,0
+2009,Tigray,Milking camels,0
+2010,Tigray,Milking camels,0
+2011,Tigray,Milking camels,0
+2012,Tigray,Milking camels,0
+2013,Tigray,Milking camels,0
+2014,Tigray,Milking camels,0
+2015,Tigray,Milking camels,0
+2016,Tigray,Milking camels,0
+2017,Tigray,Milking camels,0
+2018,Tigray,Milking camels,0
+2019,Tigray,Milking camels,47002
+2020,Tigray,Milking camels,47002
+2003,Addis Ababa,Males: Transportation,0
+2004,Addis Ababa,Males: Transportation,0
+2005,Addis Ababa,Males: Transportation,0
+2006,Addis Ababa,Males: Transportation,0
+2007,Addis Ababa,Males: Transportation,0
+2008,Addis Ababa,Males: Transportation,0
+2009,Addis Ababa,Males: Transportation,0
+2010,Addis Ababa,Males: Transportation,0
+2011,Addis Ababa,Males: Transportation,0
+2012,Addis Ababa,Males: Transportation,0
+2013,Addis Ababa,Males: Transportation,0
+2014,Addis Ababa,Males: Transportation,0
+2015,Addis Ababa,Males: Transportation,0
+2016,Addis Ababa,Males: Transportation,0
+2017,Addis Ababa,Males: Transportation,0
+2018,Addis Ababa,Males: Transportation,0
+2019,Addis Ababa,Males: Transportation,0
+2020,Addis Ababa,Males: Transportation,0
+2003,Afar,Males: Transportation,13483
+2004,Afar,Males: Transportation,11540
+2005,Afar,Males: Transportation,14091
+2006,Afar,Males: Transportation,13528
+2007,Afar,Males: Transportation,20918
+2008,Afar,Males: Transportation,25049
+2009,Afar,Males: Transportation,30340
+2010,Afar,Males: Transportation,42080
+2011,Afar,Males: Transportation,36676
+2012,Afar,Males: Transportation,35165
+2013,Afar,Males: Transportation,49080
+2014,Afar,Males: Transportation,48818
+2015,Afar,Males: Transportation,46548
+2016,Afar,Males: Transportation,57901
+2017,Afar,Males: Transportation,41658
+2018,Afar,Males: Transportation,137054
+2019,Afar,Males: Transportation,192995
+2020,Afar,Males: Transportation,173733
+2003,Amhara,Males: Transportation,12884
+2004,Amhara,Males: Transportation,10036
+2005,Amhara,Males: Transportation,8678
+2006,Amhara,Males: Transportation,24393
+2007,Amhara,Males: Transportation,33445
+2008,Amhara,Males: Transportation,31640
+2009,Amhara,Males: Transportation,21641
+2010,Amhara,Males: Transportation,39862
+2011,Amhara,Males: Transportation,45994
+2012,Amhara,Males: Transportation,46150
+2013,Amhara,Males: Transportation,53396
+2014,Amhara,Males: Transportation,50883
+2015,Amhara,Males: Transportation,50862
+2016,Amhara,Males: Transportation,54402
+2017,Amhara,Males: Transportation,113063
+2018,Amhara,Males: Transportation,30253
+2019,Amhara,Males: Transportation,47011
+2020,Amhara,Males: Transportation,37868
+2003,Benishangul Gumz,Males: Transportation,0
+2004,Benishangul Gumz,Males: Transportation,0
+2005,Benishangul Gumz,Males: Transportation,0
+2006,Benishangul Gumz,Males: Transportation,0
+2007,Benishangul Gumz,Males: Transportation,0
+2008,Benishangul Gumz,Males: Transportation,0
+2009,Benishangul Gumz,Males: Transportation,0
+2010,Benishangul Gumz,Males: Transportation,0
+2011,Benishangul Gumz,Males: Transportation,0
+2012,Benishangul Gumz,Males: Transportation,0
+2013,Benishangul Gumz,Males: Transportation,0
+2014,Benishangul Gumz,Males: Transportation,0
+2015,Benishangul Gumz,Males: Transportation,0
+2016,Benishangul Gumz,Males: Transportation,0
+2017,Benishangul Gumz,Males: Transportation,0
+2018,Benishangul Gumz,Males: Transportation,0
+2019,Benishangul Gumz,Males: Transportation,0
+2020,Benishangul Gumz,Males: Transportation,0
+2003,Dire Dawa,Males: Transportation,2626
+2004,Dire Dawa,Males: Transportation,2027
+2005,Dire Dawa,Males: Transportation,1759
+2006,Dire Dawa,Males: Transportation,1943
+2007,Dire Dawa,Males: Transportation,1454
+2008,Dire Dawa,Males: Transportation,1753
+2009,Dire Dawa,Males: Transportation,2307
+2010,Dire Dawa,Males: Transportation,1911
+2011,Dire Dawa,Males: Transportation,2339
+2012,Dire Dawa,Males: Transportation,1835
+2013,Dire Dawa,Males: Transportation,2066
+2014,Dire Dawa,Males: Transportation,2070
+2015,Dire Dawa,Males: Transportation,1856
+2016,Dire Dawa,Males: Transportation,3196
+2017,Dire Dawa,Males: Transportation,3773
+2018,Dire Dawa,Males: Transportation,3452
+2019,Dire Dawa,Males: Transportation,3468
+2020,Dire Dawa,Males: Transportation,3646
+2003,Gambela,Males: Transportation,0
+2004,Gambela,Males: Transportation,0
+2005,Gambela,Males: Transportation,0
+2006,Gambela,Males: Transportation,0
+2007,Gambela,Males: Transportation,0
+2008,Gambela,Males: Transportation,0
+2009,Gambela,Males: Transportation,0
+2010,Gambela,Males: Transportation,0
+2011,Gambela,Males: Transportation,0
+2012,Gambela,Males: Transportation,0
+2013,Gambela,Males: Transportation,0
+2014,Gambela,Males: Transportation,0
+2015,Gambela,Males: Transportation,0
+2016,Gambela,Males: Transportation,0
+2017,Gambela,Males: Transportation,0
+2018,Gambela,Males: Transportation,0
+2019,Gambela,Males: Transportation,0
+2020,Gambela,Males: Transportation,0
+2003,Harari,Males: Transportation,0
+2004,Harari,Males: Transportation,0
+2005,Harari,Males: Transportation,0
+2006,Harari,Males: Transportation,0
+2007,Harari,Males: Transportation,0
+2008,Harari,Males: Transportation,0
+2009,Harari,Males: Transportation,0
+2010,Harari,Males: Transportation,0
+2011,Harari,Males: Transportation,0
+2012,Harari,Males: Transportation,0
+2013,Harari,Males: Transportation,0
+2014,Harari,Males: Transportation,0
+2015,Harari,Males: Transportation,0
+2016,Harari,Males: Transportation,0
+2017,Harari,Males: Transportation,0
+2018,Harari,Males: Transportation,0
+2019,Harari,Males: Transportation,0
+2020,Harari,Males: Transportation,0
+2003,Oromoa,Males: Transportation,10549
+2004,Oromoa,Males: Transportation,10637
+2005,Oromoa,Males: Transportation,15788
+2006,Oromoa,Males: Transportation,16753
+2007,Oromoa,Males: Transportation,33569
+2008,Oromoa,Males: Transportation,35040
+2009,Oromoa,Males: Transportation,32958
+2010,Oromoa,Males: Transportation,33800
+2011,Oromoa,Males: Transportation,27525
+2012,Oromoa,Males: Transportation,16620
+2013,Oromoa,Males: Transportation,10572
+2014,Oromoa,Males: Transportation,15416
+2015,Oromoa,Males: Transportation,16119
+2016,Oromoa,Males: Transportation,19771
+2017,Oromoa,Males: Transportation,17846
+2018,Oromoa,Males: Transportation,29658
+2019,Oromoa,Males: Transportation,31792
+2020,Oromoa,Males: Transportation,25491
+2003,SNNPR,Males: Transportation,0
+2004,SNNPR,Males: Transportation,0
+2005,SNNPR,Males: Transportation,0
+2006,SNNPR,Males: Transportation,0
+2007,SNNPR,Males: Transportation,0
+2008,SNNPR,Males: Transportation,0
+2009,SNNPR,Males: Transportation,0
+2010,SNNPR,Males: Transportation,0
+2011,SNNPR,Males: Transportation,0
+2012,SNNPR,Males: Transportation,0
+2013,SNNPR,Males: Transportation,0
+2014,SNNPR,Males: Transportation,0
+2015,SNNPR,Males: Transportation,0
+2016,SNNPR,Males: Transportation,0
+2017,SNNPR,Males: Transportation,0
+2018,SNNPR,Males: Transportation,0
+2019,SNNPR,Males: Transportation,0
+2020,SNNPR,Males: Transportation,0
+2003,Somali,Males: Transportation,25761
+2004,Somali,Males: Transportation,28210
+2005,Somali,Males: Transportation,29544
+2006,Somali,Males: Transportation,44103
+2007,Somali,Males: Transportation,49138
+2008,Somali,Males: Transportation,38550
+2009,Somali,Males: Transportation,34375
+2010,Somali,Males: Transportation,32738
+2011,Somali,Males: Transportation,22739
+2012,Somali,Males: Transportation,27179
+2013,Somali,Males: Transportation,22151
+2014,Somali,Males: Transportation,31447
+2015,Somali,Males: Transportation,22367
+2016,Somali,Males: Transportation,38379
+2017,Somali,Males: Transportation,35387
+2018,Somali,Males: Transportation,35387
+2019,Somali,Males: Transportation,253936
+2020,Somali,Males: Transportation,831973
+2003,Tigray,Males: Transportation,29477
+2004,Tigray,Males: Transportation,25473
+2005,Tigray,Males: Transportation,26867
+2006,Tigray,Males: Transportation,24921
+2007,Tigray,Males: Transportation,20571
+2008,Tigray,Males: Transportation,20041
+2009,Tigray,Males: Transportation,23481
+2010,Tigray,Males: Transportation,21282
+2011,Tigray,Males: Transportation,20171
+2012,Tigray,Males: Transportation,34108
+2013,Tigray,Males: Transportation,39880
+2014,Tigray,Males: Transportation,37197
+2015,Tigray,Males: Transportation,39645
+2016,Tigray,Males: Transportation,34430
+2017,Tigray,Males: Transportation,32532
+2018,Tigray,Males: Transportation,40145
+2019,Tigray,Males: Transportation,34624
+2020,Tigray,Males: Transportation,34624
+2003,Addis Ababa,Males: Meat,0
+2004,Addis Ababa,Males: Meat,0
+2005,Addis Ababa,Males: Meat,0
+2006,Addis Ababa,Males: Meat,0
+2007,Addis Ababa,Males: Meat,0
+2008,Addis Ababa,Males: Meat,0
+2009,Addis Ababa,Males: Meat,0
+2010,Addis Ababa,Males: Meat,0
+2011,Addis Ababa,Males: Meat,0
+2012,Addis Ababa,Males: Meat,0
+2013,Addis Ababa,Males: Meat,0
+2014,Addis Ababa,Males: Meat,0
+2015,Addis Ababa,Males: Meat,0
+2016,Addis Ababa,Males: Meat,0
+2017,Addis Ababa,Males: Meat,0
+2018,Addis Ababa,Males: Meat,0
+2019,Addis Ababa,Males: Meat,0
+2020,Addis Ababa,Males: Meat,0
+2003,Afar,Males: Meat,295
+2004,Afar,Males: Meat,0
+2005,Afar,Males: Meat,1983
+2006,Afar,Males: Meat,0
+2007,Afar,Males: Meat,0
+2008,Afar,Males: Meat,0
+2009,Afar,Males: Meat,0
+2010,Afar,Males: Meat,1637
+2011,Afar,Males: Meat,0
+2012,Afar,Males: Meat,0
+2013,Afar,Males: Meat,0
+2014,Afar,Males: Meat,0
+2015,Afar,Males: Meat,0
+2016,Afar,Males: Meat,0
+2017,Afar,Males: Meat,0
+2018,Afar,Males: Meat,0
+2019,Afar,Males: Meat,0
+2020,Afar,Males: Meat,0
+2003,Amhara,Males: Meat,0
+2004,Amhara,Males: Meat,0
+2005,Amhara,Males: Meat,0
+2006,Amhara,Males: Meat,0
+2007,Amhara,Males: Meat,0
+2008,Amhara,Males: Meat,0
+2009,Amhara,Males: Meat,0
+2010,Amhara,Males: Meat,0
+2011,Amhara,Males: Meat,0
+2012,Amhara,Males: Meat,0
+2013,Amhara,Males: Meat,0
+2014,Amhara,Males: Meat,0
+2015,Amhara,Males: Meat,0
+2016,Amhara,Males: Meat,0
+2017,Amhara,Males: Meat,0
+2018,Amhara,Males: Meat,0
+2019,Amhara,Males: Meat,0
+2020,Amhara,Males: Meat,0
+2003,Benishangul Gumz,Males: Meat,0
+2004,Benishangul Gumz,Males: Meat,0
+2005,Benishangul Gumz,Males: Meat,0
+2006,Benishangul Gumz,Males: Meat,0
+2007,Benishangul Gumz,Males: Meat,0
+2008,Benishangul Gumz,Males: Meat,0
+2009,Benishangul Gumz,Males: Meat,0
+2010,Benishangul Gumz,Males: Meat,0
+2011,Benishangul Gumz,Males: Meat,0
+2012,Benishangul Gumz,Males: Meat,0
+2013,Benishangul Gumz,Males: Meat,0
+2014,Benishangul Gumz,Males: Meat,0
+2015,Benishangul Gumz,Males: Meat,0
+2016,Benishangul Gumz,Males: Meat,0
+2017,Benishangul Gumz,Males: Meat,0
+2018,Benishangul Gumz,Males: Meat,0
+2019,Benishangul Gumz,Males: Meat,0
+2020,Benishangul Gumz,Males: Meat,0
+2003,Dire Dawa,Males: Meat,0
+2004,Dire Dawa,Males: Meat,0
+2005,Dire Dawa,Males: Meat,0
+2006,Dire Dawa,Males: Meat,0
+2007,Dire Dawa,Males: Meat,0
+2008,Dire Dawa,Males: Meat,0
+2009,Dire Dawa,Males: Meat,0
+2010,Dire Dawa,Males: Meat,284
+2011,Dire Dawa,Males: Meat,0
+2012,Dire Dawa,Males: Meat,0
+2013,Dire Dawa,Males: Meat,0
+2014,Dire Dawa,Males: Meat,0
+2015,Dire Dawa,Males: Meat,0
+2016,Dire Dawa,Males: Meat,0
+2017,Dire Dawa,Males: Meat,0
+2018,Dire Dawa,Males: Meat,0
+2019,Dire Dawa,Males: Meat,0
+2020,Dire Dawa,Males: Meat,0
+2003,Gambela,Males: Meat,0
+2004,Gambela,Males: Meat,0
+2005,Gambela,Males: Meat,0
+2006,Gambela,Males: Meat,0
+2007,Gambela,Males: Meat,0
+2008,Gambela,Males: Meat,0
+2009,Gambela,Males: Meat,0
+2010,Gambela,Males: Meat,0
+2011,Gambela,Males: Meat,0
+2012,Gambela,Males: Meat,0
+2013,Gambela,Males: Meat,0
+2014,Gambela,Males: Meat,0
+2015,Gambela,Males: Meat,0
+2016,Gambela,Males: Meat,0
+2017,Gambela,Males: Meat,0
+2018,Gambela,Males: Meat,0
+2019,Gambela,Males: Meat,0
+2020,Gambela,Males: Meat,0
+2003,Harari,Males: Meat,0
+2004,Harari,Males: Meat,0
+2005,Harari,Males: Meat,0
+2006,Harari,Males: Meat,0
+2007,Harari,Males: Meat,0
+2008,Harari,Males: Meat,0
+2009,Harari,Males: Meat,0
+2010,Harari,Males: Meat,0
+2011,Harari,Males: Meat,0
+2012,Harari,Males: Meat,0
+2013,Harari,Males: Meat,0
+2014,Harari,Males: Meat,0
+2015,Harari,Males: Meat,0
+2016,Harari,Males: Meat,0
+2017,Harari,Males: Meat,0
+2018,Harari,Males: Meat,0
+2019,Harari,Males: Meat,0
+2020,Harari,Males: Meat,0
+2003,Oromoa,Males: Meat,0
+2004,Oromoa,Males: Meat,0
+2005,Oromoa,Males: Meat,0
+2006,Oromoa,Males: Meat,0
+2007,Oromoa,Males: Meat,0
+2008,Oromoa,Males: Meat,5531
+2009,Oromoa,Males: Meat,0
+2010,Oromoa,Males: Meat,7039
+2011,Oromoa,Males: Meat,11805
+2012,Oromoa,Males: Meat,4246
+2013,Oromoa,Males: Meat,7940
+2014,Oromoa,Males: Meat,10280
+2015,Oromoa,Males: Meat,3776
+2016,Oromoa,Males: Meat,6350
+2017,Oromoa,Males: Meat,0
+2018,Oromoa,Males: Meat,0
+2019,Oromoa,Males: Meat,5172
+2020,Oromoa,Males: Meat,5506
+2003,SNNPR,Males: Meat,0
+2004,SNNPR,Males: Meat,0
+2005,SNNPR,Males: Meat,0
+2006,SNNPR,Males: Meat,0
+2007,SNNPR,Males: Meat,0
+2008,SNNPR,Males: Meat,0
+2009,SNNPR,Males: Meat,0
+2010,SNNPR,Males: Meat,0
+2011,SNNPR,Males: Meat,0
+2012,SNNPR,Males: Meat,0
+2013,SNNPR,Males: Meat,0
+2014,SNNPR,Males: Meat,0
+2015,SNNPR,Males: Meat,0
+2016,SNNPR,Males: Meat,0
+2017,SNNPR,Males: Meat,0
+2018,SNNPR,Males: Meat,0
+2019,SNNPR,Males: Meat,0
+2020,SNNPR,Males: Meat,0
+2003,Somali,Males: Meat,0
+2004,Somali,Males: Meat,0
+2005,Somali,Males: Meat,756
+2006,Somali,Males: Meat,4085
+2007,Somali,Males: Meat,10656
+2008,Somali,Males: Meat,10661
+2009,Somali,Males: Meat,6152
+2010,Somali,Males: Meat,8622
+2011,Somali,Males: Meat,14786
+2012,Somali,Males: Meat,0
+2013,Somali,Males: Meat,7691
+2014,Somali,Males: Meat,0
+2015,Somali,Males: Meat,5278
+2016,Somali,Males: Meat,1791
+2017,Somali,Males: Meat,8524
+2018,Somali,Males: Meat,8524
+2019,Somali,Males: Meat,588249
+2020,Somali,Males: Meat,222250
+2003,Tigray,Males: Meat,0
+2004,Tigray,Males: Meat,0
+2005,Tigray,Males: Meat,0
+2006,Tigray,Males: Meat,0
+2007,Tigray,Males: Meat,0
+2008,Tigray,Males: Meat,0
+2009,Tigray,Males: Meat,0
+2010,Tigray,Males: Meat,0
+2011,Tigray,Males: Meat,0
+2012,Tigray,Males: Meat,0
+2013,Tigray,Males: Meat,0
+2014,Tigray,Males: Meat,0
+2015,Tigray,Males: Meat,0
+2016,Tigray,Males: Meat,0
+2017,Tigray,Males: Meat,0
+2018,Tigray,Males: Meat,0
+2019,Tigray,Males: Meat,0
+2020,Tigray,Males: Meat,0
+2003,Addis Ababa,Males: Draught,0
+2004,Addis Ababa,Males: Draught,0
+2005,Addis Ababa,Males: Draught,0
+2006,Addis Ababa,Males: Draught,0
+2007,Addis Ababa,Males: Draught,0
+2008,Addis Ababa,Males: Draught,0
+2009,Addis Ababa,Males: Draught,0
+2010,Addis Ababa,Males: Draught,0
+2011,Addis Ababa,Males: Draught,0
+2012,Addis Ababa,Males: Draught,0
+2013,Addis Ababa,Males: Draught,0
+2014,Addis Ababa,Males: Draught,0
+2015,Addis Ababa,Males: Draught,0
+2016,Addis Ababa,Males: Draught,0
+2017,Addis Ababa,Males: Draught,0
+2018,Addis Ababa,Males: Draught,0
+2019,Addis Ababa,Males: Draught,0
+2020,Addis Ababa,Males: Draught,0
+2003,Afar,Males: Draught,0
+2004,Afar,Males: Draught,0
+2005,Afar,Males: Draught,0
+2006,Afar,Males: Draught,0
+2007,Afar,Males: Draught,152
+2008,Afar,Males: Draught,0
+2009,Afar,Males: Draught,0
+2010,Afar,Males: Draught,0
+2011,Afar,Males: Draught,0
+2012,Afar,Males: Draught,0
+2013,Afar,Males: Draught,0
+2014,Afar,Males: Draught,0
+2015,Afar,Males: Draught,0
+2016,Afar,Males: Draught,0
+2017,Afar,Males: Draught,0
+2018,Afar,Males: Draught,0
+2019,Afar,Males: Draught,0
+2020,Afar,Males: Draught,0
+2003,Amhara,Males: Draught,0
+2004,Amhara,Males: Draught,0
+2005,Amhara,Males: Draught,0
+2006,Amhara,Males: Draught,0
+2007,Amhara,Males: Draught,0
+2008,Amhara,Males: Draught,0
+2009,Amhara,Males: Draught,0
+2010,Amhara,Males: Draught,0
+2011,Amhara,Males: Draught,0
+2012,Amhara,Males: Draught,0
+2013,Amhara,Males: Draught,0
+2014,Amhara,Males: Draught,10012
+2015,Amhara,Males: Draught,0
+2016,Amhara,Males: Draught,0
+2017,Amhara,Males: Draught,0
+2018,Amhara,Males: Draught,0
+2019,Amhara,Males: Draught,0
+2020,Amhara,Males: Draught,0
+2003,Benishangul Gumz,Males: Draught,0
+2004,Benishangul Gumz,Males: Draught,0
+2005,Benishangul Gumz,Males: Draught,0
+2006,Benishangul Gumz,Males: Draught,0
+2007,Benishangul Gumz,Males: Draught,0
+2008,Benishangul Gumz,Males: Draught,0
+2009,Benishangul Gumz,Males: Draught,0
+2010,Benishangul Gumz,Males: Draught,0
+2011,Benishangul Gumz,Males: Draught,0
+2012,Benishangul Gumz,Males: Draught,0
+2013,Benishangul Gumz,Males: Draught,0
+2014,Benishangul Gumz,Males: Draught,0
+2015,Benishangul Gumz,Males: Draught,0
+2016,Benishangul Gumz,Males: Draught,0
+2017,Benishangul Gumz,Males: Draught,0
+2018,Benishangul Gumz,Males: Draught,0
+2019,Benishangul Gumz,Males: Draught,0
+2020,Benishangul Gumz,Males: Draught,0
+2003,Dire Dawa,Males: Draught,0
+2004,Dire Dawa,Males: Draught,0
+2005,Dire Dawa,Males: Draught,0
+2006,Dire Dawa,Males: Draught,0
+2007,Dire Dawa,Males: Draught,0
+2008,Dire Dawa,Males: Draught,0
+2009,Dire Dawa,Males: Draught,0
+2010,Dire Dawa,Males: Draught,0
+2011,Dire Dawa,Males: Draught,0
+2012,Dire Dawa,Males: Draught,0
+2013,Dire Dawa,Males: Draught,0
+2014,Dire Dawa,Males: Draught,0
+2015,Dire Dawa,Males: Draught,0
+2016,Dire Dawa,Males: Draught,0
+2017,Dire Dawa,Males: Draught,0
+2018,Dire Dawa,Males: Draught,0
+2019,Dire Dawa,Males: Draught,0
+2020,Dire Dawa,Males: Draught,0
+2003,Gambela,Males: Draught,0
+2004,Gambela,Males: Draught,0
+2005,Gambela,Males: Draught,0
+2006,Gambela,Males: Draught,0
+2007,Gambela,Males: Draught,0
+2008,Gambela,Males: Draught,0
+2009,Gambela,Males: Draught,0
+2010,Gambela,Males: Draught,0
+2011,Gambela,Males: Draught,0
+2012,Gambela,Males: Draught,0
+2013,Gambela,Males: Draught,0
+2014,Gambela,Males: Draught,0
+2015,Gambela,Males: Draught,0
+2016,Gambela,Males: Draught,0
+2017,Gambela,Males: Draught,0
+2018,Gambela,Males: Draught,0
+2019,Gambela,Males: Draught,0
+2020,Gambela,Males: Draught,0
+2003,Harari,Males: Draught,0
+2004,Harari,Males: Draught,0
+2005,Harari,Males: Draught,0
+2006,Harari,Males: Draught,0
+2007,Harari,Males: Draught,0
+2008,Harari,Males: Draught,0
+2009,Harari,Males: Draught,0
+2010,Harari,Males: Draught,0
+2011,Harari,Males: Draught,0
+2012,Harari,Males: Draught,0
+2013,Harari,Males: Draught,0
+2014,Harari,Males: Draught,0
+2015,Harari,Males: Draught,0
+2016,Harari,Males: Draught,0
+2017,Harari,Males: Draught,0
+2018,Harari,Males: Draught,0
+2019,Harari,Males: Draught,0
+2020,Harari,Males: Draught,0
+2003,Oromoa,Males: Draught,0
+2004,Oromoa,Males: Draught,0
+2005,Oromoa,Males: Draught,0
+2006,Oromoa,Males: Draught,0
+2007,Oromoa,Males: Draught,0
+2008,Oromoa,Males: Draught,0
+2009,Oromoa,Males: Draught,0
+2010,Oromoa,Males: Draught,0
+2011,Oromoa,Males: Draught,0
+2012,Oromoa,Males: Draught,0
+2013,Oromoa,Males: Draught,0
+2014,Oromoa,Males: Draught,0
+2015,Oromoa,Males: Draught,0
+2016,Oromoa,Males: Draught,0
+2017,Oromoa,Males: Draught,0
+2018,Oromoa,Males: Draught,0
+2019,Oromoa,Males: Draught,0
+2020,Oromoa,Males: Draught,0
+2003,SNNPR,Males: Draught,0
+2004,SNNPR,Males: Draught,0
+2005,SNNPR,Males: Draught,0
+2006,SNNPR,Males: Draught,0
+2007,SNNPR,Males: Draught,0
+2008,SNNPR,Males: Draught,0
+2009,SNNPR,Males: Draught,0
+2010,SNNPR,Males: Draught,0
+2011,SNNPR,Males: Draught,0
+2012,SNNPR,Males: Draught,0
+2013,SNNPR,Males: Draught,0
+2014,SNNPR,Males: Draught,0
+2015,SNNPR,Males: Draught,0
+2016,SNNPR,Males: Draught,0
+2017,SNNPR,Males: Draught,0
+2018,SNNPR,Males: Draught,0
+2019,SNNPR,Males: Draught,0
+2020,SNNPR,Males: Draught,0
+2003,Somali,Males: Draught,0
+2004,Somali,Males: Draught,939
+2005,Somali,Males: Draught,0
+2006,Somali,Males: Draught,0
+2007,Somali,Males: Draught,0
+2008,Somali,Males: Draught,1550
+2009,Somali,Males: Draught,1750
+2010,Somali,Males: Draught,1754
+2011,Somali,Males: Draught,0
+2012,Somali,Males: Draught,0
+2013,Somali,Males: Draught,0
+2014,Somali,Males: Draught,0
+2015,Somali,Males: Draught,0
+2016,Somali,Males: Draught,0
+2017,Somali,Males: Draught,0
+2018,Somali,Males: Draught,0
+2019,Somali,Males: Draught,6196
+2020,Somali,Males: Draught,9051
+2003,Tigray,Males: Draught,0
+2004,Tigray,Males: Draught,0
+2005,Tigray,Males: Draught,0
+2006,Tigray,Males: Draught,4059
+2007,Tigray,Males: Draught,4631
+2008,Tigray,Males: Draught,1710
+2009,Tigray,Males: Draught,3188
+2010,Tigray,Males: Draught,0
+2011,Tigray,Males: Draught,3659
+2012,Tigray,Males: Draught,0
+2013,Tigray,Males: Draught,3442
+2014,Tigray,Males: Draught,5735
+2015,Tigray,Males: Draught,7036
+2016,Tigray,Males: Draught,11221
+2017,Tigray,Males: Draught,0
+2018,Tigray,Males: Draught,6620
+2019,Tigray,Males: Draught,8922
+2020,Tigray,Males: Draught,8922
+2003,Addis Ababa,Males: Other,0
+2004,Addis Ababa,Males: Other,0
+2005,Addis Ababa,Males: Other,0
+2006,Addis Ababa,Males: Other,0
+2007,Addis Ababa,Males: Other,0
+2008,Addis Ababa,Males: Other,0
+2009,Addis Ababa,Males: Other,0
+2010,Addis Ababa,Males: Other,0
+2011,Addis Ababa,Males: Other,0
+2012,Addis Ababa,Males: Other,0
+2013,Addis Ababa,Males: Other,0
+2014,Addis Ababa,Males: Other,0
+2015,Addis Ababa,Males: Other,0
+2016,Addis Ababa,Males: Other,0
+2017,Addis Ababa,Males: Other,0
+2018,Addis Ababa,Males: Other,0
+2019,Addis Ababa,Males: Other,0
+2020,Addis Ababa,Males: Other,0
+2003,Afar,Males: Other,242
+2004,Afar,Males: Other,1867
+2005,Afar,Males: Other,1589
+2006,Afar,Males: Other,3285
+2007,Afar,Males: Other,0
+2008,Afar,Males: Other,0
+2009,Afar,Males: Other,0
+2010,Afar,Males: Other,15364
+2011,Afar,Males: Other,0
+2012,Afar,Males: Other,0
+2013,Afar,Males: Other,1958
+2014,Afar,Males: Other,6890
+2015,Afar,Males: Other,16064
+2016,Afar,Males: Other,6902
+2017,Afar,Males: Other,17125
+2018,Afar,Males: Other,9869
+2019,Afar,Males: Other,0
+2020,Afar,Males: Other,20757
+2003,Amhara,Males: Other,3382
+2004,Amhara,Males: Other,0
+2005,Amhara,Males: Other,0
+2006,Amhara,Males: Other,0
+2007,Amhara,Males: Other,0
+2008,Amhara,Males: Other,0
+2009,Amhara,Males: Other,0
+2010,Amhara,Males: Other,0
+2011,Amhara,Males: Other,0
+2012,Amhara,Males: Other,0
+2013,Amhara,Males: Other,0
+2014,Amhara,Males: Other,0
+2015,Amhara,Males: Other,0
+2016,Amhara,Males: Other,0
+2017,Amhara,Males: Other,0
+2018,Amhara,Males: Other,0
+2019,Amhara,Males: Other,0
+2020,Amhara,Males: Other,0
+2003,Benishangul Gumz,Males: Other,0
+2004,Benishangul Gumz,Males: Other,0
+2005,Benishangul Gumz,Males: Other,0
+2006,Benishangul Gumz,Males: Other,0
+2007,Benishangul Gumz,Males: Other,0
+2008,Benishangul Gumz,Males: Other,0
+2009,Benishangul Gumz,Males: Other,0
+2010,Benishangul Gumz,Males: Other,0
+2011,Benishangul Gumz,Males: Other,0
+2012,Benishangul Gumz,Males: Other,0
+2013,Benishangul Gumz,Males: Other,0
+2014,Benishangul Gumz,Males: Other,0
+2015,Benishangul Gumz,Males: Other,0
+2016,Benishangul Gumz,Males: Other,0
+2017,Benishangul Gumz,Males: Other,0
+2018,Benishangul Gumz,Males: Other,0
+2019,Benishangul Gumz,Males: Other,0
+2020,Benishangul Gumz,Males: Other,0
+2003,Dire Dawa,Males: Other,0
+2004,Dire Dawa,Males: Other,0
+2005,Dire Dawa,Males: Other,0
+2006,Dire Dawa,Males: Other,0
+2007,Dire Dawa,Males: Other,0
+2008,Dire Dawa,Males: Other,0
+2009,Dire Dawa,Males: Other,0
+2010,Dire Dawa,Males: Other,0
+2011,Dire Dawa,Males: Other,0
+2012,Dire Dawa,Males: Other,0
+2013,Dire Dawa,Males: Other,0
+2014,Dire Dawa,Males: Other,0
+2015,Dire Dawa,Males: Other,0
+2016,Dire Dawa,Males: Other,0
+2017,Dire Dawa,Males: Other,0
+2018,Dire Dawa,Males: Other,0
+2019,Dire Dawa,Males: Other,0
+2020,Dire Dawa,Males: Other,0
+2003,Gambela,Males: Other,0
+2004,Gambela,Males: Other,0
+2005,Gambela,Males: Other,0
+2006,Gambela,Males: Other,0
+2007,Gambela,Males: Other,0
+2008,Gambela,Males: Other,0
+2009,Gambela,Males: Other,0
+2010,Gambela,Males: Other,0
+2011,Gambela,Males: Other,0
+2012,Gambela,Males: Other,0
+2013,Gambela,Males: Other,0
+2014,Gambela,Males: Other,0
+2015,Gambela,Males: Other,0
+2016,Gambela,Males: Other,0
+2017,Gambela,Males: Other,0
+2018,Gambela,Males: Other,0
+2019,Gambela,Males: Other,0
+2020,Gambela,Males: Other,0
+2003,Harari,Males: Other,0
+2004,Harari,Males: Other,0
+2005,Harari,Males: Other,0
+2006,Harari,Males: Other,0
+2007,Harari,Males: Other,0
+2008,Harari,Males: Other,0
+2009,Harari,Males: Other,0
+2010,Harari,Males: Other,0
+2011,Harari,Males: Other,0
+2012,Harari,Males: Other,0
+2013,Harari,Males: Other,0
+2014,Harari,Males: Other,0
+2015,Harari,Males: Other,0
+2016,Harari,Males: Other,0
+2017,Harari,Males: Other,0
+2018,Harari,Males: Other,0
+2019,Harari,Males: Other,0
+2020,Harari,Males: Other,0
+2003,Oromoa,Males: Other,0
+2004,Oromoa,Males: Other,0
+2005,Oromoa,Males: Other,2986
+2006,Oromoa,Males: Other,4321
+2007,Oromoa,Males: Other,2757
+2008,Oromoa,Males: Other,0
+2009,Oromoa,Males: Other,6132
+2010,Oromoa,Males: Other,0
+2011,Oromoa,Males: Other,0
+2012,Oromoa,Males: Other,7953
+2013,Oromoa,Males: Other,11326
+2014,Oromoa,Males: Other,7683
+2015,Oromoa,Males: Other,13416
+2016,Oromoa,Males: Other,11465
+2017,Oromoa,Males: Other,0
+2018,Oromoa,Males: Other,0
+2019,Oromoa,Males: Other,13163
+2020,Oromoa,Males: Other,25538
+2003,SNNPR,Males: Other,0
+2004,SNNPR,Males: Other,0
+2005,SNNPR,Males: Other,0
+2006,SNNPR,Males: Other,0
+2007,SNNPR,Males: Other,0
+2008,SNNPR,Males: Other,0
+2009,SNNPR,Males: Other,0
+2010,SNNPR,Males: Other,0
+2011,SNNPR,Males: Other,0
+2012,SNNPR,Males: Other,0
+2013,SNNPR,Males: Other,0
+2014,SNNPR,Males: Other,0
+2015,SNNPR,Males: Other,0
+2016,SNNPR,Males: Other,0
+2017,SNNPR,Males: Other,0
+2018,SNNPR,Males: Other,0
+2019,SNNPR,Males: Other,0
+2020,SNNPR,Males: Other,0
+2003,Somali,Males: Other,0
+2004,Somali,Males: Other,0
+2005,Somali,Males: Other,8847
+2006,Somali,Males: Other,4244
+2007,Somali,Males: Other,0
+2008,Somali,Males: Other,6338
+2009,Somali,Males: Other,9567
+2010,Somali,Males: Other,16935
+2011,Somali,Males: Other,20305
+2012,Somali,Males: Other,14069
+2013,Somali,Males: Other,40190
+2014,Somali,Males: Other,33253
+2015,Somali,Males: Other,0
+2016,Somali,Males: Other,15249
+2017,Somali,Males: Other,11664
+2018,Somali,Males: Other,11664
+2019,Somali,Males: Other,185944
+2020,Somali,Males: Other,106791
+2003,Tigray,Males: Other,4793
+2004,Tigray,Males: Other,0
+2005,Tigray,Males: Other,0
+2006,Tigray,Males: Other,0
+2007,Tigray,Males: Other,0
+2008,Tigray,Males: Other,0
+2009,Tigray,Males: Other,0
+2010,Tigray,Males: Other,0
+2011,Tigray,Males: Other,0
+2012,Tigray,Males: Other,5744
+2013,Tigray,Males: Other,0
+2014,Tigray,Males: Other,0
+2015,Tigray,Males: Other,0
+2016,Tigray,Males: Other,0
+2017,Tigray,Males: Other,0
+2018,Tigray,Males: Other,0
+2019,Tigray,Males: Other,0
+2020,Tigray,Males: Other,0
+2003,Addis Ababa,Females: Transportation,0
+2004,Addis Ababa,Females: Transportation,0
+2005,Addis Ababa,Females: Transportation,0
+2006,Addis Ababa,Females: Transportation,0
+2007,Addis Ababa,Females: Transportation,0
+2008,Addis Ababa,Females: Transportation,0
+2009,Addis Ababa,Females: Transportation,0
+2010,Addis Ababa,Females: Transportation,0
+2011,Addis Ababa,Females: Transportation,0
+2012,Addis Ababa,Females: Transportation,0
+2013,Addis Ababa,Females: Transportation,0
+2014,Addis Ababa,Females: Transportation,0
+2015,Addis Ababa,Females: Transportation,0
+2016,Addis Ababa,Females: Transportation,0
+2017,Addis Ababa,Females: Transportation,0
+2018,Addis Ababa,Females: Transportation,0
+2019,Addis Ababa,Females: Transportation,0
+2020,Addis Ababa,Females: Transportation,0
+2003,Afar,Females: Transportation,7416
+2004,Afar,Females: Transportation,5203
+2005,Afar,Females: Transportation,1893
+2006,Afar,Females: Transportation,0
+2007,Afar,Females: Transportation,0
+2008,Afar,Females: Transportation,0
+2009,Afar,Females: Transportation,0
+2010,Afar,Females: Transportation,0
+2011,Afar,Females: Transportation,0
+2012,Afar,Females: Transportation,0
+2013,Afar,Females: Transportation,0
+2014,Afar,Females: Transportation,0
+2015,Afar,Females: Transportation,0
+2016,Afar,Females: Transportation,0
+2017,Afar,Females: Transportation,0
+2018,Afar,Females: Transportation,0
+2019,Afar,Females: Transportation,0
+2020,Afar,Females: Transportation,0
+2003,Amhara,Females: Transportation,0
+2004,Amhara,Females: Transportation,0
+2005,Amhara,Females: Transportation,0
+2006,Amhara,Females: Transportation,0
+2007,Amhara,Females: Transportation,0
+2008,Amhara,Females: Transportation,0
+2009,Amhara,Females: Transportation,0
+2010,Amhara,Females: Transportation,0
+2011,Amhara,Females: Transportation,0
+2012,Amhara,Females: Transportation,0
+2013,Amhara,Females: Transportation,0
+2014,Amhara,Females: Transportation,0
+2015,Amhara,Females: Transportation,0
+2016,Amhara,Females: Transportation,0
+2017,Amhara,Females: Transportation,0
+2018,Amhara,Females: Transportation,0
+2019,Amhara,Females: Transportation,0
+2020,Amhara,Females: Transportation,0
+2003,Benishangul Gumz,Females: Transportation,0
+2004,Benishangul Gumz,Females: Transportation,0
+2005,Benishangul Gumz,Females: Transportation,0
+2006,Benishangul Gumz,Females: Transportation,0
+2007,Benishangul Gumz,Females: Transportation,0
+2008,Benishangul Gumz,Females: Transportation,0
+2009,Benishangul Gumz,Females: Transportation,0
+2010,Benishangul Gumz,Females: Transportation,0
+2011,Benishangul Gumz,Females: Transportation,0
+2012,Benishangul Gumz,Females: Transportation,0
+2013,Benishangul Gumz,Females: Transportation,0
+2014,Benishangul Gumz,Females: Transportation,0
+2015,Benishangul Gumz,Females: Transportation,0
+2016,Benishangul Gumz,Females: Transportation,0
+2017,Benishangul Gumz,Females: Transportation,0
+2018,Benishangul Gumz,Females: Transportation,0
+2019,Benishangul Gumz,Females: Transportation,0
+2020,Benishangul Gumz,Females: Transportation,0
+2003,Dire Dawa,Females: Transportation,0
+2004,Dire Dawa,Females: Transportation,244
+2005,Dire Dawa,Females: Transportation,240
+2006,Dire Dawa,Females: Transportation,0
+2007,Dire Dawa,Females: Transportation,0
+2008,Dire Dawa,Females: Transportation,0
+2009,Dire Dawa,Females: Transportation,0
+2010,Dire Dawa,Females: Transportation,0
+2011,Dire Dawa,Females: Transportation,0
+2012,Dire Dawa,Females: Transportation,0
+2013,Dire Dawa,Females: Transportation,0
+2014,Dire Dawa,Females: Transportation,0
+2015,Dire Dawa,Females: Transportation,0
+2016,Dire Dawa,Females: Transportation,0
+2017,Dire Dawa,Females: Transportation,0
+2018,Dire Dawa,Females: Transportation,0
+2019,Dire Dawa,Females: Transportation,0
+2020,Dire Dawa,Females: Transportation,0
+2003,Gambela,Females: Transportation,0
+2004,Gambela,Females: Transportation,0
+2005,Gambela,Females: Transportation,0
+2006,Gambela,Females: Transportation,0
+2007,Gambela,Females: Transportation,0
+2008,Gambela,Females: Transportation,0
+2009,Gambela,Females: Transportation,0
+2010,Gambela,Females: Transportation,0
+2011,Gambela,Females: Transportation,0
+2012,Gambela,Females: Transportation,0
+2013,Gambela,Females: Transportation,0
+2014,Gambela,Females: Transportation,0
+2015,Gambela,Females: Transportation,0
+2016,Gambela,Females: Transportation,0
+2017,Gambela,Females: Transportation,0
+2018,Gambela,Females: Transportation,0
+2019,Gambela,Females: Transportation,0
+2020,Gambela,Females: Transportation,0
+2003,Harari,Females: Transportation,0
+2004,Harari,Females: Transportation,0
+2005,Harari,Females: Transportation,0
+2006,Harari,Females: Transportation,0
+2007,Harari,Females: Transportation,0
+2008,Harari,Females: Transportation,0
+2009,Harari,Females: Transportation,0
+2010,Harari,Females: Transportation,0
+2011,Harari,Females: Transportation,0
+2012,Harari,Females: Transportation,0
+2013,Harari,Females: Transportation,0
+2014,Harari,Females: Transportation,0
+2015,Harari,Females: Transportation,0
+2016,Harari,Females: Transportation,0
+2017,Harari,Females: Transportation,0
+2018,Harari,Females: Transportation,0
+2019,Harari,Females: Transportation,0
+2020,Harari,Females: Transportation,0
+2003,Oromoa,Females: Transportation,0
+2004,Oromoa,Females: Transportation,0
+2005,Oromoa,Females: Transportation,2619
+2006,Oromoa,Females: Transportation,0
+2007,Oromoa,Females: Transportation,0
+2008,Oromoa,Females: Transportation,0
+2009,Oromoa,Females: Transportation,0
+2010,Oromoa,Females: Transportation,0
+2011,Oromoa,Females: Transportation,0
+2012,Oromoa,Females: Transportation,0
+2013,Oromoa,Females: Transportation,0
+2014,Oromoa,Females: Transportation,0
+2015,Oromoa,Females: Transportation,0
+2016,Oromoa,Females: Transportation,0
+2017,Oromoa,Females: Transportation,0
+2018,Oromoa,Females: Transportation,0
+2019,Oromoa,Females: Transportation,0
+2020,Oromoa,Females: Transportation,0
+2003,SNNPR,Females: Transportation,0
+2004,SNNPR,Females: Transportation,0
+2005,SNNPR,Females: Transportation,0
+2006,SNNPR,Females: Transportation,0
+2007,SNNPR,Females: Transportation,0
+2008,SNNPR,Females: Transportation,0
+2009,SNNPR,Females: Transportation,0
+2010,SNNPR,Females: Transportation,0
+2011,SNNPR,Females: Transportation,0
+2012,SNNPR,Females: Transportation,0
+2013,SNNPR,Females: Transportation,0
+2014,SNNPR,Females: Transportation,0
+2015,SNNPR,Females: Transportation,0
+2016,SNNPR,Females: Transportation,0
+2017,SNNPR,Females: Transportation,0
+2018,SNNPR,Females: Transportation,0
+2019,SNNPR,Females: Transportation,0
+2020,SNNPR,Females: Transportation,0
+2003,Somali,Females: Transportation,4011
+2004,Somali,Females: Transportation,0
+2005,Somali,Females: Transportation,4610
+2006,Somali,Females: Transportation,0
+2007,Somali,Females: Transportation,2808
+2008,Somali,Females: Transportation,0
+2009,Somali,Females: Transportation,0
+2010,Somali,Females: Transportation,0
+2011,Somali,Females: Transportation,0
+2012,Somali,Females: Transportation,0
+2013,Somali,Females: Transportation,1384
+2014,Somali,Females: Transportation,0
+2015,Somali,Females: Transportation,0
+2016,Somali,Females: Transportation,0
+2017,Somali,Females: Transportation,0
+2018,Somali,Females: Transportation,0
+2019,Somali,Females: Transportation,35123
+2020,Somali,Females: Transportation,79388
+2003,Tigray,Females: Transportation,0
+2004,Tigray,Females: Transportation,0
+2005,Tigray,Females: Transportation,0
+2006,Tigray,Females: Transportation,0
+2007,Tigray,Females: Transportation,0
+2008,Tigray,Females: Transportation,0
+2009,Tigray,Females: Transportation,0
+2010,Tigray,Females: Transportation,0
+2011,Tigray,Females: Transportation,0
+2012,Tigray,Females: Transportation,0
+2013,Tigray,Females: Transportation,0
+2014,Tigray,Females: Transportation,0
+2015,Tigray,Females: Transportation,0
+2016,Tigray,Females: Transportation,0
+2017,Tigray,Females: Transportation,0
+2018,Tigray,Females: Transportation,0
+2019,Tigray,Females: Transportation,0
+2020,Tigray,Females: Transportation,0
+2003,Addis Ababa,Females: Meat,0
+2004,Addis Ababa,Females: Meat,0
+2005,Addis Ababa,Females: Meat,0
+2006,Addis Ababa,Females: Meat,0
+2007,Addis Ababa,Females: Meat,0
+2008,Addis Ababa,Females: Meat,0
+2009,Addis Ababa,Females: Meat,0
+2010,Addis Ababa,Females: Meat,0
+2011,Addis Ababa,Females: Meat,0
+2012,Addis Ababa,Females: Meat,0
+2013,Addis Ababa,Females: Meat,0
+2014,Addis Ababa,Females: Meat,0
+2015,Addis Ababa,Females: Meat,0
+2016,Addis Ababa,Females: Meat,0
+2017,Addis Ababa,Females: Meat,0
+2018,Addis Ababa,Females: Meat,0
+2019,Addis Ababa,Females: Meat,0
+2020,Addis Ababa,Females: Meat,0
+2003,Afar,Females: Meat,0
+2004,Afar,Females: Meat,0
+2005,Afar,Females: Meat,0
+2006,Afar,Females: Meat,0
+2007,Afar,Females: Meat,3034
+2008,Afar,Females: Meat,12580
+2009,Afar,Females: Meat,0
+2010,Afar,Females: Meat,20814
+2011,Afar,Females: Meat,26793
+2012,Afar,Females: Meat,21033
+2013,Afar,Females: Meat,12445
+2014,Afar,Females: Meat,0
+2015,Afar,Females: Meat,6551
+2016,Afar,Females: Meat,11290
+2017,Afar,Females: Meat,4583
+2018,Afar,Females: Meat,37334
+2019,Afar,Females: Meat,84688
+2020,Afar,Females: Meat,130465
+2003,Amhara,Females: Meat,0
+2004,Amhara,Females: Meat,0
+2005,Amhara,Females: Meat,0
+2006,Amhara,Females: Meat,0
+2007,Amhara,Females: Meat,0
+2008,Amhara,Females: Meat,0
+2009,Amhara,Females: Meat,0
+2010,Amhara,Females: Meat,0
+2011,Amhara,Females: Meat,0
+2012,Amhara,Females: Meat,0
+2013,Amhara,Females: Meat,0
+2014,Amhara,Females: Meat,0
+2015,Amhara,Females: Meat,0
+2016,Amhara,Females: Meat,0
+2017,Amhara,Females: Meat,0
+2018,Amhara,Females: Meat,0
+2019,Amhara,Females: Meat,0
+2020,Amhara,Females: Meat,0
+2003,Benishangul Gumz,Females: Meat,0
+2004,Benishangul Gumz,Females: Meat,0
+2005,Benishangul Gumz,Females: Meat,0
+2006,Benishangul Gumz,Females: Meat,0
+2007,Benishangul Gumz,Females: Meat,0
+2008,Benishangul Gumz,Females: Meat,0
+2009,Benishangul Gumz,Females: Meat,0
+2010,Benishangul Gumz,Females: Meat,0
+2011,Benishangul Gumz,Females: Meat,0
+2012,Benishangul Gumz,Females: Meat,0
+2013,Benishangul Gumz,Females: Meat,0
+2014,Benishangul Gumz,Females: Meat,0
+2015,Benishangul Gumz,Females: Meat,0
+2016,Benishangul Gumz,Females: Meat,0
+2017,Benishangul Gumz,Females: Meat,0
+2018,Benishangul Gumz,Females: Meat,0
+2019,Benishangul Gumz,Females: Meat,0
+2020,Benishangul Gumz,Females: Meat,0
+2003,Dire Dawa,Females: Meat,0
+2004,Dire Dawa,Females: Meat,0
+2005,Dire Dawa,Females: Meat,0
+2006,Dire Dawa,Females: Meat,0
+2007,Dire Dawa,Females: Meat,284
+2008,Dire Dawa,Females: Meat,0
+2009,Dire Dawa,Females: Meat,998
+2010,Dire Dawa,Females: Meat,0
+2011,Dire Dawa,Females: Meat,0
+2012,Dire Dawa,Females: Meat,365
+2013,Dire Dawa,Females: Meat,525
+2014,Dire Dawa,Females: Meat,0
+2015,Dire Dawa,Females: Meat,0
+2016,Dire Dawa,Females: Meat,0
+2017,Dire Dawa,Females: Meat,921
+2018,Dire Dawa,Females: Meat,0
+2019,Dire Dawa,Females: Meat,0
+2020,Dire Dawa,Females: Meat,0
+2003,Gambela,Females: Meat,0
+2004,Gambela,Females: Meat,0
+2005,Gambela,Females: Meat,0
+2006,Gambela,Females: Meat,0
+2007,Gambela,Females: Meat,0
+2008,Gambela,Females: Meat,0
+2009,Gambela,Females: Meat,0
+2010,Gambela,Females: Meat,0
+2011,Gambela,Females: Meat,0
+2012,Gambela,Females: Meat,0
+2013,Gambela,Females: Meat,0
+2014,Gambela,Females: Meat,0
+2015,Gambela,Females: Meat,0
+2016,Gambela,Females: Meat,0
+2017,Gambela,Females: Meat,0
+2018,Gambela,Females: Meat,0
+2019,Gambela,Females: Meat,0
+2020,Gambela,Females: Meat,0
+2003,Harari,Females: Meat,0
+2004,Harari,Females: Meat,0
+2005,Harari,Females: Meat,0
+2006,Harari,Females: Meat,0
+2007,Harari,Females: Meat,0
+2008,Harari,Females: Meat,0
+2009,Harari,Females: Meat,0
+2010,Harari,Females: Meat,0
+2011,Harari,Females: Meat,0
+2012,Harari,Females: Meat,0
+2013,Harari,Females: Meat,0
+2014,Harari,Females: Meat,0
+2015,Harari,Females: Meat,0
+2016,Harari,Females: Meat,0
+2017,Harari,Females: Meat,0
+2018,Harari,Females: Meat,0
+2019,Harari,Females: Meat,0
+2020,Harari,Females: Meat,0
+2003,Oromoa,Females: Meat,0
+2004,Oromoa,Females: Meat,0
+2005,Oromoa,Females: Meat,0
+2006,Oromoa,Females: Meat,0
+2007,Oromoa,Females: Meat,4859
+2008,Oromoa,Females: Meat,0
+2009,Oromoa,Females: Meat,0
+2010,Oromoa,Females: Meat,0
+2011,Oromoa,Females: Meat,0
+2012,Oromoa,Females: Meat,6856
+2013,Oromoa,Females: Meat,1109
+2014,Oromoa,Females: Meat,0
+2015,Oromoa,Females: Meat,5696
+2016,Oromoa,Females: Meat,0
+2017,Oromoa,Females: Meat,0
+2018,Oromoa,Females: Meat,0
+2019,Oromoa,Females: Meat,25557
+2020,Oromoa,Females: Meat,13175
+2003,SNNPR,Females: Meat,0
+2004,SNNPR,Females: Meat,0
+2005,SNNPR,Females: Meat,0
+2006,SNNPR,Females: Meat,0
+2007,SNNPR,Females: Meat,0
+2008,SNNPR,Females: Meat,0
+2009,SNNPR,Females: Meat,0
+2010,SNNPR,Females: Meat,0
+2011,SNNPR,Females: Meat,0
+2012,SNNPR,Females: Meat,0
+2013,SNNPR,Females: Meat,0
+2014,SNNPR,Females: Meat,0
+2015,SNNPR,Females: Meat,0
+2016,SNNPR,Females: Meat,0
+2017,SNNPR,Females: Meat,0
+2018,SNNPR,Females: Meat,0
+2019,SNNPR,Females: Meat,0
+2020,SNNPR,Females: Meat,0
+2003,Somali,Females: Meat,0
+2004,Somali,Females: Meat,0
+2005,Somali,Females: Meat,0
+2006,Somali,Females: Meat,0
+2007,Somali,Females: Meat,14001
+2008,Somali,Females: Meat,9179
+2009,Somali,Females: Meat,7974
+2010,Somali,Females: Meat,13863
+2011,Somali,Females: Meat,8341
+2012,Somali,Females: Meat,6717
+2013,Somali,Females: Meat,6824
+2014,Somali,Females: Meat,9673
+2015,Somali,Females: Meat,0
+2016,Somali,Females: Meat,16795
+2017,Somali,Females: Meat,21974
+2018,Somali,Females: Meat,21974
+2019,Somali,Females: Meat,185413
+2020,Somali,Females: Meat,209359
+2003,Tigray,Females: Meat,0
+2004,Tigray,Females: Meat,0
+2005,Tigray,Females: Meat,0
+2006,Tigray,Females: Meat,0
+2007,Tigray,Females: Meat,0
+2008,Tigray,Females: Meat,0
+2009,Tigray,Females: Meat,0
+2010,Tigray,Females: Meat,0
+2011,Tigray,Females: Meat,0
+2012,Tigray,Females: Meat,0
+2013,Tigray,Females: Meat,0
+2014,Tigray,Females: Meat,0
+2015,Tigray,Females: Meat,0
+2016,Tigray,Females: Meat,0
+2017,Tigray,Females: Meat,0
+2018,Tigray,Females: Meat,0
+2019,Tigray,Females: Meat,0
+2020,Tigray,Females: Meat,0
+2003,Addis Ababa,Females: Draught,0
+2004,Addis Ababa,Females: Draught,0
+2005,Addis Ababa,Females: Draught,0
+2006,Addis Ababa,Females: Draught,0
+2007,Addis Ababa,Females: Draught,0
+2008,Addis Ababa,Females: Draught,0
+2009,Addis Ababa,Females: Draught,0
+2010,Addis Ababa,Females: Draught,0
+2011,Addis Ababa,Females: Draught,0
+2012,Addis Ababa,Females: Draught,0
+2013,Addis Ababa,Females: Draught,0
+2014,Addis Ababa,Females: Draught,0
+2015,Addis Ababa,Females: Draught,0
+2016,Addis Ababa,Females: Draught,0
+2017,Addis Ababa,Females: Draught,0
+2018,Addis Ababa,Females: Draught,0
+2019,Addis Ababa,Females: Draught,0
+2020,Addis Ababa,Females: Draught,0
+2003,Afar,Females: Draught,0
+2004,Afar,Females: Draught,0
+2005,Afar,Females: Draught,0
+2006,Afar,Females: Draught,0
+2007,Afar,Females: Draught,0
+2008,Afar,Females: Draught,0
+2009,Afar,Females: Draught,0
+2010,Afar,Females: Draught,0
+2011,Afar,Females: Draught,0
+2012,Afar,Females: Draught,0
+2013,Afar,Females: Draught,0
+2014,Afar,Females: Draught,0
+2015,Afar,Females: Draught,0
+2016,Afar,Females: Draught,0
+2017,Afar,Females: Draught,0
+2018,Afar,Females: Draught,0
+2019,Afar,Females: Draught,0
+2020,Afar,Females: Draught,0
+2003,Amhara,Females: Draught,0
+2004,Amhara,Females: Draught,0
+2005,Amhara,Females: Draught,0
+2006,Amhara,Females: Draught,0
+2007,Amhara,Females: Draught,0
+2008,Amhara,Females: Draught,0
+2009,Amhara,Females: Draught,0
+2010,Amhara,Females: Draught,0
+2011,Amhara,Females: Draught,0
+2012,Amhara,Females: Draught,0
+2013,Amhara,Females: Draught,0
+2014,Amhara,Females: Draught,0
+2015,Amhara,Females: Draught,0
+2016,Amhara,Females: Draught,0
+2017,Amhara,Females: Draught,0
+2018,Amhara,Females: Draught,0
+2019,Amhara,Females: Draught,0
+2020,Amhara,Females: Draught,0
+2003,Benishangul Gumz,Females: Draught,0
+2004,Benishangul Gumz,Females: Draught,0
+2005,Benishangul Gumz,Females: Draught,0
+2006,Benishangul Gumz,Females: Draught,0
+2007,Benishangul Gumz,Females: Draught,0
+2008,Benishangul Gumz,Females: Draught,0
+2009,Benishangul Gumz,Females: Draught,0
+2010,Benishangul Gumz,Females: Draught,0
+2011,Benishangul Gumz,Females: Draught,0
+2012,Benishangul Gumz,Females: Draught,0
+2013,Benishangul Gumz,Females: Draught,0
+2014,Benishangul Gumz,Females: Draught,0
+2015,Benishangul Gumz,Females: Draught,0
+2016,Benishangul Gumz,Females: Draught,0
+2017,Benishangul Gumz,Females: Draught,0
+2018,Benishangul Gumz,Females: Draught,0
+2019,Benishangul Gumz,Females: Draught,0
+2020,Benishangul Gumz,Females: Draught,0
+2003,Dire Dawa,Females: Draught,0
+2004,Dire Dawa,Females: Draught,0
+2005,Dire Dawa,Females: Draught,0
+2006,Dire Dawa,Females: Draught,0
+2007,Dire Dawa,Females: Draught,0
+2008,Dire Dawa,Females: Draught,0
+2009,Dire Dawa,Females: Draught,0
+2010,Dire Dawa,Females: Draught,0
+2011,Dire Dawa,Females: Draught,0
+2012,Dire Dawa,Females: Draught,0
+2013,Dire Dawa,Females: Draught,0
+2014,Dire Dawa,Females: Draught,0
+2015,Dire Dawa,Females: Draught,0
+2016,Dire Dawa,Females: Draught,0
+2017,Dire Dawa,Females: Draught,0
+2018,Dire Dawa,Females: Draught,0
+2019,Dire Dawa,Females: Draught,0
+2020,Dire Dawa,Females: Draught,0
+2003,Gambela,Females: Draught,0
+2004,Gambela,Females: Draught,0
+2005,Gambela,Females: Draught,0
+2006,Gambela,Females: Draught,0
+2007,Gambela,Females: Draught,0
+2008,Gambela,Females: Draught,0
+2009,Gambela,Females: Draught,0
+2010,Gambela,Females: Draught,0
+2011,Gambela,Females: Draught,0
+2012,Gambela,Females: Draught,0
+2013,Gambela,Females: Draught,0
+2014,Gambela,Females: Draught,0
+2015,Gambela,Females: Draught,0
+2016,Gambela,Females: Draught,0
+2017,Gambela,Females: Draught,0
+2018,Gambela,Females: Draught,0
+2019,Gambela,Females: Draught,0
+2020,Gambela,Females: Draught,0
+2003,Harari,Females: Draught,0
+2004,Harari,Females: Draught,0
+2005,Harari,Females: Draught,0
+2006,Harari,Females: Draught,0
+2007,Harari,Females: Draught,0
+2008,Harari,Females: Draught,0
+2009,Harari,Females: Draught,0
+2010,Harari,Females: Draught,0
+2011,Harari,Females: Draught,0
+2012,Harari,Females: Draught,0
+2013,Harari,Females: Draught,0
+2014,Harari,Females: Draught,0
+2015,Harari,Females: Draught,0
+2016,Harari,Females: Draught,0
+2017,Harari,Females: Draught,0
+2018,Harari,Females: Draught,0
+2019,Harari,Females: Draught,0
+2020,Harari,Females: Draught,0
+2003,Oromoa,Females: Draught,0
+2004,Oromoa,Females: Draught,0
+2005,Oromoa,Females: Draught,0
+2006,Oromoa,Females: Draught,0
+2007,Oromoa,Females: Draught,0
+2008,Oromoa,Females: Draught,0
+2009,Oromoa,Females: Draught,0
+2010,Oromoa,Females: Draught,0
+2011,Oromoa,Females: Draught,0
+2012,Oromoa,Females: Draught,0
+2013,Oromoa,Females: Draught,0
+2014,Oromoa,Females: Draught,0
+2015,Oromoa,Females: Draught,0
+2016,Oromoa,Females: Draught,0
+2017,Oromoa,Females: Draught,0
+2018,Oromoa,Females: Draught,0
+2019,Oromoa,Females: Draught,0
+2020,Oromoa,Females: Draught,0
+2003,SNNPR,Females: Draught,0
+2004,SNNPR,Females: Draught,0
+2005,SNNPR,Females: Draught,0
+2006,SNNPR,Females: Draught,0
+2007,SNNPR,Females: Draught,0
+2008,SNNPR,Females: Draught,0
+2009,SNNPR,Females: Draught,0
+2010,SNNPR,Females: Draught,0
+2011,SNNPR,Females: Draught,0
+2012,SNNPR,Females: Draught,0
+2013,SNNPR,Females: Draught,0
+2014,SNNPR,Females: Draught,0
+2015,SNNPR,Females: Draught,0
+2016,SNNPR,Females: Draught,0
+2017,SNNPR,Females: Draught,0
+2018,SNNPR,Females: Draught,0
+2019,SNNPR,Females: Draught,0
+2020,SNNPR,Females: Draught,0
+2003,Somali,Females: Draught,0
+2004,Somali,Females: Draught,0
+2005,Somali,Females: Draught,0
+2006,Somali,Females: Draught,0
+2007,Somali,Females: Draught,0
+2008,Somali,Females: Draught,0
+2009,Somali,Females: Draught,0
+2010,Somali,Females: Draught,0
+2011,Somali,Females: Draught,0
+2012,Somali,Females: Draught,0
+2013,Somali,Females: Draught,0
+2014,Somali,Females: Draught,0
+2015,Somali,Females: Draught,0
+2016,Somali,Females: Draught,0
+2017,Somali,Females: Draught,0
+2018,Somali,Females: Draught,0
+2019,Somali,Females: Draught,0
+2020,Somali,Females: Draught,0
+2003,Tigray,Females: Draught,0
+2004,Tigray,Females: Draught,0
+2005,Tigray,Females: Draught,0
+2006,Tigray,Females: Draught,0
+2007,Tigray,Females: Draught,0
+2008,Tigray,Females: Draught,0
+2009,Tigray,Females: Draught,0
+2010,Tigray,Females: Draught,0
+2011,Tigray,Females: Draught,0
+2012,Tigray,Females: Draught,0
+2013,Tigray,Females: Draught,0
+2014,Tigray,Females: Draught,0
+2015,Tigray,Females: Draught,0
+2016,Tigray,Females: Draught,0
+2017,Tigray,Females: Draught,0
+2018,Tigray,Females: Draught,0
+2019,Tigray,Females: Draught,0
+2020,Tigray,Females: Draught,0
+2003,Addis Ababa,Females: Milk,0
+2004,Addis Ababa,Females: Milk,0
+2005,Addis Ababa,Females: Milk,0
+2006,Addis Ababa,Females: Milk,0
+2007,Addis Ababa,Females: Milk,0
+2008,Addis Ababa,Females: Milk,0
+2009,Addis Ababa,Females: Milk,0
+2010,Addis Ababa,Females: Milk,0
+2011,Addis Ababa,Females: Milk,0
+2012,Addis Ababa,Females: Milk,0
+2013,Addis Ababa,Females: Milk,0
+2014,Addis Ababa,Females: Milk,0
+2015,Addis Ababa,Females: Milk,0
+2016,Addis Ababa,Females: Milk,0
+2017,Addis Ababa,Females: Milk,0
+2018,Addis Ababa,Females: Milk,0
+2019,Addis Ababa,Females: Milk,0
+2020,Addis Ababa,Females: Milk,0
+2003,Afar,Females: Milk,61682
+2004,Afar,Females: Milk,40293
+2005,Afar,Females: Milk,42286
+2006,Afar,Females: Milk,53370
+2007,Afar,Females: Milk,35335
+2008,Afar,Females: Milk,70797
+2009,Afar,Females: Milk,72642
+2010,Afar,Females: Milk,133689
+2011,Afar,Females: Milk,93300
+2012,Afar,Females: Milk,83216
+2013,Afar,Females: Milk,91389
+2014,Afar,Females: Milk,141867
+2015,Afar,Females: Milk,157431
+2016,Afar,Females: Milk,149080
+2017,Afar,Females: Milk,196941
+2018,Afar,Females: Milk,520257
+2019,Afar,Females: Milk,387250
+2020,Afar,Females: Milk,420630
+2003,Amhara,Females: Milk,0
+2004,Amhara,Females: Milk,0
+2005,Amhara,Females: Milk,0
+2006,Amhara,Females: Milk,0
+2007,Amhara,Females: Milk,0
+2008,Amhara,Females: Milk,0
+2009,Amhara,Females: Milk,0
+2010,Amhara,Females: Milk,0
+2011,Amhara,Females: Milk,0
+2012,Amhara,Females: Milk,0
+2013,Amhara,Females: Milk,0
+2014,Amhara,Females: Milk,0
+2015,Amhara,Females: Milk,0
+2016,Amhara,Females: Milk,0
+2017,Amhara,Females: Milk,0
+2018,Amhara,Females: Milk,0
+2019,Amhara,Females: Milk,0
+2020,Amhara,Females: Milk,0
+2003,Benishangul Gumz,Females: Milk,0
+2004,Benishangul Gumz,Females: Milk,0
+2005,Benishangul Gumz,Females: Milk,0
+2006,Benishangul Gumz,Females: Milk,0
+2007,Benishangul Gumz,Females: Milk,0
+2008,Benishangul Gumz,Females: Milk,0
+2009,Benishangul Gumz,Females: Milk,0
+2010,Benishangul Gumz,Females: Milk,0
+2011,Benishangul Gumz,Females: Milk,0
+2012,Benishangul Gumz,Females: Milk,0
+2013,Benishangul Gumz,Females: Milk,0
+2014,Benishangul Gumz,Females: Milk,0
+2015,Benishangul Gumz,Females: Milk,0
+2016,Benishangul Gumz,Females: Milk,0
+2017,Benishangul Gumz,Females: Milk,0
+2018,Benishangul Gumz,Females: Milk,0
+2019,Benishangul Gumz,Females: Milk,0
+2020,Benishangul Gumz,Females: Milk,0
+2003,Dire Dawa,Females: Milk,2043
+2004,Dire Dawa,Females: Milk,1328
+2005,Dire Dawa,Females: Milk,1604
+2006,Dire Dawa,Females: Milk,0
+2007,Dire Dawa,Females: Milk,1035
+2008,Dire Dawa,Females: Milk,1258
+2009,Dire Dawa,Females: Milk,1236
+2010,Dire Dawa,Females: Milk,1454
+2011,Dire Dawa,Females: Milk,961
+2012,Dire Dawa,Females: Milk,1081
+2013,Dire Dawa,Females: Milk,746
+2014,Dire Dawa,Females: Milk,797
+2015,Dire Dawa,Females: Milk,896
+2016,Dire Dawa,Females: Milk,898
+2017,Dire Dawa,Females: Milk,1394
+2018,Dire Dawa,Females: Milk,875
+2019,Dire Dawa,Females: Milk,2574
+2020,Dire Dawa,Females: Milk,1994
+2003,Gambela,Females: Milk,0
+2004,Gambela,Females: Milk,0
+2005,Gambela,Females: Milk,0
+2006,Gambela,Females: Milk,0
+2007,Gambela,Females: Milk,0
+2008,Gambela,Females: Milk,0
+2009,Gambela,Females: Milk,0
+2010,Gambela,Females: Milk,0
+2011,Gambela,Females: Milk,0
+2012,Gambela,Females: Milk,0
+2013,Gambela,Females: Milk,0
+2014,Gambela,Females: Milk,0
+2015,Gambela,Females: Milk,0
+2016,Gambela,Females: Milk,0
+2017,Gambela,Females: Milk,0
+2018,Gambela,Females: Milk,0
+2019,Gambela,Females: Milk,0
+2020,Gambela,Females: Milk,0
+2003,Harari,Females: Milk,0
+2004,Harari,Females: Milk,0
+2005,Harari,Females: Milk,0
+2006,Harari,Females: Milk,0
+2007,Harari,Females: Milk,0
+2008,Harari,Females: Milk,0
+2009,Harari,Females: Milk,0
+2010,Harari,Females: Milk,0
+2011,Harari,Females: Milk,928
+2012,Harari,Females: Milk,0
+2013,Harari,Females: Milk,0
+2014,Harari,Females: Milk,2072
+2015,Harari,Females: Milk,0
+2016,Harari,Females: Milk,0
+2017,Harari,Females: Milk,0
+2018,Harari,Females: Milk,0
+2019,Harari,Females: Milk,0
+2020,Harari,Females: Milk,0
+2003,Oromoa,Females: Milk,41080
+2004,Oromoa,Females: Milk,42809
+2005,Oromoa,Females: Milk,45178
+2006,Oromoa,Females: Milk,47930
+2007,Oromoa,Females: Milk,200666
+2008,Oromoa,Females: Milk,111853
+2009,Oromoa,Females: Milk,100048
+2010,Oromoa,Females: Milk,127387
+2011,Oromoa,Females: Milk,71054
+2012,Oromoa,Females: Milk,96786
+2013,Oromoa,Females: Milk,93543
+2014,Oromoa,Females: Milk,68182
+2015,Oromoa,Females: Milk,94410
+2016,Oromoa,Females: Milk,67361
+2017,Oromoa,Females: Milk,58154
+2018,Oromoa,Females: Milk,104160
+2019,Oromoa,Females: Milk,79917
+2020,Oromoa,Females: Milk,75408
+2003,SNNPR,Females: Milk,0
+2004,SNNPR,Females: Milk,0
+2005,SNNPR,Females: Milk,0
+2006,SNNPR,Females: Milk,0
+2007,SNNPR,Females: Milk,0
+2008,SNNPR,Females: Milk,0
+2009,SNNPR,Females: Milk,0
+2010,SNNPR,Females: Milk,0
+2011,SNNPR,Females: Milk,0
+2012,SNNPR,Females: Milk,0
+2013,SNNPR,Females: Milk,0
+2014,SNNPR,Females: Milk,0
+2015,SNNPR,Females: Milk,0
+2016,SNNPR,Females: Milk,0
+2017,SNNPR,Females: Milk,0
+2018,SNNPR,Females: Milk,0
+2019,SNNPR,Females: Milk,0
+2020,SNNPR,Females: Milk,0
+2003,Somali,Females: Milk,52434
+2004,Somali,Females: Milk,52773
+2005,Somali,Females: Milk,39557
+2006,Somali,Females: Milk,102921
+2007,Somali,Females: Milk,108524
+2008,Somali,Females: Milk,86755
+2009,Somali,Females: Milk,65024
+2010,Somali,Females: Milk,102735
+2011,Somali,Females: Milk,60313
+2012,Somali,Females: Milk,99535
+2013,Somali,Females: Milk,68070
+2014,Somali,Females: Milk,92452
+2015,Somali,Females: Milk,63985
+2016,Somali,Females: Milk,58481
+2017,Somali,Females: Milk,32356
+2018,Somali,Females: Milk,32356
+2019,Somali,Females: Milk,159755
+2020,Somali,Females: Milk,2489655
+2003,Tigray,Females: Milk,0
+2004,Tigray,Females: Milk,0
+2005,Tigray,Females: Milk,0
+2006,Tigray,Females: Milk,0
+2007,Tigray,Females: Milk,0
+2008,Tigray,Females: Milk,0
+2009,Tigray,Females: Milk,0
+2010,Tigray,Females: Milk,0
+2011,Tigray,Females: Milk,0
+2012,Tigray,Females: Milk,0
+2013,Tigray,Females: Milk,0
+2014,Tigray,Females: Milk,0
+2015,Tigray,Females: Milk,0
+2016,Tigray,Females: Milk,0
+2017,Tigray,Females: Milk,0
+2018,Tigray,Females: Milk,0
+2019,Tigray,Females: Milk,0
+2020,Tigray,Females: Milk,0
+2003,Addis Ababa,Females: Other,0
+2004,Addis Ababa,Females: Other,0
+2005,Addis Ababa,Females: Other,0
+2006,Addis Ababa,Females: Other,0
+2007,Addis Ababa,Females: Other,0
+2008,Addis Ababa,Females: Other,0
+2009,Addis Ababa,Females: Other,0
+2010,Addis Ababa,Females: Other,0
+2011,Addis Ababa,Females: Other,0
+2012,Addis Ababa,Females: Other,0
+2013,Addis Ababa,Females: Other,0
+2014,Addis Ababa,Females: Other,0
+2015,Addis Ababa,Females: Other,0
+2016,Addis Ababa,Females: Other,0
+2017,Addis Ababa,Females: Other,0
+2018,Addis Ababa,Females: Other,0
+2019,Addis Ababa,Females: Other,0
+2020,Addis Ababa,Females: Other,0
+2003,Afar,Females: Other,2233
+2004,Afar,Females: Other,12549
+2005,Afar,Females: Other,16569
+2006,Afar,Females: Other,25681
+2007,Afar,Females: Other,11411
+2008,Afar,Females: Other,0
+2009,Afar,Females: Other,52720
+2010,Afar,Females: Other,82597
+2011,Afar,Females: Other,0
+2012,Afar,Females: Other,54419
+2013,Afar,Females: Other,0
+2014,Afar,Females: Other,108626
+2015,Afar,Females: Other,121827
+2016,Afar,Females: Other,118847
+2017,Afar,Females: Other,207882
+2018,Afar,Females: Other,78900
+2019,Afar,Females: Other,159412
+2020,Afar,Females: Other,135614
+2003,Amhara,Females: Other,0
+2004,Amhara,Females: Other,0
+2005,Amhara,Females: Other,0
+2006,Amhara,Females: Other,0
+2007,Amhara,Females: Other,0
+2008,Amhara,Females: Other,0
+2009,Amhara,Females: Other,0
+2010,Amhara,Females: Other,0
+2011,Amhara,Females: Other,0
+2012,Amhara,Females: Other,0
+2013,Amhara,Females: Other,0
+2014,Amhara,Females: Other,0
+2015,Amhara,Females: Other,0
+2016,Amhara,Females: Other,0
+2017,Amhara,Females: Other,0
+2018,Amhara,Females: Other,0
+2019,Amhara,Females: Other,0
+2020,Amhara,Females: Other,0
+2003,Benishangul Gumz,Females: Other,0
+2004,Benishangul Gumz,Females: Other,0
+2005,Benishangul Gumz,Females: Other,0
+2006,Benishangul Gumz,Females: Other,0
+2007,Benishangul Gumz,Females: Other,0
+2008,Benishangul Gumz,Females: Other,0
+2009,Benishangul Gumz,Females: Other,0
+2010,Benishangul Gumz,Females: Other,0
+2011,Benishangul Gumz,Females: Other,0
+2012,Benishangul Gumz,Females: Other,0
+2013,Benishangul Gumz,Females: Other,0
+2014,Benishangul Gumz,Females: Other,0
+2015,Benishangul Gumz,Females: Other,0
+2016,Benishangul Gumz,Females: Other,0
+2017,Benishangul Gumz,Females: Other,0
+2018,Benishangul Gumz,Females: Other,0
+2019,Benishangul Gumz,Females: Other,0
+2020,Benishangul Gumz,Females: Other,0
+2003,Dire Dawa,Females: Other,0
+2004,Dire Dawa,Females: Other,0
+2005,Dire Dawa,Females: Other,0
+2006,Dire Dawa,Females: Other,585
+2007,Dire Dawa,Females: Other,475
+2008,Dire Dawa,Females: Other,535
+2009,Dire Dawa,Females: Other,721
+2010,Dire Dawa,Females: Other,766
+2011,Dire Dawa,Females: Other,1449
+2012,Dire Dawa,Females: Other,545
+2013,Dire Dawa,Females: Other,950
+2014,Dire Dawa,Females: Other,1010
+2015,Dire Dawa,Females: Other,1064
+2016,Dire Dawa,Females: Other,0
+2017,Dire Dawa,Females: Other,0
+2018,Dire Dawa,Females: Other,0
+2019,Dire Dawa,Females: Other,0
+2020,Dire Dawa,Females: Other,0
+2003,Gambela,Females: Other,0
+2004,Gambela,Females: Other,0
+2005,Gambela,Females: Other,0
+2006,Gambela,Females: Other,0
+2007,Gambela,Females: Other,0
+2008,Gambela,Females: Other,0
+2009,Gambela,Females: Other,0
+2010,Gambela,Females: Other,0
+2011,Gambela,Females: Other,0
+2012,Gambela,Females: Other,0
+2013,Gambela,Females: Other,0
+2014,Gambela,Females: Other,0
+2015,Gambela,Females: Other,0
+2016,Gambela,Females: Other,0
+2017,Gambela,Females: Other,0
+2018,Gambela,Females: Other,0
+2019,Gambela,Females: Other,0
+2020,Gambela,Females: Other,0
+2003,Harari,Females: Other,0
+2004,Harari,Females: Other,0
+2005,Harari,Females: Other,0
+2006,Harari,Females: Other,0
+2007,Harari,Females: Other,0
+2008,Harari,Females: Other,0
+2009,Harari,Females: Other,0
+2010,Harari,Females: Other,0
+2011,Harari,Females: Other,0
+2012,Harari,Females: Other,0
+2013,Harari,Females: Other,0
+2014,Harari,Females: Other,0
+2015,Harari,Females: Other,1483
+2016,Harari,Females: Other,0
+2017,Harari,Females: Other,0
+2018,Harari,Females: Other,0
+2019,Harari,Females: Other,0
+2020,Harari,Females: Other,0
+2003,Oromoa,Females: Other,10519
+2004,Oromoa,Females: Other,22944
+2005,Oromoa,Females: Other,0
+2006,Oromoa,Females: Other,15981
+2007,Oromoa,Females: Other,38726
+2008,Oromoa,Females: Other,8062
+2009,Oromoa,Females: Other,23680
+2010,Oromoa,Females: Other,34367
+2011,Oromoa,Females: Other,0
+2012,Oromoa,Females: Other,41462
+2013,Oromoa,Females: Other,41633
+2014,Oromoa,Females: Other,45782
+2015,Oromoa,Females: Other,47064
+2016,Oromoa,Females: Other,77205
+2017,Oromoa,Females: Other,0
+2018,Oromoa,Females: Other,0
+2019,Oromoa,Females: Other,39448
+2020,Oromoa,Females: Other,39215
+2003,SNNPR,Females: Other,0
+2004,SNNPR,Females: Other,0
+2005,SNNPR,Females: Other,0
+2006,SNNPR,Females: Other,0
+2007,SNNPR,Females: Other,0
+2008,SNNPR,Females: Other,0
+2009,SNNPR,Females: Other,0
+2010,SNNPR,Females: Other,0
+2011,SNNPR,Females: Other,0
+2012,SNNPR,Females: Other,0
+2013,SNNPR,Females: Other,0
+2014,SNNPR,Females: Other,0
+2015,SNNPR,Females: Other,0
+2016,SNNPR,Females: Other,0
+2017,SNNPR,Females: Other,0
+2018,SNNPR,Females: Other,0
+2019,SNNPR,Females: Other,0
+2020,SNNPR,Females: Other,0
+2003,Somali,Females: Other,0
+2004,Somali,Females: Other,24229
+2005,Somali,Females: Other,20609
+2006,Somali,Females: Other,17597
+2007,Somali,Females: Other,0
+2008,Somali,Females: Other,20171
+2009,Somali,Females: Other,66913
+2010,Somali,Females: Other,45573
+2011,Somali,Females: Other,66722
+2012,Somali,Females: Other,48332
+2013,Somali,Females: Other,97291
+2014,Somali,Females: Other,87654
+2015,Somali,Females: Other,116605
+2016,Somali,Females: Other,72759
+2017,Somali,Females: Other,73574
+2018,Somali,Females: Other,73574
+2019,Somali,Females: Other,155230
+2020,Somali,Females: Other,563685
+2003,Tigray,Females: Other,0
+2004,Tigray,Females: Other,0
+2005,Tigray,Females: Other,0
+2006,Tigray,Females: Other,0
+2007,Tigray,Females: Other,0
+2008,Tigray,Females: Other,0
+2009,Tigray,Females: Other,0
+2010,Tigray,Females: Other,0
+2011,Tigray,Females: Other,0
+2012,Tigray,Females: Other,0
+2013,Tigray,Females: Other,0
+2014,Tigray,Females: Other,0
+2015,Tigray,Females: Other,0
+2016,Tigray,Females: Other,0
+2017,Tigray,Females: Other,0
+2018,Tigray,Females: Other,0
+2019,Tigray,Females: Other,0
+2020,Tigray,Females: Other,0
+2003,Addis Ababa,Total Holdings,0
+2004,Addis Ababa,Total Holdings,0
+2005,Addis Ababa,Total Holdings,0
+2006,Addis Ababa,Total Holdings,0
+2007,Addis Ababa,Total Holdings,0
+2008,Addis Ababa,Total Holdings,0
+2009,Addis Ababa,Total Holdings,0
+2010,Addis Ababa,Total Holdings,0
+2011,Addis Ababa,Total Holdings,0
+2012,Addis Ababa,Total Holdings,0
+2013,Addis Ababa,Total Holdings,0
+2014,Addis Ababa,Total Holdings,0
+2015,Addis Ababa,Total Holdings,0
+2016,Addis Ababa,Total Holdings,0
+2017,Addis Ababa,Total Holdings,0
+2018,Addis Ababa,Total Holdings,0
+2019,Addis Ababa,Total Holdings,0
+2020,Addis Ababa,Total Holdings,0
+2003,Afar,Total Holdings,0
+2004,Afar,Total Holdings,27990
+2005,Afar,Total Holdings,28957
+2006,Afar,Total Holdings,31133
+2007,Afar,Total Holdings,78534
+2008,Afar,Total Holdings,46243
+2009,Afar,Total Holdings,49621
+2010,Afar,Total Holdings,176074
+2011,Afar,Total Holdings,102751
+2012,Afar,Total Holdings,117073
+2013,Afar,Total Holdings,219077
+2014,Afar,Total Holdings,258758
+2015,Afar,Total Holdings,232615
+2016,Afar,Total Holdings,252980
+2017,Afar,Total Holdings,184985
+2018,Afar,Total Holdings,410363
+2019,Afar,Total Holdings,370367
+2020,Afar,Total Holdings,339402
+2003,Amhara,Total Holdings,0
+2004,Amhara,Total Holdings,3177364
+2005,Amhara,Total Holdings,3140806
+2006,Amhara,Total Holdings,3399955
+2007,Amhara,Total Holdings,7201134
+2008,Amhara,Total Holdings,4006779
+2009,Amhara,Total Holdings,4049796
+2010,Amhara,Total Holdings,8489603
+2011,Amhara,Total Holdings,4373004
+2012,Amhara,Total Holdings,4493726
+2013,Amhara,Total Holdings,4582890
+2014,Amhara,Total Holdings,4838982
+2015,Amhara,Total Holdings,4922253
+2016,Amhara,Total Holdings,5174526
+2017,Amhara,Total Holdings,5369494
+2018,Amhara,Total Holdings,4907940
+2019,Amhara,Total Holdings,4970236
+2020,Amhara,Total Holdings,5244863
+2003,Benishangul Gumz,Total Holdings,0
+2004,Benishangul Gumz,Total Holdings,136463
+2005,Benishangul Gumz,Total Holdings,138371
+2006,Benishangul Gumz,Total Holdings,151603
+2007,Benishangul Gumz,Total Holdings,276784
+2008,Benishangul Gumz,Total Holdings,143620
+2009,Benishangul Gumz,Total Holdings,147640
+2010,Benishangul Gumz,Total Holdings,397648
+2011,Benishangul Gumz,Total Holdings,216770
+2012,Benishangul Gumz,Total Holdings,218280
+2013,Benishangul Gumz,Total Holdings,208865
+2014,Benishangul Gumz,Total Holdings,235178
+2015,Benishangul Gumz,Total Holdings,247229
+2016,Benishangul Gumz,Total Holdings,248200
+2017,Benishangul Gumz,Total Holdings,323508
+2018,Benishangul Gumz,Total Holdings,253142
+2019,Benishangul Gumz,Total Holdings,209442
+2020,Benishangul Gumz,Total Holdings,210313
+2003,Dire Dawa,Total Holdings,0
+2004,Dire Dawa,Total Holdings,16928
+2005,Dire Dawa,Total Holdings,18299
+2006,Dire Dawa,Total Holdings,18584
+2007,Dire Dawa,Total Holdings,42172
+2008,Dire Dawa,Total Holdings,21947
+2009,Dire Dawa,Total Holdings,22783
+2010,Dire Dawa,Total Holdings,46238
+2011,Dire Dawa,Total Holdings,23336
+2012,Dire Dawa,Total Holdings,26225
+2013,Dire Dawa,Total Holdings,26298
+2014,Dire Dawa,Total Holdings,27882
+2015,Dire Dawa,Total Holdings,27500
+2016,Dire Dawa,Total Holdings,27448
+2017,Dire Dawa,Total Holdings,31884
+2018,Dire Dawa,Total Holdings,26467
+2019,Dire Dawa,Total Holdings,43936
+2020,Dire Dawa,Total Holdings,44450
+2003,Gambela,Total Holdings,0
+2004,Gambela,Total Holdings,0
+2005,Gambela,Total Holdings,0
+2006,Gambela,Total Holdings,0
+2007,Gambela,Total Holdings,74628
+2008,Gambela,Total Holdings,35076
+2009,Gambela,Total Holdings,36027
+2010,Gambela,Total Holdings,86306
+2011,Gambela,Total Holdings,45477
+2012,Gambela,Total Holdings,53877
+2013,Gambela,Total Holdings,62804
+2014,Gambela,Total Holdings,61463
+2015,Gambela,Total Holdings,68888
+2016,Gambela,Total Holdings,76910
+2017,Gambela,Total Holdings,72008
+2018,Gambela,Total Holdings,72334
+2019,Gambela,Total Holdings,54454
+2020,Gambela,Total Holdings,56253
+2003,Harari,Total Holdings,0
+2004,Harari,Total Holdings,14758
+2005,Harari,Total Holdings,15746
+2006,Harari,Total Holdings,17046
+2007,Harari,Total Holdings,35862
+2008,Harari,Total Holdings,18343
+2009,Harari,Total Holdings,18590
+2010,Harari,Total Holdings,40288
+2011,Harari,Total Holdings,20770
+2012,Harari,Total Holdings,23221
+2013,Harari,Total Holdings,24677
+2014,Harari,Total Holdings,26132
+2015,Harari,Total Holdings,25684
+2016,Harari,Total Holdings,29243
+2017,Harari,Total Holdings,33152
+2018,Harari,Total Holdings,42690
+2019,Harari,Total Holdings,51461
+2020,Harari,Total Holdings,55734
+2003,Oromoa,Total Holdings,0
+2004,Oromoa,Total Holdings,105232
+2005,Oromoa,Total Holdings,107319
+2006,Oromoa,Total Holdings,119946
+2007,Oromoa,Total Holdings,282866
+2008,Oromoa,Total Holdings,146700
+2009,Oromoa,Total Holdings,153119
+2010,Oromoa,Total Holdings,249515
+2011,Oromoa,Total Holdings,120639
+2012,Oromoa,Total Holdings,146132
+2013,Oromoa,Total Holdings,166978
+2014,Oromoa,Total Holdings,148699
+2015,Oromoa,Total Holdings,117650
+2016,Oromoa,Total Holdings,146588
+2017,Oromoa,Total Holdings,187634
+2018,Oromoa,Total Holdings,187755
+2019,Oromoa,Total Holdings,577319
+2020,Oromoa,Total Holdings,641236
+2003,SNNPR,Total Holdings,0
+2004,SNNPR,Total Holdings,2619000
+2005,SNNPR,Total Holdings,2586612
+2006,SNNPR,Total Holdings,2756517
+2007,SNNPR,Total Holdings,5837804
+2008,SNNPR,Total Holdings,2935372
+2009,SNNPR,Total Holdings,2975433
+2010,SNNPR,Total Holdings,7192116
+2011,SNNPR,Total Holdings,334713
+2012,SNNPR,Total Holdings,3481137
+2013,SNNPR,Total Holdings,3564454
+2014,SNNPR,Total Holdings,3610903
+2015,SNNPR,Total Holdings,3467676
+2016,SNNPR,Total Holdings,3642887
+2017,SNNPR,Total Holdings,3927762
+2018,SNNPR,Total Holdings,3431207
+2019,SNNPR,Total Holdings,3967785
+2020,SNNPR,Total Holdings,2916669
+2003,Somali,Total Holdings,0
+2004,Somali,Total Holdings,105232
+2005,Somali,Total Holdings,107319
+2006,Somali,Total Holdings,119946
+2007,Somali,Total Holdings,282866
+2008,Somali,Total Holdings,146700
+2009,Somali,Total Holdings,153119
+2010,Somali,Total Holdings,249515
+2011,Somali,Total Holdings,120639
+2012,Somali,Total Holdings,146132
+2013,Somali,Total Holdings,166978
+2014,Somali,Total Holdings,148699
+2015,Somali,Total Holdings,117650
+2016,Somali,Total Holdings,146588
+2017,Somali,Total Holdings,187634
+2018,Somali,Total Holdings,187755
+2019,Somali,Total Holdings,577319
+2020,Somali,Total Holdings,641236
+2003,Tigray,Total Holdings,0
+2004,Tigray,Total Holdings,709343
+2005,Tigray,Total Holdings,689556
+2006,Tigray,Total Holdings,762613
+2007,Tigray,Total Holdings,1661843
+2008,Tigray,Total Holdings,831210
+2009,Tigray,Total Holdings,906354
+2010,Tigray,Total Holdings,1997884
+2011,Tigray,Total Holdings,976629
+2012,Tigray,Total Holdings,1068015
+2013,Tigray,Total Holdings,1134362
+2014,Tigray,Total Holdings,1239461
+2015,Tigray,Total Holdings,1236271
+2016,Tigray,Total Holdings,1327444
+2017,Tigray,Total Holdings,1512721
+2018,Tigray,Total Holdings,1479377
+2019,Tigray,Total Holdings,1480125
+2020,Tigray,Total Holdings,1479536
+2003,Addis Ababa,No Camels Holdings,0
+2004,Addis Ababa,No Camels Holdings,0
+2005,Addis Ababa,No Camels Holdings,0
+2006,Addis Ababa,No Camels Holdings,0
+2007,Addis Ababa,No Camels Holdings,0
+2008,Addis Ababa,No Camels Holdings,0
+2009,Addis Ababa,No Camels Holdings,0
+2010,Addis Ababa,No Camels Holdings,0
+2011,Addis Ababa,No Camels Holdings,0
+2012,Addis Ababa,No Camels Holdings,0
+2013,Addis Ababa,No Camels Holdings,0
+2014,Addis Ababa,No Camels Holdings,0
+2015,Addis Ababa,No Camels Holdings,0
+2016,Addis Ababa,No Camels Holdings,0
+2017,Addis Ababa,No Camels Holdings,0
+2018,Addis Ababa,No Camels Holdings,0
+2019,Addis Ababa,No Camels Holdings,0
+2020,Addis Ababa,No Camels Holdings,0
+2003,Afar,No Camels Holdings,0
+2004,Afar,No Camels Holdings,19221
+2005,Afar,No Camels Holdings,17957
+2006,Afar,No Camels Holdings,19604
+2007,Afar,No Camels Holdings,41324
+2008,Afar,No Camels Holdings,26496
+2009,Afar,No Camels Holdings,29174
+2010,Afar,No Camels Holdings,94265
+2011,Afar,No Camels Holdings,64804
+2012,Afar,No Camels Holdings,78747
+2013,Afar,No Camels Holdings,150134
+2014,Afar,No Camels Holdings,190123
+2015,Afar,No Camels Holdings,154152
+2016,Afar,No Camels Holdings,170160
+2017,Afar,No Camels Holdings,112538
+2018,Afar,No Camels Holdings,220002
+2019,Afar,No Camels Holdings,210846
+2020,Afar,No Camels Holdings,183933
+2003,Amhara,No Camels Holdings,0
+2004,Amhara,No Camels Holdings,3167333
+2005,Amhara,No Camels Holdings,3132623
+2006,Amhara,No Camels Holdings,3380572
+2007,Amhara,No Camels Holdings,3600715
+2008,Amhara,No Camels Holdings,3974020
+2009,Amhara,No Camels Holdings,4026123
+2010,Amhara,No Camels Holdings,4244866
+2011,Amhara,No Camels Holdings,4333153
+2012,Amhara,No Camels Holdings,4455900
+2013,Amhara,No Camels Holdings,4537644
+2014,Amhara,No Camels Holdings,4790785
+2015,Amhara,No Camels Holdings,4875576
+2016,Amhara,No Camels Holdings,5127980
+2017,Amhara,No Camels Holdings,5271835
+2018,Amhara,No Camels Holdings,4878796
+2019,Amhara,No Camels Holdings,4927714
+2020,Amhara,No Camels Holdings,5207290
+2003,Benishangul Gumz,No Camels Holdings,0
+2004,Benishangul Gumz,No Camels Holdings,136463
+2005,Benishangul Gumz,No Camels Holdings,138371
+2006,Benishangul Gumz,No Camels Holdings,151603
+2007,Benishangul Gumz,No Camels Holdings,138392
+2008,Benishangul Gumz,No Camels Holdings,143620
+2009,Benishangul Gumz,No Camels Holdings,147640
+2010,Benishangul Gumz,No Camels Holdings,198824
+2011,Benishangul Gumz,No Camels Holdings,216770
+2012,Benishangul Gumz,No Camels Holdings,218280
+2013,Benishangul Gumz,No Camels Holdings,208865
+2014,Benishangul Gumz,No Camels Holdings,235050
+2015,Benishangul Gumz,No Camels Holdings,246997
+2016,Benishangul Gumz,No Camels Holdings,248200
+2017,Benishangul Gumz,No Camels Holdings,323508
+2018,Benishangul Gumz,No Camels Holdings,253142
+2019,Benishangul Gumz,No Camels Holdings,209442
+2020,Benishangul Gumz,No Camels Holdings,210313
+2003,Dire Dawa,No Camels Holdings,0
+2004,Dire Dawa,No Camels Holdings,14295
+2005,Dire Dawa,No Camels Holdings,15229
+2006,Dire Dawa,No Camels Holdings,15814
+2007,Dire Dawa,No Camels Holdings,21116
+2008,Dire Dawa,No Camels Holdings,19274
+2009,Dire Dawa,No Camels Holdings,19608
+2010,Dire Dawa,No Camels Holdings,23135
+2011,Dire Dawa,No Camels Holdings,20179
+2012,Dire Dawa,No Camels Holdings,23262
+2013,Dire Dawa,No Camels Holdings,22911
+2014,Dire Dawa,No Camels Holdings,24693
+2015,Dire Dawa,No Camels Holdings,24976
+2016,Dire Dawa,No Camels Holdings,23451
+2017,Dire Dawa,No Camels Holdings,27703
+2018,Dire Dawa,No Camels Holdings,22665
+2019,Dire Dawa,No Camels Holdings,38738
+2020,Dire Dawa,No Camels Holdings,39939
+2003,Gambela,No Camels Holdings,0
+2004,Gambela,No Camels Holdings,0
+2005,Gambela,No Camels Holdings,0
+2006,Gambela,No Camels Holdings,0
+2007,Gambela,No Camels Holdings,37314
+2008,Gambela,No Camels Holdings,35076
+2009,Gambela,No Camels Holdings,36027
+2010,Gambela,No Camels Holdings,43153
+2011,Gambela,No Camels Holdings,45477
+2012,Gambela,No Camels Holdings,53877
+2013,Gambela,No Camels Holdings,62804
+2014,Gambela,No Camels Holdings,61463
+2015,Gambela,No Camels Holdings,68888
+2016,Gambela,No Camels Holdings,76910
+2017,Gambela,No Camels Holdings,72008
+2018,Gambela,No Camels Holdings,72334
+2019,Gambela,No Camels Holdings,54454
+2020,Gambela,No Camels Holdings,56253
+2003,Harari,No Camels Holdings,0
+2004,Harari,No Camels Holdings,14761
+2005,Harari,No Camels Holdings,15391
+2006,Harari,No Camels Holdings,16751
+2007,Harari,No Camels Holdings,17943
+2008,Harari,No Camels Holdings,18082
+2009,Harari,No Camels Holdings,18198
+2010,Harari,No Camels Holdings,20144
+2011,Harari,No Camels Holdings,20217
+2012,Harari,No Camels Holdings,22727
+2013,Harari,No Camels Holdings,23901
+2014,Harari,No Camels Holdings,25112
+2015,Harari,No Camels Holdings,24924
+2016,Harari,No Camels Holdings,28417
+2017,Harari,No Camels Holdings,32734
+2018,Harari,No Camels Holdings,42287
+2019,Harari,No Camels Holdings,51277
+2020,Harari,No Camels Holdings,55257
+2003,Oromoa,No Camels Holdings,0
+2004,Oromoa,No Camels Holdings,79925
+2005,Oromoa,No Camels Holdings,77408
+2006,Oromoa,No Camels Holdings,78206
+2007,Oromoa,No Camels Holdings,147069
+2008,Oromoa,No Camels Holdings,103329
+2009,Oromoa,No Camels Holdings,110247
+2010,Oromoa,No Camels Holdings,130042
+2011,Oromoa,No Camels Holdings,83662
+2012,Oromoa,No Camels Holdings,106710
+2013,Oromoa,No Camels Holdings,122121
+2014,Oromoa,No Camels Holdings,108896
+2015,Oromoa,No Camels Holdings,84969
+2016,Oromoa,No Camels Holdings,107404
+2017,Oromoa,No Camels Holdings,140573
+2018,Oromoa,No Camels Holdings,140694
+2019,Oromoa,No Camels Holdings,287337
+2020,Oromoa,No Camels Holdings,398115
+2003,SNNPR,No Camels Holdings,0
+2004,SNNPR,No Camels Holdings,2619001
+2005,SNNPR,No Camels Holdings,2586040
+2006,SNNPR,No Camels Holdings,2756517
+2007,SNNPR,No Camels Holdings,2918902
+2008,SNNPR,No Camels Holdings,2935274
+2009,SNNPR,No Camels Holdings,2975433
+2010,SNNPR,No Camels Holdings,3596058
+2011,SNNPR,No Camels Holdings,334591
+2012,SNNPR,No Camels Holdings,3481137
+2013,SNNPR,No Camels Holdings,3564454
+2014,SNNPR,No Camels Holdings,3609497
+2015,SNNPR,No Camels Holdings,3467404
+2016,SNNPR,No Camels Holdings,3642185
+2017,SNNPR,No Camels Holdings,3927762
+2018,SNNPR,No Camels Holdings,3431207
+2019,SNNPR,No Camels Holdings,3967785
+2020,SNNPR,No Camels Holdings,2916669
+2003,Somali,No Camels Holdings,0
+2004,Somali,No Camels Holdings,79925
+2005,Somali,No Camels Holdings,77408
+2006,Somali,No Camels Holdings,78206
+2007,Somali,No Camels Holdings,147069
+2008,Somali,No Camels Holdings,103329
+2009,Somali,No Camels Holdings,110247
+2010,Somali,No Camels Holdings,130042
+2011,Somali,No Camels Holdings,83662
+2012,Somali,No Camels Holdings,106710
+2013,Somali,No Camels Holdings,122121
+2014,Somali,No Camels Holdings,108896
+2015,Somali,No Camels Holdings,84969
+2016,Somali,No Camels Holdings,107404
+2017,Somali,No Camels Holdings,140573
+2018,Somali,No Camels Holdings,140694
+2019,Somali,No Camels Holdings,287337
+2020,Somali,No Camels Holdings,398115
+2003,Tigray,No Camels Holdings,0
+2004,Tigray,No Camels Holdings,693962
+2005,Tigray,No Camels Holdings,671207
+2006,Tigray,No Camels Holdings,744412
+2007,Tigray,No Camels Holdings,831175
+2008,Tigray,No Camels Holdings,811805
+2009,Tigray,No Camels Holdings,885711
+2010,Tigray,No Camels Holdings,998942
+2011,Tigray,No Camels Holdings,955587
+2012,Tigray,No Camels Holdings,1037687
+2013,Tigray,No Camels Holdings,1100681
+2014,Tigray,No Camels Holdings,1207867
+2015,Tigray,No Camels Holdings,1195920
+2016,Tigray,No Camels Holdings,1286512
+2017,Tigray,No Camels Holdings,1479058
+2018,Tigray,No Camels Holdings,1434398
+2019,Tigray,No Camels Holdings,1439541
+2020,Tigray,No Camels Holdings,1438952
+2003,Addis Ababa,Head: 1-2,0
+2004,Addis Ababa,Head: 1-2,0
+2005,Addis Ababa,Head: 1-2,0
+2006,Addis Ababa,Head: 1-2,0
+2007,Addis Ababa,Head: 1-2,0
+2008,Addis Ababa,Head: 1-2,0
+2009,Addis Ababa,Head: 1-2,0
+2010,Addis Ababa,Head: 1-2,0
+2011,Addis Ababa,Head: 1-2,0
+2012,Addis Ababa,Head: 1-2,0
+2013,Addis Ababa,Head: 1-2,0
+2014,Addis Ababa,Head: 1-2,0
+2015,Addis Ababa,Head: 1-2,0
+2016,Addis Ababa,Head: 1-2,0
+2017,Addis Ababa,Head: 1-2,0
+2018,Addis Ababa,Head: 1-2,0
+2019,Addis Ababa,Head: 1-2,0
+2020,Addis Ababa,Head: 1-2,0
+2003,Afar,Head: 1-2,0
+2004,Afar,Head: 1-2,4045
+2005,Afar,Head: 1-2,4594
+2006,Afar,Head: 1-2,3951
+2007,Afar,Head: 1-2,26311
+2008,Afar,Head: 1-2,8355
+2009,Afar,Head: 1-2,6535
+2010,Afar,Head: 1-2,56822
+2011,Afar,Head: 1-2,16147
+2012,Afar,Head: 1-2,17974
+2013,Afar,Head: 1-2,35566
+2014,Afar,Head: 1-2,35618
+2015,Afar,Head: 1-2,38356
+2016,Afar,Head: 1-2,36917
+2017,Afar,Head: 1-2,22205
+2018,Afar,Head: 1-2,73840
+2019,Afar,Head: 1-2,65747
+2020,Afar,Head: 1-2,57740
+2003,Amhara,Head: 1-2,0
+2004,Amhara,Head: 1-2,9464
+2005,Amhara,Head: 1-2,6978
+2006,Amhara,Head: 1-2,16763
+2007,Amhara,Head: 1-2,3571476
+2008,Amhara,Head: 1-2,29686
+2009,Amhara,Head: 1-2,21610
+2010,Amhara,Head: 1-2,4211846
+2011,Amhara,Head: 1-2,37161
+2012,Amhara,Head: 1-2,32230
+2013,Amhara,Head: 1-2,42174
+2014,Amhara,Head: 1-2,45868
+2015,Amhara,Head: 1-2,43693
+2016,Amhara,Head: 1-2,41540
+2017,Amhara,Head: 1-2,88862
+2018,Amhara,Head: 1-2,29144
+2019,Amhara,Head: 1-2,41926
+2020,Amhara,Head: 1-2,35708
+2003,Benishangul Gumz,Head: 1-2,0
+2004,Benishangul Gumz,Head: 1-2,0
+2005,Benishangul Gumz,Head: 1-2,0
+2006,Benishangul Gumz,Head: 1-2,0
+2007,Benishangul Gumz,Head: 1-2,138392
+2008,Benishangul Gumz,Head: 1-2,0
+2009,Benishangul Gumz,Head: 1-2,0
+2010,Benishangul Gumz,Head: 1-2,198824
+2011,Benishangul Gumz,Head: 1-2,0
+2012,Benishangul Gumz,Head: 1-2,0
+2013,Benishangul Gumz,Head: 1-2,0
+2014,Benishangul Gumz,Head: 1-2,0
+2015,Benishangul Gumz,Head: 1-2,203
+2016,Benishangul Gumz,Head: 1-2,0
+2017,Benishangul Gumz,Head: 1-2,0
+2018,Benishangul Gumz,Head: 1-2,0
+2019,Benishangul Gumz,Head: 1-2,0
+2020,Benishangul Gumz,Head: 1-2,0
+2003,Dire Dawa,Head: 1-2,0
+2004,Dire Dawa,Head: 1-2,2116
+2005,Dire Dawa,Head: 1-2,2355
+2006,Dire Dawa,Head: 1-2,1833
+2007,Dire Dawa,Head: 1-2,18645
+2008,Dire Dawa,Head: 1-2,2027
+2009,Dire Dawa,Head: 1-2,2113
+2010,Dire Dawa,Head: 1-2,20457
+2011,Dire Dawa,Head: 1-2,2077
+2012,Dire Dawa,Head: 1-2,2226
+2013,Dire Dawa,Head: 1-2,2471
+2014,Dire Dawa,Head: 1-2,2412
+2015,Dire Dawa,Head: 1-2,1751
+2016,Dire Dawa,Head: 1-2,3141
+2017,Dire Dawa,Head: 1-2,3481
+2018,Dire Dawa,Head: 1-2,3078
+2019,Dire Dawa,Head: 1-2,3160
+2020,Dire Dawa,Head: 1-2,3071
+2003,Gambela,Head: 1-2,0
+2004,Gambela,Head: 1-2,0
+2005,Gambela,Head: 1-2,0
+2006,Gambela,Head: 1-2,0
+2007,Gambela,Head: 1-2,37314
+2008,Gambela,Head: 1-2,0
+2009,Gambela,Head: 1-2,0
+2010,Gambela,Head: 1-2,43153
+2011,Gambela,Head: 1-2,0
+2012,Gambela,Head: 1-2,0
+2013,Gambela,Head: 1-2,0
+2014,Gambela,Head: 1-2,0
+2015,Gambela,Head: 1-2,0
+2016,Gambela,Head: 1-2,0
+2017,Gambela,Head: 1-2,0
+2018,Gambela,Head: 1-2,0
+2019,Gambela,Head: 1-2,0
+2020,Gambela,Head: 1-2,0
+2003,Harari,Head: 1-2,0
+2004,Harari,Head: 1-2,0
+2005,Harari,Head: 1-2,120
+2006,Harari,Head: 1-2,97
+2007,Harari,Head: 1-2,17708
+2008,Harari,Head: 1-2,74
+2009,Harari,Head: 1-2,168
+2010,Harari,Head: 1-2,19756
+2011,Harari,Head: 1-2,279
+2012,Harari,Head: 1-2,311
+2013,Harari,Head: 1-2,273
+2014,Harari,Head: 1-2,470
+2015,Harari,Head: 1-2,290
+2016,Harari,Head: 1-2,184
+2017,Harari,Head: 1-2,321
+2018,Harari,Head: 1-2,239
+2019,Harari,Head: 1-2,0
+2020,Harari,Head: 1-2,192
+2003,Oromoa,Head: 1-2,0
+2004,Oromoa,Head: 1-2,13129
+2005,Oromoa,Head: 1-2,18021
+2006,Oromoa,Head: 1-2,22511
+2007,Oromoa,Head: 1-2,100076
+2008,Oromoa,Head: 1-2,18078
+2009,Oromoa,Head: 1-2,18029
+2010,Oromoa,Head: 1-2,88073
+2011,Oromoa,Head: 1-2,12161
+2012,Oromoa,Head: 1-2,15628
+2013,Oromoa,Head: 1-2,14245
+2014,Oromoa,Head: 1-2,11611
+2015,Oromoa,Head: 1-2,9444
+2016,Oromoa,Head: 1-2,11992
+2017,Oromoa,Head: 1-2,21174
+2018,Oromoa,Head: 1-2,21174
+2019,Oromoa,Head: 1-2,32304
+2020,Oromoa,Head: 1-2,25699
+2003,SNNPR,Head: 1-2,0
+2004,SNNPR,Head: 1-2,0
+2005,SNNPR,Head: 1-2,150
+2006,SNNPR,Head: 1-2,0
+2007,SNNPR,Head: 1-2,2918885
+2008,SNNPR,Head: 1-2,98
+2009,SNNPR,Head: 1-2,0
+2010,SNNPR,Head: 1-2,3595707
+2011,SNNPR,Head: 1-2,61
+2012,SNNPR,Head: 1-2,0
+2013,SNNPR,Head: 1-2,0
+2014,SNNPR,Head: 1-2,900
+2015,SNNPR,Head: 1-2,0
+2016,SNNPR,Head: 1-2,524
+2017,SNNPR,Head: 1-2,0
+2018,SNNPR,Head: 1-2,0
+2019,SNNPR,Head: 1-2,0
+2020,SNNPR,Head: 1-2,0
+2003,Somali,Head: 1-2,0
+2004,Somali,Head: 1-2,13129
+2005,Somali,Head: 1-2,18021
+2006,Somali,Head: 1-2,22511
+2007,Somali,Head: 1-2,100076
+2008,Somali,Head: 1-2,18078
+2009,Somali,Head: 1-2,18029
+2010,Somali,Head: 1-2,88073
+2011,Somali,Head: 1-2,12161
+2012,Somali,Head: 1-2,15628
+2013,Somali,Head: 1-2,14245
+2014,Somali,Head: 1-2,11611
+2015,Somali,Head: 1-2,9444
+2016,Somali,Head: 1-2,11992
+2017,Somali,Head: 1-2,21174
+2018,Somali,Head: 1-2,21174
+2019,Somali,Head: 1-2,32304
+2020,Somali,Head: 1-2,25699
+2003,Tigray,Head: 1-2,0
+2004,Tigray,Head: 1-2,13260
+2005,Tigray,Head: 1-2,14552
+2006,Tigray,Head: 1-2,14598
+2007,Tigray,Head: 1-2,812533
+2008,Tigray,Head: 1-2,15906
+2009,Tigray,Head: 1-2,17846
+2010,Tigray,Head: 1-2,980542
+2011,Tigray,Head: 1-2,19035
+2012,Tigray,Head: 1-2,25184
+2013,Tigray,Head: 1-2,27933
+2014,Tigray,Head: 1-2,26189
+2015,Tigray,Head: 1-2,36074
+2016,Tigray,Head: 1-2,38271
+2017,Tigray,Head: 1-2,31839
+2018,Tigray,Head: 1-2,43579
+2019,Tigray,Head: 1-2,39440
+2020,Tigray,Head: 1-2,39440
+2003,Addis Ababa,Head: 3-4,0
+2004,Addis Ababa,Head: 3-4,0
+2005,Addis Ababa,Head: 3-4,0
+2006,Addis Ababa,Head: 3-4,0
+2007,Addis Ababa,Head: 3-4,0
+2008,Addis Ababa,Head: 3-4,0
+2009,Addis Ababa,Head: 3-4,0
+2010,Addis Ababa,Head: 3-4,0
+2011,Addis Ababa,Head: 3-4,0
+2012,Addis Ababa,Head: 3-4,0
+2013,Addis Ababa,Head: 3-4,0
+2014,Addis Ababa,Head: 3-4,0
+2015,Addis Ababa,Head: 3-4,0
+2016,Addis Ababa,Head: 3-4,0
+2017,Addis Ababa,Head: 3-4,0
+2018,Addis Ababa,Head: 3-4,0
+2019,Addis Ababa,Head: 3-4,0
+2020,Addis Ababa,Head: 3-4,0
+2003,Afar,Head: 3-4,0
+2004,Afar,Head: 3-4,1838
+2005,Afar,Head: 3-4,1098
+2006,Afar,Head: 3-4,1309
+2007,Afar,Head: 3-4,6007
+2008,Afar,Head: 3-4,2207
+2009,Afar,Head: 3-4,2707
+2010,Afar,Head: 3-4,13636
+2011,Afar,Head: 3-4,4405
+2012,Afar,Head: 3-4,5376
+2013,Afar,Head: 3-4,13110
+2014,Afar,Head: 3-4,8659
+2015,Afar,Head: 3-4,10054
+2016,Afar,Head: 3-4,15444
+2017,Afar,Head: 3-4,12670
+2018,Afar,Head: 3-4,33632
+2019,Afar,Head: 3-4,23206
+2020,Afar,Head: 3-4,24439
+2003,Amhara,Head: 3-4,0
+2004,Amhara,Head: 3-4,567
+2005,Amhara,Head: 3-4,832
+2006,Amhara,Head: 3-4,2345
+2007,Amhara,Head: 3-4,25015
+2008,Amhara,Head: 3-4,2362
+2009,Amhara,Head: 3-4,1249
+2010,Amhara,Head: 3-4,30563
+2011,Amhara,Head: 3-4,2002
+2012,Amhara,Head: 3-4,5209
+2013,Amhara,Head: 3-4,1817
+2014,Amhara,Head: 3-4,1780
+2015,Amhara,Head: 3-4,2984
+2016,Amhara,Head: 3-4,2778
+2017,Amhara,Head: 3-4,4880
+2018,Amhara,Head: 3-4,0
+2019,Amhara,Head: 3-4,596
+2020,Amhara,Head: 3-4,1865
+2003,Benishangul Gumz,Head: 3-4,0
+2004,Benishangul Gumz,Head: 3-4,0
+2005,Benishangul Gumz,Head: 3-4,0
+2006,Benishangul Gumz,Head: 3-4,0
+2007,Benishangul Gumz,Head: 3-4,0
+2008,Benishangul Gumz,Head: 3-4,0
+2009,Benishangul Gumz,Head: 3-4,0
+2010,Benishangul Gumz,Head: 3-4,0
+2011,Benishangul Gumz,Head: 3-4,0
+2012,Benishangul Gumz,Head: 3-4,0
+2013,Benishangul Gumz,Head: 3-4,0
+2014,Benishangul Gumz,Head: 3-4,0
+2015,Benishangul Gumz,Head: 3-4,0
+2016,Benishangul Gumz,Head: 3-4,0
+2017,Benishangul Gumz,Head: 3-4,0
+2018,Benishangul Gumz,Head: 3-4,0
+2019,Benishangul Gumz,Head: 3-4,0
+2020,Benishangul Gumz,Head: 3-4,0
+2003,Dire Dawa,Head: 3-4,0
+2004,Dire Dawa,Head: 3-4,358
+2005,Dire Dawa,Head: 3-4,487
+2006,Dire Dawa,Head: 3-4,456
+2007,Dire Dawa,Head: 3-4,1944
+2008,Dire Dawa,Head: 3-4,382
+2009,Dire Dawa,Head: 3-4,740
+2010,Dire Dawa,Head: 3-4,1833
+2011,Dire Dawa,Head: 3-4,786
+2012,Dire Dawa,Head: 3-4,597
+2013,Dire Dawa,Head: 3-4,571
+2014,Dire Dawa,Head: 3-4,428
+2015,Dire Dawa,Head: 3-4,568
+2016,Dire Dawa,Head: 3-4,595
+2017,Dire Dawa,Head: 3-4,488
+2018,Dire Dawa,Head: 3-4,426
+2019,Dire Dawa,Head: 3-4,905
+2020,Dire Dawa,Head: 3-4,808
+2003,Gambela,Head: 3-4,0
+2004,Gambela,Head: 3-4,0
+2005,Gambela,Head: 3-4,0
+2006,Gambela,Head: 3-4,0
+2007,Gambela,Head: 3-4,0
+2008,Gambela,Head: 3-4,0
+2009,Gambela,Head: 3-4,0
+2010,Gambela,Head: 3-4,0
+2011,Gambela,Head: 3-4,0
+2012,Gambela,Head: 3-4,0
+2013,Gambela,Head: 3-4,0
+2014,Gambela,Head: 3-4,0
+2015,Gambela,Head: 3-4,0
+2016,Gambela,Head: 3-4,0
+2017,Gambela,Head: 3-4,0
+2018,Gambela,Head: 3-4,0
+2019,Gambela,Head: 3-4,0
+2020,Gambela,Head: 3-4,0
+2003,Harari,Head: 3-4,0
+2004,Harari,Head: 3-4,0
+2005,Harari,Head: 3-4,68
+2006,Harari,Head: 3-4,72
+2007,Harari,Head: 3-4,68
+2008,Harari,Head: 3-4,20
+2009,Harari,Head: 3-4,51
+2010,Harari,Head: 3-4,234
+2011,Harari,Head: 3-4,102
+2012,Harari,Head: 3-4,97
+2013,Harari,Head: 3-4,285
+2014,Harari,Head: 3-4,314
+2015,Harari,Head: 3-4,167
+2016,Harari,Head: 3-4,326
+2017,Harari,Head: 3-4,97
+2018,Harari,Head: 3-4,67
+2019,Harari,Head: 3-4,184
+2020,Harari,Head: 3-4,0
+2003,Oromoa,Head: 3-4,0
+2004,Oromoa,Head: 3-4,3522
+2005,Oromoa,Head: 3-4,4055
+2006,Oromoa,Head: 3-4,4893
+2007,Oromoa,Head: 3-4,16919
+2008,Oromoa,Head: 3-4,6964
+2009,Oromoa,Head: 3-4,9070
+2010,Oromoa,Head: 3-4,13530
+2011,Oromoa,Head: 3-4,6018
+2012,Oromoa,Head: 3-4,5726
+2013,Oromoa,Head: 3-4,9183
+2014,Oromoa,Head: 3-4,6534
+2015,Oromoa,Head: 3-4,5553
+2016,Oromoa,Head: 3-4,7336
+2017,Oromoa,Head: 3-4,8254
+2018,Oromoa,Head: 3-4,8254
+2019,Oromoa,Head: 3-4,35980
+2020,Oromoa,Head: 3-4,24480
+2003,SNNPR,Head: 3-4,0
+2004,SNNPR,Head: 3-4,0
+2005,SNNPR,Head: 3-4,394
+2006,SNNPR,Head: 3-4,0
+2007,SNNPR,Head: 3-4,0
+2008,SNNPR,Head: 3-4,0
+2009,SNNPR,Head: 3-4,0
+2010,SNNPR,Head: 3-4,106
+2011,SNNPR,Head: 3-4,61
+2012,SNNPR,Head: 3-4,0
+2013,SNNPR,Head: 3-4,0
+2014,SNNPR,Head: 3-4,506
+2015,SNNPR,Head: 3-4,0
+2016,SNNPR,Head: 3-4,0
+2017,SNNPR,Head: 3-4,0
+2018,SNNPR,Head: 3-4,0
+2019,SNNPR,Head: 3-4,0
+2020,SNNPR,Head: 3-4,0
+2003,Somali,Head: 3-4,0
+2004,Somali,Head: 3-4,3522
+2005,Somali,Head: 3-4,4055
+2006,Somali,Head: 3-4,4893
+2007,Somali,Head: 3-4,16919
+2008,Somali,Head: 3-4,6964
+2009,Somali,Head: 3-4,9070
+2010,Somali,Head: 3-4,13530
+2011,Somali,Head: 3-4,6018
+2012,Somali,Head: 3-4,5726
+2013,Somali,Head: 3-4,9183
+2014,Somali,Head: 3-4,6534
+2015,Somali,Head: 3-4,5553
+2016,Somali,Head: 3-4,7336
+2017,Somali,Head: 3-4,8254
+2018,Somali,Head: 3-4,8254
+2019,Somali,Head: 3-4,35980
+2020,Somali,Head: 3-4,24480
+2003,Tigray,Head: 3-4,0
+2004,Tigray,Head: 3-4,2123
+2005,Tigray,Head: 3-4,3135
+2006,Tigray,Head: 3-4,2377
+2007,Tigray,Head: 3-4,15994
+2008,Tigray,Head: 3-4,2663
+2009,Tigray,Head: 3-4,1624
+2010,Tigray,Head: 3-4,14044
+2011,Tigray,Head: 3-4,595
+2012,Tigray,Head: 3-4,2864
+2013,Tigray,Head: 3-4,1906
+2014,Tigray,Head: 3-4,2499
+2015,Tigray,Head: 3-4,2037
+2016,Tigray,Head: 3-4,1183
+2017,Tigray,Head: 3-4,1246
+2018,Tigray,Head: 3-4,1122
+2019,Tigray,Head: 3-4,897
+2020,Tigray,Head: 3-4,897
+2003,Addis Ababa,Head: 5-9,0
+2004,Addis Ababa,Head: 5-9,0
+2005,Addis Ababa,Head: 5-9,0
+2006,Addis Ababa,Head: 5-9,0
+2007,Addis Ababa,Head: 5-9,0
+2008,Addis Ababa,Head: 5-9,0
+2009,Addis Ababa,Head: 5-9,0
+2010,Addis Ababa,Head: 5-9,0
+2011,Addis Ababa,Head: 5-9,0
+2012,Addis Ababa,Head: 5-9,0
+2013,Addis Ababa,Head: 5-9,0
+2014,Addis Ababa,Head: 5-9,0
+2015,Addis Ababa,Head: 5-9,0
+2016,Addis Ababa,Head: 5-9,0
+2017,Addis Ababa,Head: 5-9,0
+2018,Addis Ababa,Head: 5-9,0
+2019,Addis Ababa,Head: 5-9,0
+2020,Addis Ababa,Head: 5-9,0
+2003,Afar,Head: 5-9,0
+2004,Afar,Head: 5-9,2887
+2005,Afar,Head: 5-9,1760
+2006,Afar,Head: 5-9,2075
+2007,Afar,Head: 5-9,2196
+2008,Afar,Head: 5-9,3171
+2009,Afar,Head: 5-9,3551
+2010,Afar,Head: 5-9,4569
+2011,Afar,Head: 5-9,8173
+2012,Afar,Head: 5-9,6820
+2013,Afar,Head: 5-9,12268
+2014,Afar,Head: 5-9,10233
+2015,Afar,Head: 5-9,13995
+2016,Afar,Head: 5-9,17904
+2017,Afar,Head: 5-9,17633
+2018,Afar,Head: 5-9,47745
+2019,Afar,Head: 5-9,34518
+2020,Afar,Head: 5-9,34055
+2003,Amhara,Head: 5-9,0
+2004,Amhara,Head: 5-9,0
+2005,Amhara,Head: 5-9,373
+2006,Amhara,Head: 5-9,275
+2007,Amhara,Head: 5-9,3452
+2008,Amhara,Head: 5-9,422
+2009,Amhara,Head: 5-9,814
+2010,Amhara,Head: 5-9,2058
+2011,Amhara,Head: 5-9,590
+2012,Amhara,Head: 5-9,235
+2013,Amhara,Head: 5-9,1255
+2014,Amhara,Head: 5-9,549
+2015,Amhara,Head: 5-9,0
+2016,Amhara,Head: 5-9,2090
+2017,Amhara,Head: 5-9,3917
+2018,Amhara,Head: 5-9,0
+2019,Amhara,Head: 5-9,0
+2020,Amhara,Head: 5-9,0
+2003,Benishangul Gumz,Head: 5-9,0
+2004,Benishangul Gumz,Head: 5-9,0
+2005,Benishangul Gumz,Head: 5-9,0
+2006,Benishangul Gumz,Head: 5-9,0
+2007,Benishangul Gumz,Head: 5-9,0
+2008,Benishangul Gumz,Head: 5-9,0
+2009,Benishangul Gumz,Head: 5-9,0
+2010,Benishangul Gumz,Head: 5-9,0
+2011,Benishangul Gumz,Head: 5-9,0
+2012,Benishangul Gumz,Head: 5-9,0
+2013,Benishangul Gumz,Head: 5-9,0
+2014,Benishangul Gumz,Head: 5-9,128
+2015,Benishangul Gumz,Head: 5-9,29
+2016,Benishangul Gumz,Head: 5-9,0
+2017,Benishangul Gumz,Head: 5-9,0
+2018,Benishangul Gumz,Head: 5-9,0
+2019,Benishangul Gumz,Head: 5-9,0
+2020,Benishangul Gumz,Head: 5-9,0
+2003,Dire Dawa,Head: 5-9,0
+2004,Dire Dawa,Head: 5-9,160
+2005,Dire Dawa,Head: 5-9,158
+2006,Dire Dawa,Head: 5-9,376
+2007,Dire Dawa,Head: 5-9,302
+2008,Dire Dawa,Head: 5-9,264
+2009,Dire Dawa,Head: 5-9,253
+2010,Dire Dawa,Head: 5-9,521
+2011,Dire Dawa,Head: 5-9,212
+2012,Dire Dawa,Head: 5-9,123
+2013,Dire Dawa,Head: 5-9,329
+2014,Dire Dawa,Head: 5-9,342
+2015,Dire Dawa,Head: 5-9,199
+2016,Dire Dawa,Head: 5-9,164
+2017,Dire Dawa,Head: 5-9,197
+2018,Dire Dawa,Head: 5-9,221
+2019,Dire Dawa,Head: 5-9,775
+2020,Dire Dawa,Head: 5-9,572
+2003,Gambela,Head: 5-9,0
+2004,Gambela,Head: 5-9,0
+2005,Gambela,Head: 5-9,0
+2006,Gambela,Head: 5-9,0
+2007,Gambela,Head: 5-9,0
+2008,Gambela,Head: 5-9,0
+2009,Gambela,Head: 5-9,0
+2010,Gambela,Head: 5-9,0
+2011,Gambela,Head: 5-9,0
+2012,Gambela,Head: 5-9,0
+2013,Gambela,Head: 5-9,0
+2014,Gambela,Head: 5-9,0
+2015,Gambela,Head: 5-9,0
+2016,Gambela,Head: 5-9,0
+2017,Gambela,Head: 5-9,0
+2018,Gambela,Head: 5-9,0
+2019,Gambela,Head: 5-9,0
+2020,Gambela,Head: 5-9,0
+2003,Harari,Head: 5-9,0
+2004,Harari,Head: 5-9,0
+2005,Harari,Head: 5-9,94
+2006,Harari,Head: 5-9,72
+2007,Harari,Head: 5-9,72
+2008,Harari,Head: 5-9,46
+2009,Harari,Head: 5-9,75
+2010,Harari,Head: 5-9,0
+2011,Harari,Head: 5-9,147
+2012,Harari,Head: 5-9,55
+2013,Harari,Head: 5-9,119
+2014,Harari,Head: 5-9,190
+2015,Harari,Head: 5-9,263
+2016,Harari,Head: 5-9,165
+2017,Harari,Head: 5-9,0
+2018,Harari,Head: 5-9,69
+2019,Harari,Head: 5-9,0
+2020,Harari,Head: 5-9,285
+2003,Oromoa,Head: 5-9,0
+2004,Oromoa,Head: 5-9,3867
+2005,Oromoa,Head: 5-9,4203
+2006,Oromoa,Head: 5-9,6355
+2007,Oromoa,Head: 5-9,8778
+2008,Oromoa,Head: 5-9,10543
+2009,Oromoa,Head: 5-9,8039
+2010,Oromoa,Head: 5-9,7189
+2011,Oromoa,Head: 5-9,8960
+2012,Oromoa,Head: 5-9,8045
+2013,Oromoa,Head: 5-9,9398
+2014,Oromoa,Head: 5-9,8292
+2015,Oromoa,Head: 5-9,5820
+2016,Oromoa,Head: 5-9,10912
+2017,Oromoa,Head: 5-9,9492
+2018,Oromoa,Head: 5-9,9492
+2019,Oromoa,Head: 5-9,63835
+2020,Oromoa,Head: 5-9,40493
+2003,SNNPR,Head: 5-9,0
+2004,SNNPR,Head: 5-9,0
+2005,SNNPR,Head: 5-9,0
+2006,SNNPR,Head: 5-9,0
+2007,SNNPR,Head: 5-9,0
+2008,SNNPR,Head: 5-9,0
+2009,SNNPR,Head: 5-9,0
+2010,SNNPR,Head: 5-9,0
+2011,SNNPR,Head: 5-9,0
+2012,SNNPR,Head: 5-9,0
+2013,SNNPR,Head: 5-9,0
+2014,SNNPR,Head: 5-9,0
+2015,SNNPR,Head: 5-9,272
+2016,SNNPR,Head: 5-9,178
+2017,SNNPR,Head: 5-9,0
+2018,SNNPR,Head: 5-9,0
+2019,SNNPR,Head: 5-9,0
+2020,SNNPR,Head: 5-9,0
+2003,Somali,Head: 5-9,0
+2004,Somali,Head: 5-9,3867
+2005,Somali,Head: 5-9,4203
+2006,Somali,Head: 5-9,6355
+2007,Somali,Head: 5-9,8778
+2008,Somali,Head: 5-9,10543
+2009,Somali,Head: 5-9,8039
+2010,Somali,Head: 5-9,7189
+2011,Somali,Head: 5-9,8960
+2012,Somali,Head: 5-9,8045
+2013,Somali,Head: 5-9,9398
+2014,Somali,Head: 5-9,8292
+2015,Somali,Head: 5-9,5820
+2016,Somali,Head: 5-9,10912
+2017,Somali,Head: 5-9,9492
+2018,Somali,Head: 5-9,9492
+2019,Somali,Head: 5-9,63835
+2020,Somali,Head: 5-9,40493
+2003,Tigray,Head: 5-9,0
+2004,Tigray,Head: 5-9,0
+2005,Tigray,Head: 5-9,662
+2006,Tigray,Head: 5-9,1226
+2007,Tigray,Head: 5-9,1028
+2008,Tigray,Head: 5-9,672
+2009,Tigray,Head: 5-9,1173
+2010,Tigray,Head: 5-9,2903
+2011,Tigray,Head: 5-9,1191
+2012,Tigray,Head: 5-9,2280
+2013,Tigray,Head: 5-9,2756
+2014,Tigray,Head: 5-9,2906
+2015,Tigray,Head: 5-9,2240
+2016,Tigray,Head: 5-9,1254
+2017,Tigray,Head: 5-9,578
+2018,Tigray,Head: 5-9,278
+2019,Tigray,Head: 5-9,247
+2020,Tigray,Head: 5-9,247
+2003,Addis Ababa,Head: 10+,0
+2004,Addis Ababa,Head: 10+,0
+2005,Addis Ababa,Head: 10+,0
+2006,Addis Ababa,Head: 10+,0
+2007,Addis Ababa,Head: 10+,0
+2008,Addis Ababa,Head: 10+,0
+2009,Addis Ababa,Head: 10+,0
+2010,Addis Ababa,Head: 10+,0
+2011,Addis Ababa,Head: 10+,0
+2012,Addis Ababa,Head: 10+,0
+2013,Addis Ababa,Head: 10+,0
+2014,Addis Ababa,Head: 10+,0
+2015,Addis Ababa,Head: 10+,0
+2016,Addis Ababa,Head: 10+,0
+2017,Addis Ababa,Head: 10+,0
+2018,Addis Ababa,Head: 10+,0
+2019,Addis Ababa,Head: 10+,0
+2020,Addis Ababa,Head: 10+,0
+2003,Afar,Head: 10+,0
+2004,Afar,Head: 10+,0
+2005,Afar,Head: 10+,3548
+2006,Afar,Head: 10+,4194
+2007,Afar,Head: 10+,2696
+2008,Afar,Head: 10+,6014
+2009,Afar,Head: 10+,7654
+2010,Afar,Head: 10+,6782
+2011,Afar,Head: 10+,9222
+2012,Afar,Head: 10+,8156
+2013,Afar,Head: 10+,7999
+2014,Afar,Head: 10+,14125
+2015,Afar,Head: 10+,16058
+2016,Afar,Head: 10+,12555
+2017,Afar,Head: 10+,19939
+2018,Afar,Head: 10+,35144
+2019,Afar,Head: 10+,36050
+2020,Afar,Head: 10+,39235
+2003,Amhara,Head: 10+,0
+2004,Amhara,Head: 10+,0
+2005,Amhara,Head: 10+,0
+2006,Amhara,Head: 10+,0
+2007,Amhara,Head: 10+,476
+2008,Amhara,Head: 10+,289
+2009,Amhara,Head: 10+,0
+2010,Amhara,Head: 10+,270
+2011,Amhara,Head: 10+,98
+2012,Amhara,Head: 10+,152
+2013,Amhara,Head: 10+,0
+2014,Amhara,Head: 10+,0
+2015,Amhara,Head: 10+,0
+2016,Amhara,Head: 10+,138
+2017,Amhara,Head: 10+,0
+2018,Amhara,Head: 10+,0
+2019,Amhara,Head: 10+,0
+2020,Amhara,Head: 10+,0
+2003,Benishangul Gumz,Head: 10+,0
+2004,Benishangul Gumz,Head: 10+,0
+2005,Benishangul Gumz,Head: 10+,0
+2006,Benishangul Gumz,Head: 10+,0
+2007,Benishangul Gumz,Head: 10+,0
+2008,Benishangul Gumz,Head: 10+,0
+2009,Benishangul Gumz,Head: 10+,0
+2010,Benishangul Gumz,Head: 10+,0
+2011,Benishangul Gumz,Head: 10+,0
+2012,Benishangul Gumz,Head: 10+,0
+2013,Benishangul Gumz,Head: 10+,0
+2014,Benishangul Gumz,Head: 10+,0
+2015,Benishangul Gumz,Head: 10+,0
+2016,Benishangul Gumz,Head: 10+,0
+2017,Benishangul Gumz,Head: 10+,0
+2018,Benishangul Gumz,Head: 10+,0
+2019,Benishangul Gumz,Head: 10+,0
+2020,Benishangul Gumz,Head: 10+,0
+2003,Dire Dawa,Head: 10+,0
+2004,Dire Dawa,Head: 10+,0
+2005,Dire Dawa,Head: 10+,70
+2006,Dire Dawa,Head: 10+,105
+2007,Dire Dawa,Head: 10+,165
+2008,Dire Dawa,Head: 10+,0
+2009,Dire Dawa,Head: 10+,69
+2010,Dire Dawa,Head: 10+,292
+2011,Dire Dawa,Head: 10+,82
+2012,Dire Dawa,Head: 10+,17
+2013,Dire Dawa,Head: 10+,16
+2014,Dire Dawa,Head: 10+,7
+2015,Dire Dawa,Head: 10+,6
+2016,Dire Dawa,Head: 10+,97
+2017,Dire Dawa,Head: 10+,15
+2018,Dire Dawa,Head: 10+,77
+2019,Dire Dawa,Head: 10+,358
+2020,Dire Dawa,Head: 10+,60
+2003,Gambela,Head: 10+,0
+2004,Gambela,Head: 10+,0
+2005,Gambela,Head: 10+,0
+2006,Gambela,Head: 10+,0
+2007,Gambela,Head: 10+,0
+2008,Gambela,Head: 10+,0
+2009,Gambela,Head: 10+,0
+2010,Gambela,Head: 10+,0
+2011,Gambela,Head: 10+,0
+2012,Gambela,Head: 10+,0
+2013,Gambela,Head: 10+,0
+2014,Gambela,Head: 10+,0
+2015,Gambela,Head: 10+,0
+2016,Gambela,Head: 10+,0
+2017,Gambela,Head: 10+,0
+2018,Gambela,Head: 10+,0
+2019,Gambela,Head: 10+,0
+2020,Gambela,Head: 10+,0
+2003,Harari,Head: 10+,0
+2004,Harari,Head: 10+,0
+2005,Harari,Head: 10+,73
+2006,Harari,Head: 10+,54
+2007,Harari,Head: 10+,71
+2008,Harari,Head: 10+,121
+2009,Harari,Head: 10+,98
+2010,Harari,Head: 10+,154
+2011,Harari,Head: 10+,25
+2012,Harari,Head: 10+,31
+2013,Harari,Head: 10+,99
+2014,Harari,Head: 10+,46
+2015,Harari,Head: 10+,40
+2016,Harari,Head: 10+,151
+2017,Harari,Head: 10+,0
+2018,Harari,Head: 10+,28
+2019,Harari,Head: 10+,0
+2020,Harari,Head: 10+,0
+2003,Oromoa,Head: 10+,0
+2004,Oromoa,Head: 10+,4789
+2005,Oromoa,Head: 10+,3632
+2006,Oromoa,Head: 10+,7981
+2007,Oromoa,Head: 10+,10024
+2008,Oromoa,Head: 10+,7786
+2009,Oromoa,Head: 10+,7734
+2010,Oromoa,Head: 10+,10681
+2011,Oromoa,Head: 10+,9838
+2012,Oromoa,Head: 10+,10023
+2013,Oromoa,Head: 10+,12031
+2014,Oromoa,Head: 10+,13366
+2015,Oromoa,Head: 10+,11864
+2016,Oromoa,Head: 10+,8944
+2017,Oromoa,Head: 10+,8141
+2018,Oromoa,Head: 10+,8141
+2019,Oromoa,Head: 10+,157863
+2020,Oromoa,Head: 10+,152449
+2003,SNNPR,Head: 10+,0
+2004,SNNPR,Head: 10+,0
+2005,SNNPR,Head: 10+,28
+2006,SNNPR,Head: 10+,0
+2007,SNNPR,Head: 10+,17
+2008,SNNPR,Head: 10+,0
+2009,SNNPR,Head: 10+,0
+2010,SNNPR,Head: 10+,245
+2011,SNNPR,Head: 10+,0
+2012,SNNPR,Head: 10+,0
+2013,SNNPR,Head: 10+,0
+2014,SNNPR,Head: 10+,0
+2015,SNNPR,Head: 10+,0
+2016,SNNPR,Head: 10+,0
+2017,SNNPR,Head: 10+,0
+2018,SNNPR,Head: 10+,0
+2019,SNNPR,Head: 10+,0
+2020,SNNPR,Head: 10+,0
+2003,Somali,Head: 10+,0
+2004,Somali,Head: 10+,4789
+2005,Somali,Head: 10+,3632
+2006,Somali,Head: 10+,7981
+2007,Somali,Head: 10+,10024
+2008,Somali,Head: 10+,7786
+2009,Somali,Head: 10+,7734
+2010,Somali,Head: 10+,10681
+2011,Somali,Head: 10+,9838
+2012,Somali,Head: 10+,10023
+2013,Somali,Head: 10+,12031
+2014,Somali,Head: 10+,13366
+2015,Somali,Head: 10+,11864
+2016,Somali,Head: 10+,8944
+2017,Somali,Head: 10+,8141
+2018,Somali,Head: 10+,8141
+2019,Somali,Head: 10+,157863
+2020,Somali,Head: 10+,152449
+2003,Tigray,Head: 10+,0
+2004,Tigray,Head: 10+,0
+2005,Tigray,Head: 10+,0
+2006,Tigray,Head: 10+,0
+2007,Tigray,Head: 10+,1113
+2008,Tigray,Head: 10+,164
+2009,Tigray,Head: 10+,0
+2010,Tigray,Head: 10+,1453
+2011,Tigray,Head: 10+,221
+2012,Tigray,Head: 10+,0
+2013,Tigray,Head: 10+,1086
+2014,Tigray,Head: 10+,0
+2015,Tigray,Head: 10+,0
+2016,Tigray,Head: 10+,224
+2017,Tigray,Head: 10+,0
+2018,Tigray,Head: 10+,0
+2019,Tigray,Head: 10+,0
+2020,Tigray,Head: 10+,0

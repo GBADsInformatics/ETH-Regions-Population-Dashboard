@@ -17,6 +17,7 @@ from layouts import layout, data_tab, graph_tab, metadata_tab, map_tab
 
 csa = pd.read_csv('data/csa.csv')
 cattle = pd.read_csv('data/cattle.csv')
+camels = pd.read_csv('data/camels.csv')
 
 def get_df(choice): 
 
@@ -24,6 +25,8 @@ def get_df(choice):
         return(csa)
     elif choice == 'cattle':
         return(cattle)
+    elif choice == 'camels':
+        return(camels)
 
 def prep_df(df, region, species, start, end): 
 
@@ -92,7 +95,7 @@ def update_all_dd(data):
 )
 def dataset_drop(at):
 
-    dataset_options = ['csa', 'cattle']
+    dataset_options = ['csa', 'cattle', 'camels']
 
     return(dataset_options)
 
