@@ -43,7 +43,10 @@ The purpose of this dashboard is to visualize livestock population data from:
 │ └─graph_tab.py
 ├─app.py
 └─data/
-  └─csa.csv
+  ├─csa.csv - total population data for all species for all regions from 2003 to 2020
+  ├─cattle.csv - detailed population data for cattle for all regions from 2003 to 2020
+  ├─camels.csv - detailed population data for camels for all regions from 2003 to 2020
+  └─poultry - detailed population data for poultry for all regions from 2003 to 2020
 ```
 
 ### Tabs 

@@ -41,6 +41,8 @@ def create_map(merged_df, dataset, species, year):
         newdf = pd.read_csv('data/cattle.csv')
     elif dataset == "camels":
         newdf = pd.read_csv('data/camels.csv')
+    elif dataset == "poultry":
+        newdf = pd.read_csv('data/poultry.csv')
 
 
 # get all 'yr' numbers for 'sp'

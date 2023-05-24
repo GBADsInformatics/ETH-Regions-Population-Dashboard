@@ -20,13 +20,20 @@ table = html.Div([
             }
 )])
 
-content = dbc.Row(children=
+#content = dbc.Row(children=
+#            [
+#            styling.sidebar_download,
+#            dcc.Loading(id = 'loading-icon',
+#                        children = [
+#                            dbc.Col(table)
+#                        ]
+#                        )
+#            ],style = styling.CONTENT_STYLE_TABLES
+#        )
+
+content = dbc.Row(
             [
             styling.sidebar_download,
-            dcc.Loading(id = 'loading-icon',
-                        children = [
-                            dbc.Col(table)
-                        ]
-                        )
-            ],style = styling.CONTENT_STYLE_TABLES
-        )
+            dbc.Col(table, style = styling.CONTENT_STYLE_TABLES)
+            ]
+)

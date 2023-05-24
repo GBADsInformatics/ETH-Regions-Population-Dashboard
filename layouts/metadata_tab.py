@@ -13,11 +13,14 @@ def get_metadata_df(choice):
         return(m_cattle)
     elif choice == 'camels':
         return(m_camels)
+    elif choice == 'poultry':
+        return(m_poultry)
     
 ###--------------Read in metadata-----------------------------------
 m_csa = pd.read_csv('data/m_csa.csv')
 m_cattle = pd.read_csv('data/m_cattle.csv')
 m_camels = pd.read_csv('data/m_camels.csv')
+m_poultry = pd.read_csv('data/m_poultry.csv')
 
 table = html.Div([
     html.P("Select a dataset on the left sidebar to view the metadata."),
