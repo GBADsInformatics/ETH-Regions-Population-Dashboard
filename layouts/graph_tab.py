@@ -8,7 +8,7 @@ import numpy as np
 from dash.dependencies import Input,Output
 from dash_bootstrap_templates import load_figure_template
 from dash import dash_table
-from layouts import styling 
+from layouts import layout
 
 def create_bar_plot(df, region, species):
 
@@ -48,17 +48,17 @@ def create_scatter_plot(df, region, species):
     
     return(fig)
 
-graph = dcc.Graph(id = 'graph1', config = styling.plot_config)
+graph = dcc.Graph(id = 'graph1', config = layout.plot_config)
 
-content = dbc.Row(children=
-            [
-            styling.sidebar,
-            dcc.Loading(id = 'loading-icon',
-                        children=[
-                        dbc.Col(graph)
-                        ]
-                        )
-            ],
-            style=styling.CONTENT_STYLE_GRAPHS
-        )
+content = dbc.Row(
+    [
+        dbc.Col(layout.sidebar, 
+                xs=dict(order=1, size=12),
+                sm=dict(order=1, size=3)
+                ),
+        dbc.Col(graph,
+                xs=dict(order=2, size=12),
+                sm=dict(order=2, size='auto'))
+    ], className='root-container'
+)
 

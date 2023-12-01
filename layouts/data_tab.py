@@ -2,7 +2,7 @@ import dash_bootstrap_components as dbc
 from dash import html
 import dash_core_components as dcc
 from dash import dash_table
-from layouts import styling 
+from layouts import layout
 
 table = html.Div([
     html.P("Use the selections in the OPTIONS side bar on the left to filter the data and the export button to download the data in csv format."),
@@ -20,20 +20,14 @@ table = html.Div([
             }
 )])
 
-#content = dbc.Row(children=
-#            [
-#            styling.sidebar_download,
-#            dcc.Loading(id = 'loading-icon',
-#                        children = [
-#                            dbc.Col(table)
-#                        ]
-#                        )
-#            ],style = styling.CONTENT_STYLE_TABLES
-#        )
-
 content = dbc.Row(
-            [
-            styling.sidebar_download,
-            dbc.Col(table, style = styling.CONTENT_STYLE_TABLES)
-            ]
+    [
+        dbc.Col(layout.sidebar_download, 
+                xs=dict(order=1, size=12),
+                sm=dict(order=1, size=3)
+                ),
+        dbc.Col(table,
+                xs=dict(order=2, size=12),
+                sm=dict(order=2, size='auto'))
+    ], className='root-container'
 )

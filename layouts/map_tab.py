@@ -8,7 +8,7 @@ import numpy as np
 from dash.dependencies import Input,Output
 from dash_bootstrap_templates import load_figure_template
 from dash import dash_table
-from layouts import styling 
+from layouts import layout
 import requests
 import json
 import pandas as pd
@@ -99,13 +99,16 @@ def create_map(merged_df, dataset, species, year):
 
     return(fig)
 
-map = dcc.Graph(id = 'map', config = styling.plot_config)
+map = dcc.Graph(id = 'map', config = layout.plot_config)
 
-content = dbc.Row(children=
-            [
-            styling.sidebar_map,
-            dcc.Loading(id = "loading-icon", 
-                children=[
-                dbc.Col(map)])
-            ], style = styling.CONTENT_STYLE_GRAPHS
-        )
+content = dbc.Row(
+    [
+        dbc.Col(layout.sidebar_map, 
+                xs=dict(order=1, size=12),
+                sm=dict(order=1, size=3)
+                ),
+        dbc.Col(map,
+                xs=dict(order=2, size=12),
+                sm=dict(order=2, size='auto'))
+    ], className='root-container'
+)
