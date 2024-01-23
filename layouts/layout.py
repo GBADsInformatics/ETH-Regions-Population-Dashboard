@@ -117,34 +117,29 @@ sidebar = html.Div(
     [
         dbc.Row(
             [
-                html.H4('Options', className="sidebar"),
-            ],
-            style={"height": "5vh"}
-            ),
-        dbc.Row(
-            [
-                    html.H6("Select multiple:", id='choice-title'),
-                    dcc.RadioItems(
-                    ['Species', 'Regions'], 'Species', inline=True, id='choice', persistence_type='session', persistence=True),
-                    html.H6(" "),
-                    html.H6("Dataset:"),
-                    dcc.Dropdown(id = 'dataset', value='csa', persistence_type='session', persistence=True),
-                    html.H6(" "),
-                    html.H6("Region:"),
-                    dcc.Dropdown(id = 'region', value = 'Afar', persistence_type='session', persistence=True),
-                    html.H6(" "),
-                    html.H6("Species:"),
-                    dcc.Dropdown(id = 'species', value = ['cattle','sheep'],persistence_type='session', persistence=True),
-                    html.H6(" "),
-                    html.H6("Start year:"),
-                    dcc.Dropdown(id = 'start year', value = 2003, persistence_type='session', persistence=True),
-                    html.H6(" "),
-                    html.H6("End year:"),
-                    dcc.Dropdown(id = 'end year', value = 2020, persistence_type='session', persistence=True),
-                    html.H6(" "),
-                    html.H6("Graph type:"),
-                    dcc.Dropdown(id = 'plot', value = 'stacked bar', options = ['stacked bar','scatter line'], persistence_type='session', persistence=True),
-                ], className="sidebar"
+            html.H4("Options"),
+            html.H6("Select multiple:", id='choice-title'),
+            dcc.RadioItems(
+            ['Species', 'Regions'], 'Species', inline=True, id='choice', persistence_type='session', persistence=True),
+            html.H6(" "),
+            html.H6("Dataset:"),
+            dcc.Dropdown(id = 'dataset', value='csa', persistence_type='session', persistence=True),
+            html.H6(" "),
+            html.H6("Region:"),
+            dcc.Dropdown(id = 'region', value = 'Afar', persistence_type='session', persistence=True),
+            html.H6(" "),
+            html.H6("Species:"),
+            dcc.Dropdown(id = 'species', value = ['cattle','sheep'],persistence_type='session', persistence=True),
+            html.H6(" "),
+            html.H6("Start year:"),
+            dcc.Dropdown(id = 'start year', value = 2003, persistence_type='session', persistence=True),
+            html.H6(" "),
+            html.H6("End year:"),
+            dcc.Dropdown(id = 'end year', value = 2020, persistence_type='session', persistence=True),
+            html.H6(" "),
+            html.H6("Graph type:"),
+            dcc.Dropdown(id = 'plot', value = 'stacked bar', options = ['stacked bar','scatter line'], persistence_type='session', persistence=True),
+        ], className="sidebar"
             )
     ]
 )
