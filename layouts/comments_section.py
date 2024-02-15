@@ -15,7 +15,7 @@ COMMENT_STYLE = {
 }
 
 COMMENT_TAB_STYLE = {
-   "padding": "1rem 1rem", 
+#    "padding": "1rem 1rem", 
 #    "position":"fixed"
 }
 
