@@ -189,7 +189,7 @@ def render_content(demographic, year, tab):
             style = comments_section.divBorder
             ))
             child.append(html.Br())
-        return dbc.Row(children=
+        return html.Div(children=
             [
                 html.Div(id='comments', children=child)
             ],
@@ -237,7 +237,7 @@ def submit_comment(n_clicks, table, subject, message, name, email, isPublic):
         comment = {
             "created": f'{created}',
             "dashboard": 'datastories',
-            "table": table,
+            "table": "test",
             "subject": subject,
             "message": message,
             "name": name,

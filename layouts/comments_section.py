@@ -69,66 +69,65 @@ comment_area = html.Div(
         ],
 )
 
-comment_add = dbc.Row(children=
+comment_add = html.Div(children=
     [
         html.H4("Add a Comment"),
         html.Hr(),
-        html.H6(" "),
-        # html.Div([
-        #     html.H6("Table:", style={'display': 'inline-block', 'width':'7rem'}),
-        #     dcc.Input(id='comments-table',
-        #         type='text',
-        #         readOnly=True,
-        #         disabled = True,
-        #         style={'display': 'inline-block', 'width':'30rem'}
-        #     )
-        # ]),
-        # html.H6(" "),
-        # html.Div([
-        #     html.H6("Subject:", style={'display': 'inline-block', 'width':'7rem'}),
-        #     dcc.Input(id='comments-subject',
-        #         type='text',
-        #         required=True,
-        #         style={'display': 'inline-block', 'width':'30rem'}
-        #     )
-        # ]),
-        # html.H6(" "),
-        # html.H6("Message:"),
-        # html.H6(" "),
-        # dcc.Textarea(id='comments-message',
-        #     placeholder='Message',
-        #     required=True,
-        #     style={'width':'60%'},
-        # ),
-        # html.H6(" "),
-        # html.Div([
-        #     html.H6("Name:", style={'display': 'inline-block', 'width':'5rem'}),
-        #     dcc.Input(id='comments-name',
-        #         type='text',
-        #         style={'display': 'inline-block', 'width':'20rem'}
-        #     ),
-        #     # html.H6(" ", style={'display': 'inline-block', 'width':'4rem'}),
-        #     html.H6(" Email:", style={'display': 'inline-block', 'width':'5rem'}),
-        #     dcc.Input(id='comments-email',
-        #         type='text',
-        #         style={'display': 'inline-block', 'width':'20rem'}
-        #     )
-        # ]),
-        # html.H6(" "),
-        # html.Div([
-        #     html.H6("Permission to Publish on Dashboard:", style={'display': 'inline-block', 'width':'23rem'}),
-        #     dcc.RadioItems(id='comments-isPublic',
-        #         options=['Yes', 'No'],
-        #         value='No',
-        #         inline=True,
-        #         style={'display': 'inline-block'}
-        #     ),
-        # ]),
-        # html.H6(""),
-        # html.Button('SUBMIT', id='comments-button', n_clicks=0, style={'height':'2rem','width':'5rem'}),
-        # html.H6(""),
-        # html.Div(id='com',
-        #     children='Enter a value and press submit'),
+        html.Br(),
+        dbc.Row([
+           dbc.Col(html.H6("Table:"), width=2),
+           dbc.Col(dcc.Input(id='comments-table',
+                type='text',
+                readOnly=True,
+                disabled = True,
+                style={'width':'30rem'},
+            )),
+        ], style={'width':'40rem'}),
+        html.Br(),
+        dbc.Row([
+           dbc.Col(html.H6("Subject:"), width=2),
+           dbc.Col(dcc.Input(id='comments-subject',
+                type='text',
+                required=True,
+                style={'width':'30rem'}
+            ))
+        ], style={'width':'40rem'}),
+        html.Br(),
+        html.H6("Message:", style={'width':'10rem'}),
+        html.Br(),
+        dcc.Textarea(id='comments-message',
+            placeholder='Message',
+            required=True,
+            style={'width':'40rem'},
+        ),
+        html.Br(),
+        html.Br(),
+        dbc.Row([
+            dbc.Col(html.H6("Name:"), width=1),
+            dbc.Col(dcc.Input(id='comments-name',
+                type='text',
+                style={'width':'20rem'}
+            ), width=5),
+            dbc.Col(html.H6(" Email:"), width=1),
+            dbc.Col(dcc.Input(id='comments-email',
+                type='text',
+                style={'width':'20rem'}
+            ), width=5),
+        ], style={'width':'60rem'}),
+        html.Br(),
+        dbc.Row([
+            dbc.Col(html.H6("Permission to Publish on Dashboard:", style={'width':'23rem'}), width=7),
+            dbc.Col(dcc.RadioItems(id='comments-isPublic',
+                options=['Yes', 'No'],
+                value='No',
+                inline=True,
+            ))
+        ], style={'width':'40rem'}),
+        html.Br(),
+        html.Button('SUBMIT', id='comments-button', n_clicks=0, style={'height':'2rem','width':'5rem'}),
+        html.Br(),
+        html.Br(),
+        html.Div(id='com', children='Enter a value and press submit'),
 
     ],
     style=COMMENT_STYLE,
