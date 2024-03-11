@@ -152,33 +152,25 @@ def update_graph(region, species, start, end, data, plot):
 # comment table tabs
 @app.callback(
         Output('comment-tabs-content', 'children'),
+        Input('choice', 'value'),
         Input('dataset', 'value'),
-        # Input('animal', 'value'),
-        # Input('table', 'value'),
-        Input('start year', 'value'),
-        # Output('comments', 'children'),
+        Input('region', 'value'),
         [Input('comment-tabs', 'active_tab')]
 )
-def render_content(demographic, year, tab):
-    print('test')
+def render_content(choice, dataset, region, tab):
     if tab == 'tab-0':
-        demographic= 'National'
-        animal = 'Cattle'
-        table = 'Sex Distribution'
         #get new comments
         conn = secure.connect_public()
         cur = conn.cursor()
         fieldstring = "created,tablename,subject,message,name,email,ispublic,reviewer"
         #change to not include time
-        querystring = f"dashboard='datastories' AND tablename LIKE '{demographic} {animal} {table}%'"
+        querystring = f"dashboard='ethiopia_regions' AND tablename LIKE '{choice} {dataset} {region}%'"
         querystr = rds.setQuery ("gbads_comments", fieldstring, querystring, "")
         comments = rds.execute ( cur, querystr )
         conn.close()
-        print(comments)
-        child = []
 
+        child = []
         for row in comments:
-            # print(row)
             child.append(html.Div(children=[
                 html.H5(row[4] if row[6] == True else 'Anonymous', style=comments_section.commentHeading),
                 html.H6(row[1], style=comments_section.commentSubheading),
@@ -201,18 +193,22 @@ def render_content(demographic, year, tab):
 # Comment table changing in add comment Tab
 @app.callback(
     Output('comments-table','value'),
-    Input('demographic', 'value'),
-    Input('animal', 'value'),
-    Input('table', 'value'),
-    Input('year', 'value'),
+    Input('choice', 'value'),
+    Input('dataset', 'value'),
+    Input('region', 'value'),
+    Input('species', 'value'),
+    Input('start year', 'value'),
+    Input('end year', 'value'),
+    Input('plot', 'value'),
 )
-def update_comment_table(demographic, animal, table, year):
-    return f'{demographic} {animal} {table} {year[0]}-{year[-1]}'
+def update_comment_table(choice, dataset, region, species, start, end, plot):
+    species.sort()
+    species_str = ','.join(species)
+    return f'{choice} {dataset} {region} {species_str} {start}-{end} {plot}'
 
 # Comment Submition in add comment tab
 @app.callback(
         Output('com', 'children'),
-        # Output('comments-button', 'n_clicks'),
         Output('comments-subject', 'value'),
         Output('comments-message', 'value'),
         Output('comments-name', 'value'),
@@ -236,8 +232,8 @@ def submit_comment(n_clicks, table, subject, message, name, email, isPublic):
         created = datetime.now()
         comment = {
             "created": f'{created}',
-            "dashboard": 'datastories',
-            "table": "test",
+            "dashboard": 'ethiopia_regions',
+            "table": table,
             "subject": subject,
             "message": message,
             "name": name,
