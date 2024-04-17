@@ -1,3 +1,5 @@
+boto3==1.26.161
+cryptography
 dash==2.9.3
 dash_bootstrap_components==1.2.0
 dash_bootstrap_templates==1.0.8

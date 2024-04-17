@@ -18,7 +18,7 @@ from app import app
 from layouts import layout, data_tab, graph_tab, metadata_tab, map_tab, comments_section
 
 # Access AWS Credentials and establish session
-access, secret = s3f.get_keys('utils/')
+access, secret = s3f.get_keys()
 s3_resource = s3f.credentials_resource ( access, secret )
 s3_client = s3f.credentials_client ( access, secret )
 
