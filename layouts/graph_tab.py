@@ -8,7 +8,7 @@ import numpy as np
 from dash.dependencies import Input,Output
 from dash_bootstrap_templates import load_figure_template
 from dash import dash_table
-from layouts import layout
+from layouts import layout, comments_section
 
 def create_bar_plot(df, region, species):
 
@@ -56,7 +56,8 @@ content = dbc.Row(
                 xs=dict(order=1, size=12),
                 sm=dict(order=1, size=3)
                 ),
-        dbc.Col(graph,
+        dbc.Col(
+            [graph, comments_section.comment_area],
                 xs=dict(order=2, size=12),
                 sm=dict(order=2, size='auto'))
     ], className='root-container'
