@@ -145,6 +145,9 @@ def update_graph(region, species, start, end, data, plot):
         fig = graph_tab.create_bar_plot(df, region, species)
     elif plot == 'Scatter Line':
         fig = graph_tab.create_scatter_plot(df, region, species)
+    else:
+        #defaulting to stacked bar
+        fig = graph_tab.create_bar_plot(df, country, species)
 
     return(fig)
 
