@@ -138,7 +138,7 @@ sidebar = html.Div(
             dcc.Dropdown(id = 'end year', value = 2020, persistence_type='session', persistence=True),
             html.H6(" "),
             html.H6("Graph type:"),
-            dcc.Dropdown(id = 'plot', value = 'stacked bar', options = ['Stacked Bar','Scatter Line'], persistence_type='session', persistence=True),
+            dcc.Dropdown(id = 'plot', value = 'Stacked Bar', options = ['Stacked Bar','Scatter Line'], persistence_type='session', persistence=True),
         ], className="sidebar"
             )
     ]
